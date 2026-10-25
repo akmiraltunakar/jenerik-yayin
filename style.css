@@ -1,0 +1,204 @@
+:root {
+  --bg: #d7e6e3;
+  --surface: #f6faf9;
+  --ink: #1f2a2c;
+  --ink-soft: #5e6866;
+  --night: #13282b;
+  --night-raised: #1e3a3e;
+  --on-night: #a9c9c6;
+  --gold: #f2b33d;
+  --coral: #e0573d;
+  --teal: #1f7a7a;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 400 17px/1.6 'Archivo', system-ui, sans-serif;
+}
+
+a { color: var(--teal); }
+
+.wrap {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 22px 0;
+}
+.top img { width: 40px; height: 40px; border-radius: 10px; }
+.top a.brand {
+  font: 850 28px/1 'Archivo', sans-serif;
+  font-stretch: 72%;
+  color: var(--ink);
+  text-decoration: none;
+  letter-spacing: 0.5px;
+}
+.top nav { margin-left: auto; display: flex; gap: 18px; }
+.top nav a {
+  color: var(--ink);
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 1.4px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.box {
+  background: var(--surface);
+  border: 2px solid var(--ink);
+  border-radius: 14px;
+  box-shadow: 0 4px 0 var(--ink);
+}
+
+.tv {
+  background: var(--ink);
+  border-radius: 26px;
+  padding: 10px;
+  box-shadow: 0 5px 0 var(--ink);
+}
+.tube {
+  border-radius: 20px;
+  padding: 36px 28px 40px;
+  color: #fff;
+  background:
+    repeating-linear-gradient(0deg, rgba(0,0,0,.07) 0 1px, transparent 1px 3px),
+    radial-gradient(120% 110% at 50% 30%, #21464a, var(--night) 60%, #0b191b);
+}
+.tube .live {
+  font-weight: 800;
+  font-size: 12px;
+  letter-spacing: 1.6px;
+  color: var(--on-night);
+  text-transform: uppercase;
+}
+.tube .live::before {
+  content: '';
+  display: inline-block;
+  width: 8px; height: 8px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background: var(--coral);
+}
+.tube .kicker {
+  margin: 18px 0 0;
+  font: italic 600 28px/1.1 'Fraunces', serif;
+  color: var(--gold);
+}
+.tube h1 {
+  margin: 4px 0 12px;
+  font: 850 clamp(40px, 9vw, 72px)/0.95 'Archivo', sans-serif;
+  font-stretch: 72%;
+  text-transform: uppercase;
+}
+.tube p { margin: 0; max-width: 34em; color: #dbe9e7; }
+
+.bars {
+  display: flex;
+  height: 10px;
+  margin: 28px 0;
+  border: 2px solid var(--ink);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.bars span { flex: 1; }
+
+.shots {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.shots img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 2px solid var(--ink);
+  border-radius: 18px;
+  box-shadow: 0 4px 0 var(--ink);
+}
+
+.guide { margin: 40px 0 0; }
+.guide h2 {
+  margin: 0;
+  padding-bottom: 6px;
+  font: 850 32px/1 'Archivo', sans-serif;
+  font-stretch: 72%;
+  text-transform: uppercase;
+  border-bottom: 3px solid var(--ink);
+  box-shadow: 0 3px 0 var(--bg), 0 4px 0 var(--ink);
+}
+.guide ul { list-style: none; margin: 8px 0 0; padding: 0; }
+.guide li {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 12px;
+  padding: 14px 0;
+  border-bottom: 1px solid #a9c2bd;
+}
+.guide li b {
+  font: 850 20px/1.2 'Archivo', sans-serif;
+  font-stretch: 72%;
+  text-transform: uppercase;
+}
+.guide li strong { display: block; font-size: 18px; }
+.guide li span { color: var(--ink-soft); font-size: 15px; }
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: 40px;
+}
+.cards .box { padding: 20px; }
+.cards h3 {
+  margin: 0 0 6px;
+  font-size: 13px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+}
+.cards p { margin: 0; font-size: 15px; }
+
+.note {
+  margin: 32px 0 0;
+  font-size: 14px;
+  color: var(--ink-soft);
+}
+
+footer {
+  margin: 48px 0 0;
+  padding: 24px 0 40px;
+  border-top: 1px solid #a9c2bd;
+  font-size: 14px;
+  color: var(--ink-soft);
+}
+footer a { color: var(--ink-soft); }
+
+/* Privacy policy */
+.doc { padding: 28px; margin-bottom: 8px; }
+.doc h1 {
+  margin: 0 0 8px;
+  font: 850 34px/1.05 'Archivo', sans-serif;
+  font-stretch: 80%;
+}
+.doc h2 { margin: 28px 0 6px; font-size: 20px; }
+.doc p, .doc li { font-size: 16px; }
+.doc ul { padding-left: 22px; }
+
+@media (max-width: 640px) {
+  .shots { grid-template-columns: 1fr 1fr; }
+  .shots img:nth-child(3) { display: none; }
+  .cards { grid-template-columns: 1fr; }
+  .guide li { grid-template-columns: 74px 1fr; }
+  .tube { padding: 28px 20px 30px; }
+  .doc { padding: 20px; }
+}
