@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "series": [
     {
       "id": "ezel",
@@ -7024,7 +7024,7 @@
     {
       "id": "s24",
       "characterId": "onur-aksal",
-      "text": "Lösemili oğlunun tedavisi için paraya ihtiyacı olan çalışanına, bir gece karşılığında yardım teklif etti.",
+      "text": "Lösemili oğlunun tedavisi için paraya ihtiyacı olan çalışanına, kabul edilmesi zor bir şart karşılığında yardım teklif etti.",
       "draft": true,
       "source": "en.wikipedia Binbir Gece"
     },
