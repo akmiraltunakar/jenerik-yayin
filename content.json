@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "series": [
     {
       "id": "ezel",
@@ -1332,7 +1332,7 @@
         "Borç yüzünden para karşılığı birini baştan çıkarmayı kabul etti.",
         "Garsonluk yapan, hayalleri büyük bir genç kız.",
         "Oynadığı rol zamanla gerçeğe dönüştü.",
-        "Ömer'in aşkı.",
+        "Sevdiği adam ünlü bir ayakkabı tasarımcısıdır.",
         "Ömer İplikçi'nin sevgilisi."
       ],
       "attrs": {
@@ -1341,7 +1341,8 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "check": "25 Ekim: 4. ipucu yeniden yazıldı (başka karakterle aynı ipucuydu; Ömer ayakkabı tasarımcısı mı?), kontrol et."
     },
     {
       "id": "murat-sarsilmaz",
@@ -1369,7 +1370,7 @@
       "seriesId": "ask-laftan-anlamaz",
       "draft": true,
       "clues": [
-        "İşe başladığı ilk gün patronunun hayatına karıştı.",
+        "İşe başladığı ilk gün patronunun dünyasına girdi.",
         "Neşeli, dürüst ve biraz sakar.",
         "Patronuyla aşk-nefret ilişkisi yaşadı.",
         "Murat'ın aşkı.",
@@ -1381,7 +1382,8 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "check": "25 Ekim: 1. ipucu yeniden yazıldı (cevabın adı ipucundaydı), kontrol et."
     },
     {
       "id": "eda-yildiz",
@@ -1737,7 +1739,7 @@
         "Babasını kaybettiği gece hayatı değişti.",
         "Varlıklı bir ailenin kızı.",
         "Bir polisle birlikte gerçeğin peşine düştü.",
-        "Ömer'in aşkı.",
+        "Komiser Ömer'e âşık oldu.",
         "Soyadı denizi çağrıştırır."
       ],
       "attrs": {
@@ -1746,7 +1748,8 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "check": "25 Ekim: 4. ipucu yeniden yazıldı (başka karakterle aynı ipucuydu; Ömer komiser mi?), kontrol et."
     },
     {
       "id": "feride",
@@ -3112,13 +3115,13 @@
         "cete": false
       },
       "clues": [
-        "Zengin bir ailenin kızıdır.",
+        "Zengin bir ailede büyüdü.",
         "Beynindeki tümör hayatını derinden etkiler.",
         "Piyano öğretmeni ona saplantıyla bağlanıp onu kaçırdı.",
         "Önce Orkun'la, sonra Yaman'la birlikte oldu.",
         "En yakın arkadaşı Eylül'dür."
       ],
-      "check": "Kaynak: tr.wikipedia Medcezir (dizi)",
+      "check": "Kaynak: tr.wikipedia Medcezir (dizi) | 25 Ekim: 1. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
       "draft": true
     },
     {
@@ -3218,12 +3221,12 @@
       },
       "clues": [
         "Cinayet büronun tek kadın polisidir.",
-        "Bürodaki erkeklerin ilgisi tacize varan boyutlara ulaşır.",
+        "Bürodaki erkeklerin ilgisi rahatsız edici boyutlara ulaşır.",
         "Bir seri katil kurbanlarının yanına onun adını bırakır.",
         "Sevgilisi hem gazeteci hem DJ olarak çalışır.",
         "Soyadı değerli bir taşın adıdır."
       ],
-      "check": "Kaynak: tr.wikipedia Şahsiyet (dizi)",
+      "check": "Kaynak: tr.wikipedia Şahsiyet (dizi) | 25 Ekim: 2. ipucu yeniden yazıldı (taciz kelimesi yumuşatıldı), kontrol et.",
       "draft": true
     },
     {
@@ -3595,13 +3598,13 @@
         "cete": false
       },
       "clues": [
-        "Sokakta taciz edilirken tanıştığı adamla evlendi.",
+        "Sokakta başı derdeyken tanıştığı adamla evlendi.",
         "Paris'te evlendi.",
         "Sahte bir psikolog tarafından manipüle edildi.",
         "Yamaç'ın ilk eşidir; üvey kardeşi Emrah'tır.",
         "Su dolu bir cam hücrede boğularak öldü."
       ],
-      "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
+      "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi | 25 Ekim: 1. ipucu yeniden yazıldı (taciz kelimesi yumuşatıldı), kontrol et.",
       "draft": true
     },
     {
@@ -4019,9 +4022,9 @@
         "Annesinin naipliğine son vermek için onunla güç savaşına girdi.",
         "Prenses Farya ile bir aşk yaşadı.",
         "Annesi, imparatorluğun en güçlü valide sultanlarından biridir.",
-        "Kösem Sultan'ın oğludur."
+        "Annesi Kösem Sultan'dır."
       ],
-      "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem",
+      "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem | 25 Ekim: 5. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
       "draft": true
     },
     {
@@ -4103,9 +4106,9 @@
         "Trabzon'da yaşayan bir ailenin gelinidir.",
         "Ailesiyle birlikte İstanbul'a taşındı.",
         "Tahir'in yengesidir.",
-        "Mustafa'nın eşidir."
+        "Kocası Mustafa'dır."
       ],
-      "check": "Kaynak: tr.wikipedia Sen Anlat Karadeniz",
+      "check": "Kaynak: tr.wikipedia Sen Anlat Karadeniz | 25 Ekim: 5. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
       "draft": true
     },
     {
@@ -4227,11 +4230,11 @@
       "clues": [
         "Boşanmanın eşiğindeki bir çiftin kocasıdır.",
         "En yakın arkadaşının oğlunun büyümesine yardım etti.",
-        "Eşiyle bir iş için Amerika'ya gitti.",
+        "Bir iş için ailesiyle Amerika'ya gitti.",
         "Meltem'in kocasıdır; en yakın dostu Selami'dir.",
         "İlk adı Abidin'dir."
       ],
-      "check": "Kaynak: tr.wikipedia Çocuklar Duymasın",
+      "check": "Kaynak: tr.wikipedia Çocuklar Duymasın | 25 Ekim: 3. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
       "draft": true
     },
     {
@@ -4332,11 +4335,11 @@
       "clues": [
         "Zengin bir ailenin kızıdır.",
         "Farklı babalardan iki üvey kardeşi vardır.",
-        "Hamileyken bir hastane binasından atlayarak hayatına son verdi.",
+        "Evliliği trajik bir şekilde sona erdi.",
         "Güney'in eşidir.",
         "Annesi Ebru, anne bir kardeşi Barış'tır."
       ],
-      "check": "Kaynak: en.wikipedia Kuzey Güney",
+      "check": "Kaynak: en.wikipedia Kuzey Güney | 25 Ekim: 3. ipucu yeniden yazıldı (intihar anlatımı çıkarıldı), kontrol et.",
       "draft": true
     },
     {
@@ -4712,9 +4715,9 @@
         "Aynı zamanda bir mafya liderdir.",
         "Çocukluk arkadaşı ona asit attı.",
         "Mahir'e âşık oldu.",
-        "İdam cezası aldıktan sonra cezaevinde hayatına son verdi."
+        "İdam cezasına çarptırıldı."
       ],
-      "check": "Kaynak: en.wikipedia Karadayı",
+      "check": "Kaynak: en.wikipedia Karadayı | 25 Ekim: 5. ipucu yeniden yazıldı (intihar anlatımı çıkarıldı), kontrol et.",
       "draft": true
     },
     {
@@ -5213,12 +5216,12 @@
       },
       "clues": [
         "Bir terör saldırısında eşini ve kızını kaybetti.",
-        "Acısıyla intihara kalkıştı ve dört aracın karıştığı bir kazaya yol açtı.",
+        "Acısıyla dört aracın karıştığı bir kazaya yol açtı.",
         "İstanbul Emniyeti Organize Şube'de başkomiserdir.",
         "Zeynep'in yetimhaneden arkadaşıdır.",
         "Öz babası dizinin seri katilidir."
       ],
-      "check": "Kaynak: en.wikipedia Çarpışma",
+      "check": "Kaynak: en.wikipedia Çarpışma | 25 Ekim: 2. ipucu yeniden yazıldı (intihar girişimi çıkarıldı), kontrol et.",
       "draft": true
     },
     {
@@ -5423,12 +5426,12 @@
       },
       "clues": [
         "Sonradan ağabeyinin sağ kolu oldu.",
-        "Bir genelev çalışanıyla evlendi.",
+        "Geçmişi yüzünden dışlanan bir kadınla evlendi.",
         "Bir polis komiserini vurduğu için hapse girdi.",
         "Mahir'in baba bir kardeşidir.",
         "Babası Nazif, eşi Zehra'dır."
       ],
-      "check": "Kaynak: en.wikipedia Karadayı",
+      "check": "Kaynak: en.wikipedia Karadayı | 25 Ekim: 2. ipucu yeniden yazıldı (genelev ifadesi yumuşatıldı), kontrol et.",
       "draft": true
     },
     {
@@ -6594,8 +6597,8 @@
       "ozan-sezin",
       "asiye-eren",
       "feride-sadoglu",
-      "turhan-sultan",
       "fatmagul",
+      "turhan-sultan",
       "zeynep-tezel",
       "iv-murad",
       "feriha-yilmaz",
@@ -6603,13 +6606,13 @@
       "meryem-tezel",
       "elif-aslanbey",
       "dalyan-riza",
-      "mihrimah-sultan",
+      "zuleyha",
       "levent-alkanli",
       "makbule",
       "demir-yaman",
       "halime-sultan",
       "nazli-gulengul",
-      "zuleyha",
+      "mihrimah-sultan",
       "nihal-ziyagil",
       "ilgaz-kaya",
       "zehra-balaban",
@@ -6622,8 +6625,8 @@
       "defne-topal",
       "doruk-atakul",
       "artuk-bey",
-      "banu-sinaner",
       "serkan-bolat",
+      "banu-sinaner",
       "kadir-eren",
       "fikri-elibol",
       "emanuel-karasu",
@@ -6641,10 +6644,10 @@
       "eda-yildiz",
       "firuze-hatun",
       "omer-atmaca",
-      "asiye-kaleli",
+      "sanem-aydin",
       "asli-sutcuoglu",
       "kuzey-tekinoglu",
-      "sanem-aydin",
+      "asiye-kaleli",
       "aya-nikola",
       "melek",
       "husnu-coban",
@@ -6692,8 +6695,8 @@
       "ercument-cozer",
       "safiye-sultan",
       "ebussuud-efendi",
-      "pembe-unal",
       "miran-aslanbey",
+      "pembe-unal",
       "sehzade-cihangir",
       "selcan-hatun",
       "mustafa-unal",
@@ -6712,9 +6715,9 @@
       "yavuz",
       "sevket-c",
       "mecnun",
-      "adil-erinc",
-      "fatih-unal",
       "reyyan-sadoglu",
+      "fatih-unal",
+      "adil-erinc",
       "ali-kirgiz",
       "suzan-ercan",
       "bala-hatun",
@@ -6740,9 +6743,9 @@
       "omer-iplikci",
       "yamac-kocovali",
       "hande-gezgin",
-      "sengul-eren",
-      "ferit-korhan",
       "umut",
+      "ferit-korhan",
+      "sengul-eren",
       "hunkar-yaman",
       "selen-yalcindag",
       "neriman-iplikci",
@@ -6755,8 +6758,8 @@
       "sehrazat",
       "sena-kocovali",
       "muzaffer",
-      "ferhunde",
       "omer-demir",
+      "ferhunde",
       "orhan-korhan",
       "baris-hakmen",
       "suna-sanli",
@@ -6776,8 +6779,8 @@
       "riza-baba",
       "ates-acar",
       "belgin-ture",
-      "riza-yilmaz",
       "inci-ozdemir",
+      "riza-yilmaz",
       "agah-beyoglu",
       "koray-onat",
       "hatice-sultan",
@@ -6797,8 +6800,8 @@
       "tuncay-kantarci",
       "kerim-ilgaz",
       "leyla-aydin",
-      "yaren-sadoglu",
       "sarp-yilmaz",
+      "yaren-sadoglu",
       "aslan-akbey",
       "neriman",
       "bamsi-beyrek",
@@ -6808,11 +6811,11 @@
       "orhan-bey",
       "halo-dayi",
       "eylem-aydin",
-      "prens-sabahaddin",
+      "eysan-tezcan",
       "tahsin-sutcuoglu",
       "nefes",
       "volkan-sutcuoglu",
-      "eysan-tezcan",
+      "prens-sabahaddin",
       "fekeli",
       "hayalet",
       "hafsa-sultan",
@@ -6825,8 +6828,8 @@
       "ceylin-erguvan",
       "sehzade-mustafa",
       "vartolu",
-      "ibn-i-arabi",
       "ezel-bayraktar",
+      "ibn-i-arabi",
       "kamran",
       "kerem-akar",
       "kurdoglu-bey",
