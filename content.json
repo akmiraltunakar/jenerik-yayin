@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "series": [
     {
       "id": "ezel",
@@ -517,7 +517,14 @@
         "kanun": false,
         "cete": true
       },
-      "check": "Sorgu: Yeraltı dünyasının içinde sayılır mı? (şu an evet)"
+      "check": "Sorgu: Yeraltı dünyasının içinde sayılır mı? (şu an evet)",
+      "taboo": [
+        "Ömer",
+        "İntikam",
+        "Kumarhane",
+        "Eyşan",
+        "Kenan İmirzalıoğlu"
+      ]
     },
     {
       "id": "ramiz-dayi",
@@ -537,7 +544,14 @@
         "kotu": false,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Yeğen",
+        "Tuncel Kurtiz",
+        "Selma",
+        "Racon",
+        "Dayı"
+      ]
     },
     {
       "id": "polat-alemdar",
@@ -557,7 +571,14 @@
         "kotu": false,
         "kanun": true,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Elif",
+        "Çakır",
+        "Aslan Akbey",
+        "Memati",
+        "Necati Şaşmaz"
+      ]
     },
     {
       "id": "memati-bas",
@@ -577,7 +598,14 @@
         "kotu": false,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Usta",
+        "Gürkan Uygun",
+        "Polat",
+        "Tetikçi",
+        "Kara"
+      ]
     },
     {
       "id": "bihter-ziyagil",
@@ -597,7 +625,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Behlül",
+        "Adnan",
+        "Firdevs",
+        "Beren Saat",
+        "Matmazel"
+      ]
     },
     {
       "id": "behlul-haznedar",
@@ -617,7 +652,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Amca",
+        "Kaçış",
+        "Kıvanç Tatlıtuğ",
+        "Bihter",
+        "Yalı"
+      ]
     },
     {
       "id": "firdevs-yoreoglu",
@@ -638,7 +680,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Sorgu: Kötü karakter sayılır mı?"
+      "check": "Sorgu: Kötü karakter sayılır mı?",
+      "taboo": [
+        "Nebahat Çehre",
+        "Anne",
+        "Gurur",
+        "Para",
+        "Köşk"
+      ]
     },
     {
       "id": "behzat-c",
@@ -659,7 +708,14 @@
         "kanun": true,
         "cete": false
       },
-      "check": "Tester: \"yardımcı\" kelimesi Harun ipucuyla çelişiyordu"
+      "check": "Tester: \"yardımcı\" kelimesi Harun ipucuyla çelişiyordu",
+      "taboo": [
+        "Harun",
+        "Cinayet",
+        "Akbaba",
+        "Hayalet",
+        "Vosvos"
+      ]
     },
     {
       "id": "mecnun",
@@ -679,7 +735,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Leyla",
+        "Çöl",
+        "İsmail Abi",
+        "Erdal Bakkal",
+        "Kireçburnu"
+      ]
     },
     {
       "id": "erdal-bakkal",
@@ -699,7 +762,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Çay",
+        "Bakkaliye",
+        "Tuzluk",
+        "Cengiz Bozkurt",
+        "Veresiye"
+      ]
     },
     {
       "id": "kemal-soydere",
@@ -760,7 +830,14 @@
         "kotu": false,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Çukur",
+        "Dövme",
+        "Sena",
+        "Gitar",
+        "Koçovalı"
+      ]
     },
     {
       "id": "idris-kocovali",
@@ -780,7 +857,14 @@
         "kotu": false,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Babamız",
+        "Mahalle",
+        "Sultan",
+        "Tespih",
+        "Çukur"
+      ]
     },
     {
       "id": "tahir-kaleli",
@@ -820,7 +904,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Ağzımızın Tadı",
+        "Emekli",
+        "Baba",
+        "Ferhunde",
+        "Köşk"
+      ]
     },
     {
       "id": "hurrem-sultan",
@@ -840,7 +931,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Meryem Uzerli",
+        "Kanuni",
+        "Saray",
+        "Entrika",
+        "Sultan"
+      ]
     },
     {
       "id": "pargali-ibrahim",
@@ -900,7 +998,14 @@
         "kotu": false,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Polat",
+        "Memati",
+        "Zaza",
+        "İstihbarat",
+        "Sessiz"
+      ]
     },
     {
       "id": "adnan-ziyagil",
@@ -1021,7 +1126,14 @@
         "kotu": false,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Sadettin",
+        "Salih",
+        "Medet",
+        "Çukur",
+        "Kırmızı Takım"
+      ]
     },
     {
       "id": "halime-sultan",
@@ -1242,7 +1354,14 @@
         "kotu": true,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Gelin",
+        "Entrika",
+        "Şevket",
+        "Deniz Çakır",
+        "Yalan"
+      ]
     },
     {
       "id": "kuzey-tekinoglu",
@@ -2408,7 +2527,14 @@
         "Soyadı değerli bir maden ile bir oyun topunun birleşimidir."
       ],
       "check": "Kaynak: tr.wikipedia Avrupa Yakası (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Nişantaşı",
+        "Makbule",
+        "Çizgili Pijama",
+        "Tokat",
+        "Dergi"
+      ]
     },
     {
       "id": "volkan-sutcuoglu",
@@ -2429,7 +2555,14 @@
         "Babası Tahsin, annesi İffet'tir."
       ],
       "check": "Kaynak: tr.wikipedia Avrupa Yakası (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ata Demirer",
+        "Fındık Fıstık",
+        "Aslı",
+        "İtiraf",
+        "Müzik"
+      ]
     },
     {
       "id": "asli-sutcuoglu",
@@ -2450,7 +2583,14 @@
         "Kardeşi Volkan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Avrupa Yakası (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Gülse Birsel",
+        "Cem",
+        "Ofis",
+        "Dergi",
+        "Volkan"
+      ]
     },
     {
       "id": "tahsin-sutcuoglu",
@@ -2681,7 +2821,14 @@
         "Ömer onun için hayatını verebilirdi."
       ],
       "check": "Kaynak: tr.wikipedia Ezel (dizi). Sorgu: 'kötü' = evet (ihanet), kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cengiz",
+        "Ömer",
+        "İhanet",
+        "Bahar",
+        "Aldatmak"
+      ]
     },
     {
       "id": "cengiz-atay",
@@ -2702,7 +2849,14 @@
         "Ömer'in çocukluk arkadaşıdır."
       ],
       "check": "Kaynak: tr.wikipedia Ezel (dizi). Sorgu: 'mafyadan' = evet, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kumarhane",
+        "Arkadaş",
+        "Otel",
+        "İhanet",
+        "Ezel"
+      ]
     },
     {
       "id": "ali-kirgiz",
@@ -2723,7 +2877,14 @@
         "Lakabı Kerpeten'dir."
       ],
       "check": "Kaynak: tr.wikipedia Ezel (dizi). Eski listede 'Ali Kemal' yazıyordu, kaldırıldı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kerpeten",
+        "Soygun",
+        "Tefo",
+        "Ezel",
+        "Dayı"
+      ]
     },
     {
       "id": "kenan-birkan",
@@ -2807,7 +2968,14 @@
         "Alternatif finalde akvaryumda yaşayan bir Japon balığı olduğu anlaşıldı."
       ],
       "check": "Kaynak: tr.wikipedia Leyla ile Mecnun (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "O Gemi Gelecek",
+        "Pul",
+        "Kireçburnu",
+        "Serkan Keskin",
+        "Ceket"
+      ]
     },
     {
       "id": "eren-duman",
@@ -3395,7 +3563,14 @@
         "Avukatı Elif Eylül'dü."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Oktay Kaynarca",
+        "Laz Ziya",
+        "Nesrin",
+        "Kumarhane",
+        "Racon"
+      ]
     },
     {
       "id": "elif-eylul",
@@ -3416,7 +3591,14 @@
         "Polat Alemdar'ın sevgilisi; Süleyman Çakır'ın avukatıydı."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Polat",
+        "Avukat",
+        "Ali",
+        "Kaza",
+        "Aşk"
+      ]
     },
     {
       "id": "aslan-akbey",
@@ -6481,7 +6663,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Gibi",
+        "Feyyaz Yiğit",
+        "İlkkan",
+        "Kavga",
+        "Absürt"
+      ]
     },
     {
       "id": "ilkkan-gibi",
@@ -6501,7 +6690,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Kıvanç Kılınç",
+        "Haklısın",
+        "Sosyoloji",
+        "Yılmaz",
+        "Arkadaş"
+      ]
     },
     {
       "id": "ersoy-gibi",
@@ -6521,7 +6717,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Büfe",
+        "Çay",
+        "Ahmet Kürşat Öçalan",
+        "Gibi",
+        "Genç"
+      ]
     },
     {
       "id": "prens-bongomia",
@@ -6541,7 +6744,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Giray Altınok",
+        "Bongomia",
+        "Taht",
+        "Saray",
+        "Komedi"
+      ]
     },
     {
       "id": "kaptan-vandyke",
@@ -6621,7 +6831,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Şukufe",
+        "Ulvi",
+        "Koyu Bilal",
+        "Miras",
+        "Ufuk Özkan"
+      ]
     },
     {
       "id": "koyu-bilal",
@@ -6641,7 +6858,14 @@
         "kotu": true,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Şukufe",
+        "Cevahir",
+        "Düşman",
+        "Fırat Tanış",
+        "Mahalle"
+      ]
     },
     {
       "id": "ulvi-genis-aile",
@@ -6661,7 +6885,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Yetersiz",
+        "Saf",
+        "Cevahir",
+        "Çırak",
+        "Bülent Çolak"
+      ]
     },
     {
       "id": "osman-aga",
@@ -6681,7 +6912,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Trakya",
+        "Akasya",
+        "Şoför",
+        "Dilek",
+        "Cezmi Baskın"
+      ]
     },
     {
       "id": "sinan-kaya",
@@ -6701,7 +6939,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Levent Ülgen",
+        "Üçkâğıt",
+        "Kaynana",
+        "Şaziment",
+        "Taksici"
+      ]
     },
     {
       "id": "azem-yucedag",
@@ -6780,6 +7025,13 @@
         "Dağlık arazilerde ve gizli operasyonlarda uzun yıllar görev yapmış eski bir tim lideridir.",
         "\"Sadece ölüler görür\" sözüyle hasımlarının karşısına dikilen gizemli bir profesyoneldir.",
         "Yanından ayırmadığı ekibiyle şehre inmiş, Polat Alemdar ile girdiği amansız mücadeleyle diziye damga vurmuştur."
+      ],
+      "taboo": [
+        "Güneş Gözlüğü",
+        "Sadece Ölüler Görür",
+        "Tim",
+        "Tetikçi",
+        "Çete"
       ]
     },
     {
@@ -6799,6 +7051,13 @@
         "Tespihi, yelekli takım elbisesi ve bilge sözleriyle etrafındakilere yol gösterir.",
         "Süleyman Çakır'ın hem dert ortağı hem de en güvendiği aile büyüğü gibidir.",
         "Güllü Erhan'ın amcası olan bu emektar kabadayı, sadakati ve babacan tavrıyla sevilmiştir."
+      ],
+      "taboo": [
+        "Güllü Erhan",
+        "Süleyman Çakır",
+        "Kahvehane",
+        "Dayı",
+        "Tespih"
       ]
     },
     {
@@ -6837,6 +7096,13 @@
         "Yanında çıraklık yapan saf yardımcısına sürekli çıkışıp ensesine tokat atmasıyla meşhurdur.",
         "Gizli atölyesinde çalışırken oğlu Erdal'a sürekli sert bir ifadeyle bağırmıştır.",
         "Atölyede sızan zehirli dumanlar yüzünden trajik biçimde can veren tekinsiz kimyacıdır."
+      ],
+      "taboo": [
+        "Laboratuvar",
+        "İt",
+        "Erdoğan Erpenek",
+        "Hırka",
+        "Bıyık"
       ]
     },
     {
@@ -6856,6 +7122,13 @@
         "Aile büyüğünün vefatından sonra emanet olarak genç yaşta bu zorlu dünyaya katılmıştır.",
         "Seyfo Dayı'nın yeğeni olarak Süleyman Çakır ve Memati Baş ile operasyonlarda görev almıştır.",
         "Polat Alemdar'ın en sadık yol arkadaşlarından biri olan, güler yüzlü ekip üyesidir."
+      ],
+      "taboo": [
+        "Kravat",
+        "Gül",
+        "Polat",
+        "Şişman",
+        "Neşeli"
       ]
     },
     {
@@ -6894,6 +7167,13 @@
         "\"Beni beğenmiyor musun?\" sorusuyla çevresindekileri bezdiren takıntılı bir mahalle sakinidir.",
         "Burhan Altıntop'un dairesine sürekli musallat olan, Makbule'ye ise platonik hisler besleyen komşudur.",
         "Sütçüoğlu rezidansının alt katında yaşayan, çizgili pijaması ekran klasiği haline gelen karakterdir."
+      ],
+      "taboo": [
+        "Ekmek Bıçağı",
+        "Pijama",
+        "Burhan",
+        "Beni Beğenmiyor Musun",
+        "Terlik"
       ]
     },
     {
@@ -7065,6 +7345,13 @@
         "Geçmişinde askeri keskin nişancı eğitimi almış olduğu ortaya çıkan sıra dışı bir figürdür.",
         "İdris Koçovalı'nın mahalledeki en sadık dostu ve güvendiği sırdaşıdır.",
         "Yamaç Koçovalı'ya çorba yapıp ona en çaresiz anlarında destek olan, mahallenin masum simgesidir."
+      ],
+      "taboo": [
+        "Çöp",
+        "Sayılar",
+        "Gazete",
+        "Çorba",
+        "Dahi"
       ]
     },
     {
