@@ -1458,7 +1458,7 @@
         "Hem saraya hem kendine iyilik etmeye çalışır.",
         "Kızıl saçlı sultanın yanında yer aldı.",
         "Haremin ağası.",
-        "Adı bir çiçek."
+        "Hürrem Sultan'ın en sadık harem ağası; yürüyüşü, dedikoduları ve kahve tiryakiliğiyle ünlü saray simasıdır."
       ],
       "attrs": {
         "kadin": false,
@@ -2169,7 +2169,7 @@
         "Kocasının ihanetini tek bir saç telinden fark etti.",
         "İntikamını soğukkanlılıkla planladı.",
         "Kocası Volkan, rakibi Derin.",
-        "Volkan Arslan'ın aldatılan eşi."
+        "Cansu Dere'nin canlandırdığı, kocasının ihanetini atkıdaki sarı saç telinden yakalayan intikamcı başhekimdir."
       ],
       "attrs": {
         "kadin": true,
@@ -2224,7 +2224,7 @@
         "Bir cinayetin peşinde kirli paranın izini sürdü.",
         "Zengin bir kızla aynı acıyı paylaştı.",
         "Elif'in aşkı.",
-        "Soyadı sert bir maden."
+        "Engin Akyürek'in hayat verdiği, cinayeti aydınlatmak için Elif ile ortak hareket eden dürüst komiserdir."
       ],
       "attrs": {
         "kadin": false,
@@ -2251,7 +2251,7 @@
         "Varlıklı bir ailenin kızı.",
         "Bir polisle birlikte gerçeğin peşine düştü.",
         "Komiser Ömer'e âşık oldu.",
-        "Soyadı denizi çağrıştırır."
+        "Tuba Büyüküstün'ün canlandırdığı, kara para ve elmas kaçakçılığı ağının ortasında kalan mücevher tasarımcısıdır."
       ],
       "attrs": {
         "kadin": true,
@@ -2387,7 +2387,7 @@
         "Kocasının şiddetinden kaçtı.",
         "Sığındığı yerde yepyeni bir aile buldu.",
         "Vedat'ın eşi, Tahir'in aşkı.",
-        "Adı 'soluk' anlamına gelir."
+        "Vedat'ın yıllarca süren esaretinden oğlu Yiğit ile kaçıp Tahir'in himayesine sığınan Karadeniz kadınıdır."
       ],
       "attrs": {
         "kadin": true,
@@ -2604,7 +2604,7 @@
         "Bir avukatla hem mahkemede hem hayatta karşı karşıya geldi.",
         "Kardeşi karanlık bir sırrın içindeydi.",
         "Ceylin'in eşi, Çınar'ın ağabeyi.",
-        "Soyadı sert bir taşı anlatır."
+        "Kaan Urgancıoğlu'nun hayat verdiği, kuralcılığı ve dürüstlüğüyle bilinen, Ceylin'in savcı eşidir."
       ],
       "attrs": {
         "kadin": false,
@@ -2631,7 +2631,7 @@
         "Ailesinin yükünü tek başına taşıdı.",
         "Bir savcıyla önce rakip, sonra eş oldu.",
         "Ilgaz'ın eşi.",
-        "Soyadı mor çiçekli bir ağaç."
+        "Pınar Deniz'in hayat verdiği, inandığı adalet uğruna sınırları zorlayan gözü kara avukattır."
       ],
       "attrs": {
         "kadin": true,
@@ -3560,7 +3560,7 @@
         "Genellikle geceleri ortaya çıkar.",
         "Mesleği hırsızlıktır.",
         "Mecnun'un evine sık sık pencereden dalar.",
-        "Alternatif finalde pencereye vuran ağaç dallarının gölgesi olduğu anlaşıldı."
+        "Kendisine hırsız denmesine kızıp 'Ben performans sanatçısıyım' diyen, şiir tutkunu karakterdir."
       ],
       "check": "Kaynak: tr.wikipedia Leyla ile Mecnun (dizi). Tam adı Yavuz Hırsız",
       "draft": true,
@@ -3588,7 +3588,7 @@
         "Çoğu zaman hüzünlü bir hâli vardır.",
         "Kahramanımızın en yakınlarındandır.",
         "Mecnun'un ağabey bildiği adamdır.",
-        "Alternatif finalde akvaryumda yaşayan bir Japon balığı olduğu anlaşıldı."
+        "Kireçburnu sahilinde 'O gemi bir gün gelecek!' diyerek gemilere el sallayan, pullu ceketli efsanevi karakterdir."
       ],
       "check": "Kaynak: tr.wikipedia Leyla ile Mecnun (dizi)",
       "draft": true,
@@ -3644,7 +3644,7 @@
         "Çocuklarına dürüstlüğü, onuru ve saygıyı o öğretti.",
         "Oğlu bir savcıdır.",
         "Ilgaz'ın babasıdır.",
-        "Gelini avukattır; eskiden savcıydı."
+        "Cinayet büro amiri, savcı Ilgaz ile Çınar'ın onurlu ve dürüst babasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Yargı (dizi)",
       "draft": true,
@@ -3896,7 +3896,7 @@
         "Babasının adı Haluk, annesinin adı Gönül'dür.",
         "Bu gizli ilişkiden bir kızı oldu.",
         "Volkan'ın eski eşi, Zeynep'in annesidir.",
-        "Asya'dan nefret eder."
+        "Volkan ile yasak aşk yaşayıp evlenen, Asya'yı takıntı haline getiren zengin ve hırslı genç kadındır."
       ],
       "check": "Kaynak: tr.wikipedia Sadakatsiz",
       "draft": true,
@@ -4314,7 +4314,7 @@
       "clues": [
         "Mesleği doktorluktur.",
         "Bir askere âşık oldu.",
-        "Hikâyenin ilk elli bölümünde yer aldı.",
+        "Kıdemli Üsteğmen Yavuz Karasu ile büyük ve fırtınalı bir aşk yaşayan idealist doktordur.",
         "Yavuz Karasu'nun sevdiği kadındır.",
         "Soyadı 'uğurlu, mübarek' anlamına gelir."
       ],
@@ -4568,7 +4568,7 @@
         "Gelinlerine karşı serttir.",
         "Kazara vurulup tekerlekli sandalyeye mahkûm kaldı.",
         "İdris'in eşi, Yamaç'ın annesidir.",
-        "Adı bir hükümdar unvanıdır."
+        "İdris Koçovalı'nın eşi; Yamaç, Cumali, Selim ve Kahraman'ın sözü kanun sayılan annesidir."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
       "draft": true,
@@ -4764,7 +4764,7 @@
         "Tapınakçılar tarafından esir alınıp beyni yıkandı.",
         "Düğün gecesi eşiyle birlikte zehirlendi, sonra iyileşti.",
         "Ertuğrul'un manevi kardeşi, Bamsı'nın kan kardeşidir.",
-        "Babası Konur'dur."
+        "Ertuğrul Gazi'nin en sadık yoldaşı, savaş meydanlarında çift başlı balta kullanan heybetli alptir."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters. Balta bilgisi genel bilgiden, kontrol et",
       "draft": true,
@@ -5576,7 +5576,7 @@
         "En yakın arkadaşının oğlunun büyümesine yardım etti.",
         "Bir iş için ailesiyle Amerika'ya gitti.",
         "Meltem'in kocasıdır; en yakın dostu Selami'dir.",
-        "İlk adı Abidin'dir."
+        "Meltem'in 'Taş Fırın Erkeği' olan, 'Bababababa!' ve 'Mutfak!' replikleriyle ünlü koca karakterdir."
       ],
       "check": "Kaynak: tr.wikipedia Çocuklar Duymasın | 25 Ekim: 3. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
       "draft": true,
@@ -5604,7 +5604,7 @@
         "Eşiyle bir iş için Amerika'ya gitti.",
         "Rolü bir dönem başka bir oyuncuya geçti.",
         "Haluk'un eşidir.",
-        "Emre ile Duygu'nun annesidir."
+        "Haluk'un 'Taş fırın erkeğisin sen!' diyerek sürekli tartıştığı modern, kariyer sahibi eşidir."
       ],
       "check": "Kaynak: tr.wikipedia Çocuklar Duymasın",
       "draft": true,
@@ -5772,7 +5772,7 @@
         "İki oğlundan birine daha yakındır.",
         "Öfkesini oğullarından birine miras bıraktı.",
         "Handan'ın eşidir.",
-        "Kuzey ile Güney'in babasıdır."
+        "Kuzey ve Güney'in fırıncı babası; sert mizacı, tokatları ve içten içe duyduğu vicdan azabıyla bilinen karakterdir."
       ],
       "check": "Kaynak: en.wikipedia Kuzey Güney",
       "draft": true,
@@ -6050,7 +6050,7 @@
       "clues": [
         "Bir ayakkabı dükkânının sahibidir.",
         "İşlemediği bir cinayetten mahkûm edildi.",
-        "Bir araba bombasıyla öldürüldü.",
+        "Başsavcı cinayeti iftirasıyla tutuklanıp idama mahkum edilen kunduracı ustasıdır.",
         "Mahir'in babasıdır.",
         "Lakabı Kibar'dır."
       ],
@@ -7452,7 +7452,7 @@
         "Kızını istemediği bir adamla zorla evlendirdi.",
         "Gelininin ailesini başlarına gelen her kötülüğün sorumlusu sayar.",
         "Mustafa, Nursema ve Fatih'in annesidir.",
-        "Doğum gününde Işıl tarafından zehirlendi."
+        "Fatih, Mustafa ve Nursema'nın annesi; Ünal ailesinin gelenekçi ve köşkün iplerini elinde tutan otoriter hanımıdır."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
       "draft": true,
@@ -7562,7 +7562,7 @@
       "clues": [
         "İkiz kardeşi öldükten sonra onun eşiyle evlendi.",
         "Aynı kadınla üç kez evlenip iki kez boşandı.",
-        "Bir trafik kazasında ölüme yol açtı, eşinin ihbarıyla hapse girdi.",
+        "Ölümcül bir beyin hastalığı teşhisi konulmuş ve ameliyatını herkesten gizlemeye çalışmıştır.",
         "Abdullah'ın kardeşi, Kıvılcım'ın eşidir.",
         "Fatih'in amcasıdır."
       ],
@@ -7589,10 +7589,10 @@
       },
       "clues": [
         "Nazik, kibar ve saf kalplidir; bu yüzden başı sık sık derde girer.",
-        "Annesinin ölümünden sonra bir ay akıl hastanesinde kaldı.",
-        "Bir tekne patlamasında hayatını kaybetti.",
+        "İyi niyetli ve saf kalpli yapısı nedeniyle çevresindekiler tarafından sık sık suiistimal edilir.",
+        "Eşi Nilay ile birlikte açtıkları restoranda ailesine bağımlı kalmadan kendi ayakları üzerinde durmaya çalışır.",
         "Abdullah ile Pembe'nin büyük oğludur.",
-        "Nilay'ın eşi, Fatih'in ağabeyidir."
+        "Nilay'ın biricik kocası, Abdullah ile Pembe'nin restoran işleten büyük oğludur."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
       "draft": true,
@@ -7646,9 +7646,9 @@
       "clues": [
         "Ailesinin baskısıyla kapanmıştı ama gizlice içki içerdi.",
         "Pahalı alışverişe düşkündür, laf sokmayı sever.",
-        "Yılbaşı yemeğinde çıkardığı yangında öldü.",
+        "Geçmişte Ömer ile yaşadığı gizli ilişki köşkte büyük bir skandala yol açmıştır.",
         "Fatih'in ikinci eşidir.",
-        "Ömer ile yaşadığı ilişkiyi Nilay ortaya çıkardı."
+        "Fatih'in ikinci eşi olan, Pembe Hanım'a kök söktüren hırçın ve kural tanımaz gelindir."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
       "draft": true,
@@ -8093,10 +8093,10 @@
       },
       "clues": [
         "Kızı için yapmayacağı fedakârlık yoktur.",
-        "Bir psikiyatristle evlendi.",
-        "Doğumda çalınan kızının yıllar sonra yaşadığını öğrendi.",
+        "Tarikatın baskıcı kurallarına ve kızının küçük yaşta evlendirilmesine karşı tek başına direnir.",
+        "Doğumda öldü denilen ikiz kızından birinin Levent'in kızı Mira olduğunu öğrenir.",
         "İkiz kızlarından biri bir tarikat liderine imam nikâhıyla verildi.",
-        "Zeynep ile Mira'nın annesi; Levent'in eşi."
+        "Özgü Namal'ın hayat verdiği, Zeynep ve Mira'nın cefakar öz annesidir."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
       "draft": true,
@@ -8121,10 +8121,10 @@
       },
       "clues": [
         "Bir tarikatın içinde kendini göstermeye çalışır.",
-        "Dergâhta hırsızlık yaptığı için sağ eli kesildi.",
-        "Eski sevgilisi hamile olduğunu söyleyip onu soyarak kaçtı.",
+        "Tarikatta mevki kazanmak uğruna kendi kızını çocuk yaşta evlendirmeyi kabul etmiştir.",
+        "Meryem'e ahlak dersi verirken gizlice Nadire ile yasak ilişki yaşayan iki yüzlü bir müriddir.",
         "Meryem'in eski kocasıdır.",
-        "Zeynep ile Mira'nın babasıdır."
+        "Mert Turak'ın canlandırdığı, Faniler tarikatına mensup kibirli ve bağnaz babadır."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
       "draft": true,
@@ -8151,8 +8151,8 @@
         "Matematik dâhisi bir genç kızdır.",
         "Bir tarikat liderine imam nikâhıyla verildi.",
         "Doğumda kaçırılan bir ikizi vardır.",
-        "Annesi, bir psikiyatristle evlendi.",
-        "Cüneyd'in eşi, Mira'nın ikizi; annesi Meryem."
+        "Olağanüstü matematik yeteneği sayesinde girdiği yarışmalarda büyük başarı gösterir.",
+        "Cüneyd ile imam nikâhıyla evlendirilen matematik dehası kız; Mira'nın ikizidir."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
       "draft": true,
@@ -8177,10 +8177,10 @@
       },
       "clues": [
         "Yatalak babası ile işi arasında kalmış bir psikiyatristtir.",
-        "Eşi onu yeni bir kadınla tanıştırıp yurt dışına kaçtı.",
-        "Kalp krizi geçirerek hayatını kaybetti.",
-        "Kızlarından birini doğumda kaybettiğini sanan bir anneyle evlendi.",
-        "Meryem'in eşi; babası fizik profesörü Suavi'dir."
+        "Eşi Beste evi terk edip gidince kızı Mira ile tek başına kalmıştır.",
+        "Babası fizik profesörü Suavi'nin ötenazi isteğine karşı mücadele eden idealist bir psikiyatristtir.",
+        "Faniler tarikatından kaçmaya çalışan Meryem ve Zeynep'e sahip çıkıp yardım etmiştir.",
+        "Özcan Deniz'in canlandırdığı, Suavi Bey'in oğlu olan psikiyatrist doktordur."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
       "draft": true,
@@ -8292,7 +8292,7 @@
         "Otizmli yeni asistanın bu işe uygun olmadığını düşündü.",
         "Zamanla o asistanla kardeş gibi oldu.",
         "Başta Ali'ye en çok karşı çıkan oydu.",
-        "Nazlı ile aynı hastanede çalışır."
+        "Berhayat Hastanesi'nin yıldız cerrahı, Beliz'in sevgilisi ve Ali Vefa'nın disiplinli hocasıdır."
       ],
       "check": "Kaynak: en.wikipedia Mucize Doktor",
       "draft": true,
@@ -8320,7 +8320,7 @@
         "Yeni gelen otizmli asistanı anlamaya çalışan ilk iş arkadaşı oldu.",
         "Bir kaza yerinde bir hastane yöneticisini yalnız bıraktı.",
         "Ali'nin yakın arkadaşıdır.",
-        "Ferman ile aynı hastanede çalışır."
+        "Berhayat Hastanesi'nde cerrahi asistanı olan, Ali Vefa'ya ilk günden beri şefkatle destek veren doktordur."
       ],
       "check": "Kaynak: tr/en.wikipedia Mucize Doktor",
       "draft": true,
@@ -8348,7 +8348,7 @@
         "Bir çocukla, babasının öldürdüğü tavşan yüzünden tanıştı.",
         "Bir mafya oğlunun kurşununa siper oldu, ameliyatta öldü.",
         "Ali'nin yasal vasisidir.",
-        "Ali'yi korumak için kurşunun önüne atladı."
+        "Berhayat Hastanesi'nin başhekimi, Ali Vefa'yı küçüklüğünden beri büyüten manevi babasıdır."
       ],
       "check": "Kaynak: tr/en.wikipedia Mucize Doktor",
       "draft": true,
@@ -8616,7 +8616,7 @@
         "Tesisatçılık yaparak geçinirken dünyayı kurtaracak bir icat peşindedir.",
         "Suyla çalışan motor yapmaya çalışırken mahalleyi ayağa kaldırır.",
         "Mahallenin kızı Şükriye'ye platonik olarak aşıktır.",
-        "Kardeşi Metin ve kız kardeşi Feyyza ile aynı evdedir.",
+        "Metin ile birlikte suyla çalışan motor icat etmek için gece gündüz çabalayan tesisatçı ustasıdır.",
         "Ahmet Kural'ın canlandırdığı mucit tesisatçıdır."
       ],
       "attrs": {
