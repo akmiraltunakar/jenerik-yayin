@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "series": [
     {
       "id": "ezel",
@@ -845,7 +845,7 @@
       "seriesId": "cukur",
       "draft": true,
       "clues": [
-        "Mahallesini uyuşturucudan korumaya yemin etmiş bir baba.",
+        "Mahallesini karanlık sokak tuzaklarından ve yozlaşmadan korumaya yemin etmiş bir baba.",
         "Kendi kurallarıyla yönetir, sözü kanundur.",
         "Oğulları için her şeyi göze alır.",
         "Oğullarından biri Yamaç.",
@@ -3676,7 +3676,7 @@
       },
       "clues": [
         "Diyarbakırlıdır.",
-        "Örgütün uyuşturucu ticaretini yürüten gelenekçi kanattandır.",
+        "Büyük konseyin gizli sevkiyat ve kaçak lojistik işlerini yürüten gelenekçi kanattandır.",
         "Rus örgütüne katılmak isteyince bıçaklanarak öldürüldü.",
         "Laz Ziya'nın yakın dostudur.",
         "Sağ kolu Şehmuz, kızı Nazlı'dır."
@@ -3802,7 +3802,7 @@
       },
       "clues": [
         "Yaralı bir adamı tedavi ederken ona âşık oldu.",
-        "Kaçırılıp uyuşturucuya bağımlı hâle getirildi, sonra kurtuldu.",
+        "Zorla alıkonulup ağır kimyasal maddelere maruz bırakıldı, sonra kurtuldu.",
         "Kendisini kaçıran adamı sonunda kendi eliyle öldürdü.",
         "Yamaç'ın eşidir.",
         "Kızının adı Masal'dır."
