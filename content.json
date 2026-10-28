@@ -789,7 +789,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Nihan",
+        "Burak Özçivit",
+        "Maden",
+        "Mühendis",
+        "Emir"
+      ]
     },
     {
       "id": "emir-kozcuoglu",
@@ -810,7 +817,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Sorgu: Yeraltı dünyasından sayılır mı? (şu an hayır)"
+      "check": "Sorgu: Yeraltı dünyasından sayılır mı? (şu an hayır)",
+      "taboo": [
+        "Kaan Urgancıoğlu",
+        "Nihan",
+        "Düşman",
+        "Psikopat",
+        "Holding"
+      ]
     },
     {
       "id": "yamac-kocovali",
@@ -884,7 +898,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Nefes",
+        "Ulaş Tuna Astepe",
+        "Deli Tahir",
+        "Yiğit",
+        "Karadeniz"
+      ]
     },
     {
       "id": "ali-riza-tekin",
@@ -958,7 +979,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Okan Yalabık",
+        "Sadrazam",
+        "Hatice",
+        "Keman",
+        "Parga"
+      ]
     },
     {
       "id": "ertugrul-bey",
@@ -978,7 +1006,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Engin Altan Düzyatan",
+        "Kayı",
+        "Halime",
+        "Gündoğdu",
+        "Kılıç"
+      ]
     },
     {
       "id": "abdulhey-coban",
@@ -1025,7 +1060,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Selçuk Yöntem",
+        "Bihter",
+        "Koca",
+        "Yalı",
+        "Amca"
+      ]
     },
     {
       "id": "nihal-ziyagil",
@@ -1045,7 +1087,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Hazal Kaya",
+        "Bayılma",
+        "Behlül",
+        "Piyano",
+        "Gelinlik"
+      ]
     },
     {
       "id": "matmazel",
@@ -1065,7 +1114,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Zerrin Tekindor",
+        "Fransız",
+        "Mürebbiye",
+        "Deniz",
+        "Adnan"
+      ]
     },
     {
       "id": "besir",
@@ -1086,7 +1142,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Baran Akbulut",
+        "Uşak",
+        "Öksürük",
+        "Kamera",
+        "Nihal"
+      ]
     },
     {
       "id": "nihan-sezin",
@@ -1106,7 +1169,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Neslihan Atagül",
+        "Kemal",
+        "Ressam",
+        "Emir",
+        "Kara Sevda"
+      ]
     },
     {
       "id": "vartolu",
@@ -1153,7 +1223,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Esra Bilgiç",
+        "Ertuğrul",
+        "Kayı",
+        "Osman",
+        "Ceylan"
+      ]
     },
     {
       "id": "bamsi-beyrek",
@@ -1173,7 +1250,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Nurettin Sönmez",
+        "Çift Kılıç",
+        "Alp",
+        "Kayı",
+        "Turgut"
+      ]
     },
     {
       "id": "hayme-ana",
@@ -1193,7 +1277,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Hülya Darcan",
+        "Ana",
+        "Kayı",
+        "Oba",
+        "Süleyman Şah"
+      ]
     },
     {
       "id": "suleyman-sah",
@@ -1213,7 +1304,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Serdar Gökhan",
+        "Bey",
+        "Fırat",
+        "Kayı",
+        "Rüya"
+      ]
     },
     {
       "id": "kanuni",
@@ -1233,7 +1331,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Halit Ergenç",
+        "Hürrem",
+        "Padişah",
+        "Muhibbi",
+        "Osmanlı"
+      ]
     },
     {
       "id": "mahidevran-sultan",
@@ -1253,7 +1358,14 @@
         "kotu": true,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Nur Fettahoğlu",
+        "Mustafa",
+        "Gözyaşı",
+        "Valide",
+        "Zehir"
+      ]
     },
     {
       "id": "mihrimah-sultan",
@@ -1273,7 +1385,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Pelin Karahan",
+        "Rüstem Paşa",
+        "Güneş ve Ay",
+        "Sultan",
+        "Hürrem"
+      ]
     },
     {
       "id": "sehzade-mustafa",
@@ -1293,7 +1412,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Mehmet Günsür",
+        "Boğdurulma",
+        "Yeniçeri",
+        "Amasya",
+        "Veliaht"
+      ]
     },
     {
       "id": "hatice-sultan",
@@ -1313,7 +1439,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Selma Ergeç",
+        "İbrahim",
+        "Aşk",
+        "Keman",
+        "Sultan"
+      ]
     },
     {
       "id": "sumbul-aga",
@@ -1333,7 +1466,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Selim Bayraktar",
+        "Harem",
+        "Hürrem",
+        "Kahve",
+        "Ağa"
+      ]
     },
     {
       "id": "ferhunde",
@@ -1381,7 +1521,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Kıvanç Tatlıtuğ",
+        "Güney",
+        "Cemre",
+        "Ferhat",
+        "Simit"
+      ]
     },
     {
       "id": "guney-tekinoglu",
@@ -1402,7 +1549,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Sorgu: Başrol mü? (şu an evet)"
+      "check": "Sorgu: Başrol mü? (şu an evet)",
+      "taboo": [
+        "Buğra Gülsoy",
+        "Kaza",
+        "Hapis",
+        "Banu",
+        "Sinaner"
+      ]
     },
     {
       "id": "cemre",
@@ -1423,7 +1577,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Öykü Karayel",
+        "Kuzey",
+        "Güney",
+        "Gülten",
+        "Aşk"
+      ]
     },
     {
       "id": "fatmagul",
@@ -1443,7 +1604,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Beren Saat",
+        "Kerim",
+        "Kaza",
+        "Ilgaz",
+        "Adalet"
+      ]
     },
     {
       "id": "kerim-ilgaz",
@@ -1463,7 +1631,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Engin Akyürek",
+        "Fatmagül",
+        "Demirci",
+        "Vicdan",
+        "Mektup"
+      ]
     },
     {
       "id": "mukadder",
@@ -1483,7 +1658,14 @@
         "kotu": true,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Yenge",
+        "Esra Dermancıoğlu",
+        "Para",
+        "Kötü",
+        "Rahmi"
+      ]
     },
     {
       "id": "omer-iplikci",
@@ -1503,7 +1685,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Barış Arduç",
+        "Ayakkabı",
+        "Tasarımcı",
+        "Defne",
+        "Kiralık"
+      ]
     },
     {
       "id": "defne-topal",
@@ -1524,7 +1713,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "25 Ekim: 4. ipucu yeniden yazıldı (başka karakterle aynı ipucuydu; Ömer ayakkabı tasarımcısı mı?), kontrol et."
+      "check": "25 Ekim: 4. ipucu yeniden yazıldı (başka karakterle aynı ipucuydu; Ömer ayakkabı tasarımcısı mı?), kontrol et.",
+      "taboo": [
+        "Elçin Sangu",
+        "Kızıl",
+        "Garson",
+        "Ömer",
+        "Neriman"
+      ]
     },
     {
       "id": "murat-sarsilmaz",
@@ -1544,7 +1740,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Burak Deniz",
+        "Sarte",
+        "Holding",
+        "Patron",
+        "Hayat"
+      ]
     },
     {
       "id": "hayat-uzun",
@@ -1565,7 +1768,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "25 Ekim: 1. ipucu yeniden yazıldı (cevabın adı ipucundaydı), kontrol et."
+      "check": "25 Ekim: 1. ipucu yeniden yazıldı (cevabın adı ipucundaydı), kontrol et.",
+      "taboo": [
+        "Hande Erçel",
+        "Giresun",
+        "Yalan",
+        "Suna",
+        "Murat"
+      ]
     },
     {
       "id": "eda-yildiz",
@@ -1585,7 +1795,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Hande Erçel",
+        "Çiçekçi",
+        "Burs",
+        "Peyzaj",
+        "Serkan"
+      ]
     },
     {
       "id": "serkan-bolat",
@@ -1605,7 +1822,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Kerem Bürsin",
+        "Mimar",
+        "Robot",
+        "Holding",
+        "Seyfi"
+      ]
     },
     {
       "id": "sanem-aydin",
@@ -1625,7 +1849,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Demet Özdemir",
+        "Albatros",
+        "Parfüm",
+        "Bakkal",
+        "Can"
+      ]
     },
     {
       "id": "can-divit",
@@ -1645,7 +1876,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Can Yaman",
+        "Fotoğrafçı",
+        "Kral Kaya",
+        "Doğa",
+        "Sanem"
+      ]
     },
     {
       "id": "safiye",
@@ -1666,7 +1904,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Tester düzeltmesi: İnci kardeş değil Han'ın eşi; Neriman yazıldı"
+      "check": "Tester düzeltmesi: İnci kardeş değil Han'ın eşi; Neriman yazıldı",
+      "taboo": [
+        "Ezgi Mola",
+        "Temizlik",
+        "Deterjan",
+        "Gülben",
+        "Naci"
+      ]
     },
     {
       "id": "han",
@@ -1686,7 +1931,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Birkan Sokullu",
+        "Çöp",
+        "Kazan",
+        "İnci",
+        "Apartman"
+      ]
     },
     {
       "id": "gulben",
@@ -1706,7 +1958,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Merve Dizdar",
+        "Esat",
+        "Çiş",
+        "Abla",
+        "Gelinlik"
+      ]
     },
     {
       "id": "zuleyha",
@@ -1726,7 +1985,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Hilal Altınbilek",
+        "Yılmaz",
+        "Demir",
+        "Çukurova",
+        "Yamanlar"
+      ]
     },
     {
       "id": "demir-yaman",
@@ -1747,7 +2013,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Sorgu: Kötü karakter sayılır mı? (şu an hayır)"
+      "check": "Sorgu: Kötü karakter sayılır mı? (şu an hayır)",
+      "taboo": [
+        "Murat Ünalmış",
+        "Konak",
+        "Hünkar",
+        "Züleyha",
+        "Ağa"
+      ]
     },
     {
       "id": "hunkar-yaman",
@@ -1768,7 +2041,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Sorgu: Kötü karakter sayılır mı?"
+      "check": "Sorgu: Kötü karakter sayılır mı?",
+      "taboo": [
+        "Vahide Perçin",
+        "Hanımağa",
+        "Demir",
+        "Fekeli",
+        "Konak"
+      ]
     },
     {
       "id": "yilmaz-akkaya",
@@ -1788,7 +2068,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Uğur Güneş",
+        "Züleyha",
+        "Demir",
+        "İntikam",
+        "Fekeli"
+      ]
     },
     {
       "id": "fekeli",
@@ -1809,7 +2096,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Kerem Alışık",
+        "Hünkar",
+        "Yeğen",
+        "Racon",
+        "Yılmaz"
+      ]
     },
     {
       "id": "miran-aslanbey",
@@ -1829,7 +2123,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Akın Akınözü",
+        "Reyyan",
+        "İntikam",
+        "Azize",
+        "Midyat"
+      ]
     },
     {
       "id": "reyyan-sadoglu",
@@ -1849,7 +2150,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Ebru Şahin",
+        "Salıncak",
+        "Miran",
+        "Konağın Kızı",
+        "Şadoğlu"
+      ]
     },
     {
       "id": "asya-yilmaz",
@@ -1869,7 +2177,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Cansu Dere",
+        "Doktor",
+        "Volkan",
+        "Sarı Saç Teli",
+        "İhanet"
+      ]
     },
     {
       "id": "volkan-arslan",
@@ -1890,7 +2205,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Sorgu: Kötü karakter sayılır mı?"
+      "check": "Sorgu: Kötü karakter sayılır mı?",
+      "taboo": [
+        "Caner Cindoruk",
+        "Mimar",
+        "Derin",
+        "Asya",
+        "İki Kadın"
+      ]
     },
     {
       "id": "omer-demir",
@@ -1910,7 +2232,14 @@
         "kotu": false,
         "kanun": true,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Engin Akyürek",
+        "Komiser",
+        "Elif",
+        "Cinayet",
+        "Elmas"
+      ]
     },
     {
       "id": "elif-denizer",
@@ -1931,7 +2260,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "25 Ekim: 4. ipucu yeniden yazıldı (başka karakterle aynı ipucuydu; Ömer komiser mi?), kontrol et."
+      "check": "25 Ekim: 4. ipucu yeniden yazıldı (başka karakterle aynı ipucuydu; Ömer komiser mi?), kontrol et.",
+      "taboo": [
+        "Tuba Büyüküstün",
+        "Tasarımcı",
+        "Ömer",
+        "Kara Para",
+        "Roma"
+      ]
     },
     {
       "id": "feride",
@@ -1951,7 +2287,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Fahriye Evcen",
+        "Çalıkuşu",
+        "Öğretmen",
+        "Kâmran",
+        "Gülbeşeker"
+      ]
     },
     {
       "id": "kamran",
@@ -1971,7 +2314,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Burak Özçivit",
+        "Doktor",
+        "Feride",
+        "Kuzen",
+        "Teyze"
+      ]
     },
     {
       "id": "osman-bey",
@@ -1991,7 +2341,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Burak Özçivit",
+        "Kuruluş",
+        "Bala",
+        "Kayı",
+        "Bilecik"
+      ]
     },
     {
       "id": "bala-hatun",
@@ -2011,7 +2368,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Özge Törer",
+        "Şeyh Edebali",
+        "Osman",
+        "Hatun",
+        "Ahi"
+      ]
     },
     {
       "id": "nefes",
@@ -2031,7 +2395,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "İrem Helvacıoğlu",
+        "Vedat",
+        "Şiddet",
+        "Tahir",
+        "Yiğit"
+      ]
     },
     {
       "id": "vedat-sayar",
@@ -2052,7 +2423,14 @@
         "kanun": false,
         "cete": false
       },
-      "check": "Ad düzeltildi: Vikipedi ve IMDb Pro \"Vedat Sayar\" diyor (eskiden Sancakzade yazıyordu)"
+      "check": "Ad düzeltildi: Vikipedi ve IMDb Pro \"Vedat Sayar\" diyor (eskiden Sancakzade yazıyordu)",
+      "taboo": [
+        "Mehmet Ali Nuroğlu",
+        "Zulüm",
+        "Nefes",
+        "Kötü",
+        "Sayar"
+      ]
     },
     {
       "id": "riza-baba",
@@ -2072,7 +2450,14 @@
         "kotu": false,
         "kanun": true,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Zafer Ergin",
+        "Emniyet",
+        "Müdür",
+        "Ekip",
+        "Rıza Soylu"
+      ]
     },
     {
       "id": "abdulhamid",
@@ -2092,7 +2477,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Bülent İnal",
+        "Padişah",
+        "Osmanlı",
+        "Yıldız Sarayı",
+        "Tahsin Paşa"
+      ]
     },
     {
       "id": "ferit-korhan",
@@ -2112,7 +2504,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Mert Ramazan Demir",
+        "Seyran",
+        "Yalı",
+        "Halis Ağa",
+        "Antep"
+      ]
     },
     {
       "id": "seyran-sanli",
@@ -2132,7 +2531,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Afra Saraçoğlu",
+        "Ferit",
+        "Antep",
+        "Kazım Ağa",
+        "Yalı"
+      ]
     },
     {
       "id": "doga",
@@ -2152,7 +2558,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Sıla Türkoğlu",
+        "Fatih",
+        "Diş Hekimi",
+        "Kıvılcım",
+        "İkizler"
+      ]
     },
     {
       "id": "fatih-unal",
@@ -2172,7 +2585,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Doğukan Güngör",
+        "Doğa",
+        "Apo",
+        "Görkem",
+        "Muhafazakar"
+      ]
     },
     {
       "id": "ilgaz-kaya",
@@ -2192,7 +2612,14 @@
         "kotu": false,
         "kanun": true,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Kaan Urgancıoğlu",
+        "Savcı",
+        "Ceylin",
+        "Kural",
+        "Metin"
+      ]
     },
     {
       "id": "ceylin-erguvan",
@@ -2212,7 +2639,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Pınar Deniz",
+        "Avukat",
+        "Ilgaz",
+        "İnci",
+        "Çınar"
+      ]
     },
     {
       "id": "sarp-yilmaz",
@@ -2233,7 +2667,14 @@
         "kotu": false,
         "kanun": true,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Çağatay Ulusoy",
+        "Polis",
+        "Köstebek",
+        "Celal",
+        "Umut"
+      ]
     },
     {
       "id": "umut",
@@ -2254,7 +2695,14 @@
         "kotu": false,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Aras Bulut İynemli",
+        "Mert",
+        "Müdür",
+        "Coşkun",
+        "Sarp"
+      ]
     },
     {
       "id": "celal-baybora",
@@ -2275,7 +2723,14 @@
         "kotu": true,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Çetin Tekindor",
+        "Kebapçı",
+        "Baba",
+        "Melek",
+        "Davut"
+      ]
     },
     {
       "id": "filiz-elibol",
@@ -2296,7 +2751,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Hazal Kaya",
+        "Abla",
+        "Barış",
+        "Fikri",
+        "Kardeşler"
+      ]
     },
     {
       "id": "harun-sinanoglu",
@@ -2317,7 +2779,14 @@
         "Ekipteki lakabı Tosun Paşa'dır."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Fatih Artman",
+        "Tosun Paşa",
+        "Eda",
+        "Cinayet Büro",
+        "Ankara"
+      ]
     },
     {
       "id": "akbaba",
@@ -2338,7 +2807,14 @@
         "Gerçek adı İsmet Arif Karasu'dur."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Berkan Şal",
+        "Otopsi",
+        "Cinayet",
+        "Morg",
+        "Koku"
+      ]
     },
     {
       "id": "hayalet",
@@ -2359,7 +2835,14 @@
         "Asıl adı Sabri Özay'dır."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "İnanç Konukçu",
+        "İstihbarat",
+        "Sokak",
+        "Cinayet",
+        "Ankara"
+      ]
     },
     {
       "id": "cevdet",
@@ -2380,7 +2863,14 @@
         "Ekip ona Cevo ya da Cevcev diye seslenir."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Berke Üzrek",
+        "Cinayet Büro",
+        "Çaylak",
+        "Polis",
+        "Ankara"
+      ]
     },
     {
       "id": "esra-bulut",
@@ -2401,7 +2891,14 @@
         "Hapisten çıktığı gün bir keskin nişancının kurşunuyla öldü."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Canan Ergüder",
+        "Savcı",
+        "Behzat",
+        "Cinayet",
+        "Aşk"
+      ]
     },
     {
       "id": "ercument-cozer",
@@ -2422,7 +2919,14 @@
         "Hikâyesi sonradan 'Saygı' adlı ayrı bir diziyle devam etti."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Nejat İşler",
+        "Saygı",
+        "İşkence",
+        "Zengin",
+        "Düşman"
+      ]
     },
     {
       "id": "sevket-c",
@@ -2443,7 +2947,14 @@
         "Soyadının yalnızca ilk harfi bilinir, tıpkı kardeşininki gibi."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ege Aydan",
+        "Abi",
+        "AVM",
+        "Müdür",
+        "Behzat"
+      ]
     },
     {
       "id": "baris-aktan",
@@ -2464,7 +2975,14 @@
         "Gerçek adı Savaş'tır."
       ],
       "check": "Kaynak: tr.wikipedia Bizim Hikaye (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Burak Deniz",
+        "Doktor",
+        "Hırsız",
+        "Filiz",
+        "Savaş"
+      ]
     },
     {
       "id": "fikri-elibol",
@@ -2485,7 +3003,14 @@
         "Filiz'in babasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Bizim Hikaye (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Reha Özcan",
+        "Alkol",
+        "Baba",
+        "Tembel",
+        "Minibüs"
+      ]
     },
     {
       "id": "rahmet-elibol",
@@ -2506,7 +3031,14 @@
         "Adı 'merhamet' anlamına gelir."
       ],
       "check": "Kaynak: tr.wikipedia Bizim Hikaye (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Yağız Can Konyalı",
+        "Matematik",
+        "Dahi",
+        "Kardeş",
+        "Filiz"
+      ]
     },
     {
       "id": "burhan-altintop",
@@ -2611,7 +3143,14 @@
         "Volkan ve Aslı'nın babasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Avrupa Yakası (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Gazanfer Özcan",
+        "Baba",
+        "İffet",
+        "Antika",
+        "Nişantaşı"
+      ]
     },
     {
       "id": "makbule",
@@ -2632,7 +3171,14 @@
         "Dördüncü sezonda Sütçüoğlu ailesinin yan dairesine taşındı."
       ],
       "check": "Kaynak: tr.wikipedia Avrupa Yakası (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hasibe Eren",
+        "Kral TV",
+        "İzzet",
+        "Burhan",
+        "Terlik"
+      ]
     },
     {
       "id": "sahika-kocarslanli",
@@ -2653,7 +3199,14 @@
         "Onu oynayan oyuncu son sezonda halasını da canlandırdı."
       ],
       "check": "Kaynak: tr.wikipedia Avrupa Yakası (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Binnur Kaya",
+        "Zengin",
+        "Kokoş",
+        "Sosyetik",
+        "Nişantaşı"
+      ]
     },
     {
       "id": "tahsin-pasa",
@@ -2674,7 +3227,14 @@
         "Anılarını Yıldız Sarayı'ndaki yıllarına dair bir hatırat olarak yazdı."
       ],
       "check": "Kaynak: tr.wikipedia Payitaht Abdülhamid karakterleri listesi + tarihsel bilgi; hatırat bilgisi tarihsel kişiye ait",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Bahadır Yenişehirlioğlu",
+        "Sır Katibi",
+        "Sadakat",
+        "Hünkarım",
+        "Paşa"
+      ]
     },
     {
       "id": "mahmud-celaleddin-pasa",
@@ -2695,7 +3255,14 @@
         "Eşi Seniha Sultan, oğlu Prens Sabahaddin'dir."
       ],
       "check": "Kaynak: tr.wikipedia Payitaht Abdülhamid karakterleri listesi + tarihsel bilgi (Damat Mahmud Celaleddin Paşa)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hakan Boyav",
+        "Damat",
+        "İhanet",
+        "İngiliz",
+        "Paşa"
+      ]
     },
     {
       "id": "prens-sabahaddin",
@@ -2716,7 +3283,14 @@
         "Annesi padişahın kız kardeşi Seniha Sultan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Payitaht Abdülhamid karakterleri listesi + tarihsel bilgi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kaan Turgut",
+        "Jön Türk",
+        "Yeğen",
+        "Sürgün",
+        "İhtilal"
+      ]
     },
     {
       "id": "emanuel-karasu",
@@ -2737,7 +3311,14 @@
         "Soyadı 'kara' ve 'su' kelimelerinden oluşur."
       ],
       "check": "Kaynak: tr.wikipedia Payitaht Abdülhamid karakterleri listesi + tarihsel bilgi (Emmanuel Karasso)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ali Nuri Türkoğlu",
+        "Selanik",
+        "Mebus",
+        "Mason",
+        "Siyonist"
+      ]
     },
     {
       "id": "mesut-guneri",
@@ -2758,7 +3339,14 @@
         "Hüsnü ve Ali ile birlikte ekibin ilk üyelerindendir."
       ],
       "check": "Kaynak: tr.wikipedia Arka Sokaklar (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Şevket Çoruh",
+        "Odun",
+        "Özel Harekat",
+        "Tunç",
+        "Selin"
+      ]
     },
     {
       "id": "husnu-coban",
@@ -2779,7 +3367,14 @@
         "Soyadı bir meslek adıdır: sürüyü güden kişi."
       ],
       "check": "Kaynak: tr.wikipedia Arka Sokaklar (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Özgür Ozan",
+        "Suat",
+        "Metin Tekin",
+        "Çoban Ailesi",
+        "Zeliş"
+      ]
     },
     {
       "id": "ali-akdogan",
@@ -2800,7 +3395,14 @@
         "Pınar'ın eşi, Rıza Baba'nın damadıdır."
       ],
       "check": "Kaynak: tr.wikipedia Arka Sokaklar (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Alp Korkmaz",
+        "Pınar",
+        "Keskin Nişancı",
+        "Rıza Baba",
+        "Damadı"
+      ]
     },
     {
       "id": "eysan-tezcan",
@@ -2905,7 +3507,14 @@
         "Baş tetikçisi Temmuz Kocaoğlu'dur."
       ],
       "check": "Kaynak: tr.wikipedia Ezel (dizi) | Tester: 1. ipucu netleştirildi (Ramiz'in İstanbul'a gelişi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Haluk Bilginer",
+        "Ramiz Dayı",
+        "Selma Hünel",
+        "Düşman",
+        "Torun"
+      ]
     },
     {
       "id": "leyla",
@@ -2926,7 +3535,14 @@
         "Adı Fuzuli'nin ünlü mesnevisindeki kadın kahramanla aynıdır."
       ],
       "check": "Kaynak: tr.wikipedia Leyla ile Mecnun (dizi). Tam adı Leyla Yılmaz",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ezgi Asaroğlu",
+        "Kireçburnu",
+        "Kaza",
+        "Organ",
+        "Mecnun"
+      ]
     },
     {
       "id": "yavuz",
@@ -2947,7 +3563,14 @@
         "Alternatif finalde pencereye vuran ağaç dallarının gölgesi olduğu anlaşıldı."
       ],
       "check": "Kaynak: tr.wikipedia Leyla ile Mecnun (dizi). Tam adı Yavuz Hırsız",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Osman Sonant",
+        "Hırsız",
+        "Görünmez",
+        "Eylül",
+        "Şiir"
+      ]
     },
     {
       "id": "ismail-abi",
@@ -2996,7 +3619,14 @@
         "Soyadı ateşten yükselen şeyin adıdır."
       ],
       "check": "Kaynak: tr.wikipedia Yargı (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Uğur Aslan",
+        "Komiser",
+        "Tuğçe",
+        "Ilgaz",
+        "Cinayet"
+      ]
     },
     {
       "id": "metin-kaya",
@@ -3017,7 +3647,14 @@
         "Gelini avukattır; eskiden savcıydı."
       ],
       "check": "Kaynak: tr.wikipedia Yargı (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hüseyin Avni Danyal",
+        "Amir",
+        "Baba",
+        "Ilgaz",
+        "Çınar"
+      ]
     },
     {
       "id": "neriman-iplikci",
@@ -3038,7 +3675,14 @@
         "Soyadı bir dikiş malzemesini çağrıştırır."
       ],
       "check": "Kaynak: tr.wikipedia Kiralık Aşk. Sorgu: 'kötü' = evet, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Nergis Kumbasar",
+        "Koriş",
+        "Yenge",
+        "Plan",
+        "Para"
+      ]
     },
     {
       "id": "sinan-karakaya",
@@ -3059,7 +3703,14 @@
         "Soyadı siyah renkli bir taşı anlatır."
       ],
       "check": "Kaynak: tr.wikipedia Kiralık Aşk",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Salih Bademci",
+        "Ortak",
+        "Yasemin",
+        "Ömer",
+        "Passionis"
+      ]
     },
     {
       "id": "kerem-akar",
@@ -3080,7 +3731,14 @@
         "İpek'in nişanlısıdır."
       ],
       "check": "Kaynak: tr.wikipedia Aşk Laftan Anlamaz",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Süleyman Felek",
+        "Şoför",
+        "İpek",
+        "Murat",
+        "Arkadaş"
+      ]
     },
     {
       "id": "ipek",
@@ -3101,7 +3759,14 @@
         "Kerem'le nişanlandı."
       ],
       "check": "Kaynak: tr.wikipedia Aşk Laftan Anlamaz",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Merve Çağıran",
+        "Avukat",
+        "Kerem",
+        "Hayat",
+        "Arkadaş"
+      ]
     },
     {
       "id": "asli-soykan",
@@ -3122,7 +3787,14 @@
         "Doruk Sarsılmaz'la sevgilidir; soyadı 'soy' ve 'kan' kelimelerinden oluşur."
       ],
       "check": "Kaynak: tr.wikipedia Aşk Laftan Anlamaz",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tuğçe Kocak",
+        "Hemşire",
+        "Hayat",
+        "Ev",
+        "Kızlar"
+      ]
     },
     {
       "id": "emre-divit",
@@ -3143,7 +3815,14 @@
         "Ajansın adı Fikri Harika'dır."
       ],
       "check": "Kaynak: tr.wikipedia Erkenci Kuş. Sorgu: 'kötü' = evet (1. sezon), kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Birand Tunca",
+        "Kardeş",
+        "Aylin",
+        "Ajans",
+        "Leyla"
+      ]
     },
     {
       "id": "muzaffer",
@@ -3164,7 +3843,14 @@
         "Lakabı Zebercet'tir."
       ],
       "check": "Kaynak: tr.wikipedia Erkenci Kuş. Tam adı Muzaffer Kaya",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cihan Ercan",
+        "Zebur",
+        "Bakkal",
+        "Mahalle",
+        "Sanem"
+      ]
     },
     {
       "id": "leyla-aydin",
@@ -3185,7 +3871,14 @@
         "Annesi Mevkibe, babası Nihat'tır."
       ],
       "check": "Kaynak: tr.wikipedia Erkenci Kuş. Ablalık bilgisi soyadından çıkarıldı, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Öznur Serçeler",
+        "Abla",
+        "Emre",
+        "Finans",
+        "Sanem"
+      ]
     },
     {
       "id": "derin-guclu",
@@ -3206,7 +3899,14 @@
         "Asya'dan nefret eder."
       ],
       "check": "Kaynak: tr.wikipedia Sadakatsiz",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Melis Sezen",
+        "Hamile",
+        "Volkan",
+        "Metres",
+        "Ali"
+      ]
     },
     {
       "id": "halis-korhan",
@@ -3227,7 +3927,14 @@
         "Herkes ona 'Ağa' diye hitap eder."
       ],
       "check": "Kaynak: tr.wikipedia Yalı Çapkını",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Çetin Tekindor",
+        "Dede",
+        "Kuyumcu",
+        "Yalı",
+        "Ağa"
+      ]
     },
     {
       "id": "suna-sanli",
@@ -3248,7 +3955,14 @@
         "Seyran'ın ablasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Yalı Çapkını. Ablalık bilgisi genel bilgiden, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Beril Pozam",
+        "Abla",
+        "Abidin",
+        "Kaya",
+        "Seyran"
+      ]
     },
     {
       "id": "kazim-sanli",
@@ -3269,7 +3983,14 @@
         "Seyran ve Suna'nın babasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Yalı Çapkını. Babalık bilgisi genel bilgiden, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Diren Polatoğulları",
+        "Buba",
+        "Antep",
+        "Dayak",
+        "Esme"
+      ]
     },
     {
       "id": "ifakat-korhan",
@@ -3290,7 +4011,14 @@
         "Şehmuz'la ilişkisinden hamile kaldı ama bebeğini kaybetti."
       ],
       "check": "Kaynak: tr.wikipedia Yalı Çapkını",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Gülçin Santırcıoğlu",
+        "Yenge",
+        "Orhan",
+        "Yalı",
+        "Plan"
+      ]
     },
     {
       "id": "orhan-korhan",
@@ -3311,7 +4039,14 @@
         "Ferit'in babasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Yalı Çapkını",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Emre Altuğ",
+        "Baba",
+        "İfakat",
+        "Gülgün",
+        "Ferit"
+      ]
     },
     {
       "id": "yaman-koper",
@@ -3332,7 +4067,14 @@
         "Aslında bir araba hırsızıdır; ağabeyi Kenan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Medcezir (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Çağatay Ulusoy",
+        "Tozludere",
+        "Mira",
+        "Selim Serez",
+        "Gitar"
+      ]
     },
     {
       "id": "mira-beylice",
@@ -3353,7 +4095,14 @@
         "En yakın arkadaşı Eylül'dür."
       ],
       "check": "Kaynak: tr.wikipedia Medcezir (dizi) | 25 Ekim: 1. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Serenay Sarıkaya",
+        "Yaman",
+        "Piyano",
+        "Altınkoy",
+        "Hastalık"
+      ]
     },
     {
       "id": "selim-serez",
@@ -3374,7 +4123,14 @@
         "Eşinin adı Ender'dir."
       ],
       "check": "Kaynak: tr.wikipedia Medcezir (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Barış Falay",
+        "Avukat",
+        "Ender",
+        "Yaman",
+        "Mert"
+      ]
     },
     {
       "id": "mert-serez",
@@ -3395,7 +4151,14 @@
         "Babası Selim'dir."
       ],
       "check": "Kaynak: tr.wikipedia Medcezir (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Taner Ölmez",
+        "Çizgi Roman",
+        "Eylül",
+        "Yaman",
+        "Kelebek"
+      ]
     },
     {
       "id": "eylul-buluter",
@@ -3416,7 +4179,14 @@
         "Adı bir ay ismidir; Mert'le sevgili oldu."
       ],
       "check": "Kaynak: tr.wikipedia Medcezir (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hazar Ergüçlü",
+        "Mert",
+        "Mira",
+        "Moda",
+        "Altınkoy"
+      ]
     },
     {
       "id": "agah-beyoglu",
@@ -3437,7 +4207,14 @@
         "Adliye depolarından silah çaldı, adliyeleri ateşe verdi."
       ],
       "check": "Kaynak: tr.wikipedia Şahsiyet (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Haluk Bilginer",
+        "Alzheimer",
+        "Kedi",
+        "Beyoğlu",
+        "Cinayet"
+      ]
     },
     {
       "id": "nevra-elmas",
@@ -3458,7 +4235,14 @@
         "Soyadı değerli bir taşın adıdır."
       ],
       "check": "Kaynak: tr.wikipedia Şahsiyet (dizi) | 25 Ekim: 2. ipucu yeniden yazıldı (taciz kelimesi yumuşatıldı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cansu Dere",
+        "Polis",
+        "Kambura",
+        "Cinayet Büro",
+        "Agah"
+      ]
     },
     {
       "id": "zuhal-celik",
@@ -3479,7 +4263,14 @@
         "Oğlunun adı Deva'dır."
       ],
       "check": "Kaynak: tr.wikipedia Şahsiyet (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Şebnem Bozoklu",
+        "Kız",
+        "Avustralya",
+        "Agah",
+        "Anne"
+      ]
     },
     {
       "id": "yavuz-karasu",
@@ -3500,7 +4291,14 @@
         "Lakabı Sarı Komutan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Söz (dizi). Bahar ile ilişki genel bilgiden, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tolga Sarıtaş",
+        "Sarı Komutan",
+        "Özel Kuvvetler",
+        "Bahar",
+        "Tim"
+      ]
     },
     {
       "id": "bahar-kutlu",
@@ -3521,7 +4319,14 @@
         "Soyadı 'uğurlu, mübarek' anlamına gelir."
       ],
       "check": "Kaynak: tr.wikipedia Söz (dizi). İlişki genel bilgiden, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Aybüke Pusat",
+        "Doktor",
+        "Yavuz",
+        "Karolak",
+        "Saldırı"
+      ]
     },
     {
       "id": "ates-acar",
@@ -3542,7 +4347,14 @@
         "Lakabı Karabatak'tır."
       ],
       "check": "Kaynak: tr.wikipedia Söz (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Eren Vurdem",
+        "Karabatak",
+        "Keskin Nişancı",
+        "Nazlı",
+        "Tim"
+      ]
     },
     {
       "id": "suleyman-cakir",
@@ -3619,7 +4431,14 @@
         "Gerçek adı Abbas Ustaoğlu'dur."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi. Sorgu: 'kötü' = hayır, kontrol et | Sorgu: istihbaratçı olduğu için kanun = evet",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Selçuk Yöntem",
+        "KGT",
+        "Polat",
+        "İstihbarat",
+        "Akrep"
+      ]
     },
     {
       "id": "laz-ziya",
@@ -3640,7 +4459,14 @@
         "Sağ kolu Yahya Reis'tir."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "İstemi Betil",
+        "Konsey",
+        "Testere",
+        "Meral",
+        "Racon"
+      ]
     },
     {
       "id": "kilic",
@@ -3661,7 +4487,14 @@
         "Gerçek adı Ali'dir; lakabı keskin bir silahtır."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Atilla Olgaç",
+        "Çakı",
+        "Karahanlı",
+        "Sağ Kol",
+        "Konsey"
+      ]
     },
     {
       "id": "husrev-aga",
@@ -3682,7 +4515,14 @@
         "Sağ kolu Şehmuz, kızı Nazlı'dır."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Baykal Saran",
+        "Uyuşturucu",
+        "Tütün",
+        "Ağa",
+        "Konsey"
+      ]
     },
     {
       "id": "mehmet-karahanli",
@@ -3703,7 +4543,14 @@
         "Başında olduğu örgütün adı Kurtlar Konseyi'dir."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Zafer Ergin",
+        "Baron",
+        "Tapınakçılar",
+        "Konsey",
+        "Yüzük"
+      ]
     },
     {
       "id": "sultan-kocovali",
@@ -3724,7 +4571,14 @@
         "Adı bir hükümdar unvanıdır."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Perihan Savaş",
+        "Anne",
+        "İdris",
+        "Koçovalı",
+        "Mahalle"
+      ]
     },
     {
       "id": "cumali-kocovali",
@@ -3745,7 +4599,14 @@
         "Amcasıyla aynı adı taşır."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Necip Memili",
+        "Hapishane",
+        "Abi",
+        "Tespih",
+        "Çukur"
+      ]
     },
     {
       "id": "selim-kocovali",
@@ -3766,7 +4627,14 @@
         "Çağatay Erdenet tarafından öldürüldü."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Öner Erkan",
+        "İhanet",
+        "Kardeş",
+        "Çukur",
+        "Akın"
+      ]
     },
     {
       "id": "akin-kocovali",
@@ -3787,7 +4655,14 @@
         "Amcası yokken mahallenin kontrolünü ele geçirdi."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Burak Dakak",
+        "Selim",
+        "İhanet",
+        "Cezaevi",
+        "Çukur"
+      ]
     },
     {
       "id": "efsun-kent",
@@ -3808,7 +4683,14 @@
         "Kızının adı Masal'dır."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Damla Sönmez",
+        "Yücel Kent",
+        "Yamaç",
+        "İlaç",
+        "Aşk"
+      ]
     },
     {
       "id": "cagatay-erdenet",
@@ -3829,7 +4711,14 @@
         "Babası Cengiz'dir; kardeşi Kulkan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Nejat İşler",
+        "Erdenet",
+        "Cengiz",
+        "Koleksiyon",
+        "Düşman"
+      ]
     },
     {
       "id": "sena-kocovali",
@@ -3850,7 +4739,14 @@
         "Su dolu bir cam hücrede boğularak öldü."
       ],
       "check": "Kaynak: tr.wikipedia Çukur karakterleri listesi | 25 Ekim: 1. ipucu yeniden yazıldı (taciz kelimesi yumuşatıldı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Dilan Çiçek Deniz",
+        "Akvaryum",
+        "Yamaç",
+        "Eş",
+        "Boğulma"
+      ]
     },
     {
       "id": "turgut-alp",
@@ -3871,7 +4767,14 @@
         "Babası Konur'dur."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters. Balta bilgisi genel bilgiden, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cengiz Coşkun",
+        "Balta",
+        "Ertuğrul",
+        "Aykız",
+        "Alp"
+      ]
     },
     {
       "id": "kurdoglu-bey",
@@ -3892,7 +4795,14 @@
         "Süleyman Şah'ın manevi kardeşidir; sonunda Ertuğrul onun başını kesti."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters (Kurdoğlu)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hakan Vanlı",
+        "İhanet",
+        "Oba",
+        "Beylik",
+        "Kayı"
+      ]
     },
     {
       "id": "noyan",
@@ -3913,7 +4823,14 @@
         "Sonunda Hülagü Han tarafından öldürüldü."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Barış Bağcı",
+        "Moğol",
+        "Şaman",
+        "Düşman",
+        "Kayı"
+      ]
     },
     {
       "id": "dundar-bey",
@@ -3934,7 +4851,14 @@
         "Ertuğrul onu Gündoğdu'nun obasına sürgün etti."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kardeş",
+        "Kayı",
+        "Ertuğrul",
+        "Oba",
+        "Hata"
+      ]
     },
     {
       "id": "gundogdu-bey",
@@ -3955,7 +4879,14 @@
         "Ertuğrul'un baba bir ağabeyidir."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kaan Taşaner",
+        "Abi",
+        "Kayı",
+        "Selcan",
+        "Ertuğrul"
+      ]
     },
     {
       "id": "selcan-hatun",
@@ -3976,7 +4907,14 @@
         "Alptekin Bey'in kızıdır; oğlu Süleyman Alp şehit düştü."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Didem Balçın",
+        "Gündoğdu",
+        "Tövbe",
+        "Oba",
+        "Kayı"
+      ]
     },
     {
       "id": "dogan-alp",
@@ -3997,7 +4935,14 @@
         "Turgut ve Bamsı'nın kan kardeşidir."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cavit Çetin Güner",
+        "Alp",
+        "Banu Çiçek",
+        "Ertuğrul",
+        "Şehit"
+      ]
     },
     {
       "id": "artuk-bey",
@@ -4018,7 +4963,14 @@
         "Bir sandık aranırken gözlerini kaybetti."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Aybars Kartal Özson",
+        "Hekim",
+        "Oba",
+        "Ertuğrul",
+        "Göz"
+      ]
     },
     {
       "id": "ibn-i-arabi",
@@ -4039,7 +4991,14 @@
         "Tapınakçıların ve Sadettin Köpek'in hedefindeydi."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Osman Soykut",
+        "Mürşit",
+        "Dua",
+        "Ertuğrul",
+        "Sandık"
+      ]
     },
     {
       "id": "malhun-hatun",
@@ -4060,7 +5019,14 @@
         "Osman'ın eşi, Orhan'ın annesidir."
       ],
       "check": "Kaynak: en.wikipedia List of Kuruluş: Osman characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Yıldız Çağrı Atiksoy",
+        "Umur Bey",
+        "Orhan",
+        "Osman",
+        "Hatun"
+      ]
     },
     {
       "id": "seyh-edebali",
@@ -4081,7 +5047,14 @@
         "Osman Bey'in kayınpederidir."
       ],
       "check": "Kaynak: en.wikipedia List of Kuruluş: Osman characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Seda Yıldız",
+        "Ahi",
+        "Osman",
+        "Rüya",
+        "Öğüt"
+      ]
     },
     {
       "id": "goktug-alp",
@@ -4102,7 +5075,14 @@
         "Geyhatu tarafından şehit edildi."
       ],
       "check": "Kaynak: en.wikipedia List of Kuruluş: Osman characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Burak Çelik",
+        "Kongar",
+        "Moğol",
+        "Alp",
+        "Osman"
+      ]
     },
     {
       "id": "boran-bey",
@@ -4123,7 +5103,14 @@
         "Dördüncü sezonda Esrigün Hatun'a âşık oldu."
       ],
       "check": "Kaynak: en.wikipedia List of Kuruluş: Osman characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Yiğit Uçan",
+        "Kopuz",
+        "Alp",
+        "Osman",
+        "Gonca"
+      ]
     },
     {
       "id": "cerkutay",
@@ -4144,7 +5131,14 @@
         "Eskiden Balgay'ın adamıydı."
       ],
       "check": "Kaynak: en.wikipedia List of Kuruluş: Osman characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Çağrı Şensoy",
+        "Moğol",
+        "Müslüman",
+        "Aygül",
+        "Alp"
+      ]
     },
     {
       "id": "orhan-bey",
@@ -4165,7 +5159,14 @@
         "Osmanlı'nın ikinci padişahının adını taşır."
       ],
       "check": "Kaynak: en.wikipedia List of Kuruluş: Osman characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Emre Bey",
+        "Şehzade",
+        "Bursa",
+        "Osman",
+        "Malhun"
+      ]
     },
     {
       "id": "aya-nikola",
@@ -4186,7 +5187,14 @@
         "Adının başında 'kutsal' anlamına gelen bir unvan var."
       ],
       "check": "Kaynak: en.wikipedia List of Kuruluş: Osman characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Erkan Avcı",
+        "Tekfur",
+        "İnegöl",
+        "Düşman",
+        "Osman"
+      ]
     },
     {
       "id": "kosem-sultan",
@@ -4207,7 +5215,14 @@
         "Turhan Sultan'ın emriyle haremde boğduruldu."
       ],
       "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Beren Saat",
+        "Valide Sultan",
+        "Naibe",
+        "Ahmed",
+        "Murad"
+      ]
     },
     {
       "id": "sultan-ahmed",
@@ -4228,7 +5243,14 @@
         "İstanbul'daki ünlü Sultanahmet Camii onun adını taşır."
       ],
       "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem + tarihsel bilgi (I. Ahmed)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ekin Koç",
+        "Padişah",
+        "Kösem",
+        "Taht",
+        "Genç"
+      ]
     },
     {
       "id": "safiye-sultan",
@@ -4249,7 +5271,14 @@
         "Sultan Ahmed'in büyükannesidir."
       ],
       "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem + tarihsel bilgi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hülya Avşar",
+        "Büyük Valide",
+        "Kedi",
+        "Elizabeth",
+        "Harem"
+      ]
     },
     {
       "id": "iv-murad",
@@ -4270,7 +5299,14 @@
         "Annesi Kösem Sultan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem | 25 Ekim: 5. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Metin Akdülger",
+        "Bağdat Fatihi",
+        "Yasak",
+        "Gürz",
+        "Padişah"
+      ]
     },
     {
       "id": "turhan-sultan",
@@ -4291,7 +5327,14 @@
         "IV. Mehmed'in annesi; rakibi Kösem Sultan'dı."
       ],
       "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem + tarihsel bilgi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hande Doğandemir",
+        "Valide",
+        "Kösem",
+        "Mehmed",
+        "İktidar"
+      ]
     },
     {
       "id": "sultan-ibrahim",
@@ -4312,7 +5355,14 @@
         "IV. Murad'ın kardeşidir."
       ],
       "check": "Kaynak: tr.wikipedia Muhteşem Yüzyıl: Kösem + tarihsel bilgi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tugay Mercan",
+        "Deli İbrahim",
+        "Samur",
+        "Havuz",
+        "Padişah"
+      ]
     },
     {
       "id": "mustafa-kaleli",
@@ -4333,7 +5383,14 @@
         "Eşi Asiye'dir."
       ],
       "check": "Kaynak: tr.wikipedia Sen Anlat Karadeniz. Asiye'nin eşi olduğu 'yenge' bilgisinden çıkarıldı, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Asiye",
+        "Sinan Tuzcu",
+        "Abi",
+        "Reis",
+        "Kaleli"
+      ]
     },
     {
       "id": "asiye-kaleli",
@@ -4354,7 +5411,14 @@
         "Kocası Mustafa'dır."
       ],
       "check": "Kaynak: tr.wikipedia Sen Anlat Karadeniz | 25 Ekim: 5. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Öykü Gürman",
+        "Ne Diyisun",
+        "Mustafa",
+        "Yenge",
+        "Oy Asiye"
+      ]
     },
     {
       "id": "hafsa-sultan",
@@ -4375,7 +5439,14 @@
         "Manisa'da adını taşıyan bir külliye vardır."
       ],
       "check": "Tarihsel bilgi (Hafsa Sultan). Dizideki rolü genel bilgiden, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Nebahat Çehre",
+        "Valide Sultan",
+        "Süleyman",
+        "Harem",
+        "Hürrem"
+      ]
     },
     {
       "id": "rustem-pasa",
@@ -4396,7 +5467,14 @@
         "İstanbul'da çinileriyle ünlü bir cami onun adını taşır."
       ],
       "check": "Tarihsel bilgi (Rüstem Paşa). Sorgu: 'kötü' = evet, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ozan Güven",
+        "Sadrazam",
+        "Mihrimah",
+        "Entrika",
+        "Bit"
+      ]
     },
     {
       "id": "sehzade-bayezid",
@@ -4417,7 +5495,14 @@
         "Adı, Yıldırım lakaplı padişahla aynıdır."
       ],
       "check": "Tarihsel bilgi (Şehzade Bayezid, ö. 1561)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Aras Bulut İynemli",
+        "İsyan",
+        "Kütahya",
+        "İran",
+        "Selim"
+      ]
     },
     {
       "id": "sehzade-selim",
@@ -4438,7 +5523,14 @@
         "Babası Kanuni Sultan Süleyman'dır."
       ],
       "check": "Tarihsel bilgi (II. Selim)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Engin Öztürk",
+        "Sarı Selim",
+        "Nurbanu",
+        "Taht",
+        "Şarap"
+      ]
     },
     {
       "id": "sehzade-cihangir",
@@ -4459,7 +5551,14 @@
         "Hürrem Sultan'ın en küçük oğludur; İstanbul'da bir semt onun adını taşır."
       ],
       "check": "Tarihsel bilgi (Şehzade Cihangir)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tolga Sarıtaş",
+        "Kambur",
+        "Mustafa",
+        "Keder",
+        "Kardeş"
+      ]
     },
     {
       "id": "haluk-cetinoglu",
@@ -4480,7 +5579,14 @@
         "İlk adı Abidin'dir."
       ],
       "check": "Kaynak: tr.wikipedia Çocuklar Duymasın | 25 Ekim: 3. ipucu yeniden yazıldı (aynı ipucu vardı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tamer Karadağlı",
+        "Taş Fırın",
+        "Meltem",
+        "Bababababa",
+        "Mutfak"
+      ]
     },
     {
       "id": "meltem-cetinoglu",
@@ -4501,7 +5607,14 @@
         "Emre ile Duygu'nun annesidir."
       ],
       "check": "Kaynak: tr.wikipedia Çocuklar Duymasın",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Pınar Altuğ",
+        "Modern",
+        "Haluk",
+        "Kariyer",
+        "Boşanma"
+      ]
     },
     {
       "id": "emre-cetinoglu",
@@ -4522,7 +5635,14 @@
         "Lakabı Havuç'tur."
       ],
       "check": "Kaynak: tr.wikipedia Çocuklar Duymasın",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Furkan Kızılay",
+        "Havuç",
+        "Kızıl",
+        "Haluk",
+        "Ergen"
+      ]
     },
     {
       "id": "mustesar-kemal",
@@ -4543,7 +5663,14 @@
         "Lakabı, bir bakanlıktaki en üst memurluk unvanıdır."
       ],
       "check": "Kaynak: tr.wikipedia Çocuklar Duymasın",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ferdi Akarnur",
+        "Müsteşar",
+        "Meltem",
+        "Patron",
+        "Şirket"
+      ]
     },
     {
       "id": "selami-erdem",
@@ -4564,7 +5691,14 @@
         "Oğlu Orçun'dur; lakabı Light'tır."
       ],
       "check": "Kaynak: tr.wikipedia Çocuklar Duymasın",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Özgür Ozan",
+        "Light Erkek",
+        "Gönül",
+        "Haluk",
+        "Arkadaş"
+      ]
     },
     {
       "id": "banu-sinaner",
@@ -4585,7 +5719,14 @@
         "Annesi Ebru, anne bir kardeşi Barış'tır."
       ],
       "check": "Kaynak: en.wikipedia Kuzey Güney | 25 Ekim: 3. ipucu yeniden yazıldı (intihar anlatımı çıkarıldı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Bade İşçil",
+        "Güney",
+        "Holding",
+        "Hastalık",
+        "Köşk"
+      ]
     },
     {
       "id": "baris-hakmen",
@@ -4606,7 +5747,14 @@
         "Kuzey ile Cemre'nin arasını bozmaya çalışır."
       ],
       "check": "Kaynak: en.wikipedia Kuzey Güney",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kaan Taşaner",
+        "Sinaner",
+        "Avukat",
+        "Güney",
+        "Kuzey"
+      ]
     },
     {
       "id": "sami-tekinoglu",
@@ -4627,7 +5775,14 @@
         "Kuzey ile Güney'in babasıdır."
       ],
       "check": "Kaynak: en.wikipedia Kuzey Güney",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Mustafa Avkıran",
+        "Fırın",
+        "Baba",
+        "Kuzey",
+        "Dayak"
+      ]
     },
     {
       "id": "gulten-cayak",
@@ -4648,7 +5803,14 @@
         "Cemre'nin annesidir."
       ],
       "check": "Kaynak: en.wikipedia Kuzey Güney",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Zerrin Tekindor",
+        "Kuaför",
+        "Cemre",
+        "Anne",
+        "Kuzey"
+      ]
     },
     {
       "id": "ferhat",
@@ -4669,7 +5831,14 @@
         "Güney tarafından öldürüldü."
       ],
       "check": "Kaynak: en.wikipedia Kuzey Güney",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Düşman",
+        "Hapishane",
+        "Kuzey",
+        "İntikam",
+        "Ölüm"
+      ]
     },
     {
       "id": "melek",
@@ -4690,7 +5859,14 @@
         "Kudret'in adamlarından biri tarafından öldürüldü."
       ],
       "check": "Kaynak: en.wikipedia İçerde. Tam adı Melek Yıldız Duman",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Bensu Soral",
+        "Avukat",
+        "Celal",
+        "Sarp",
+        "Kardeş"
+      ]
     },
     {
       "id": "yusuf-kaya",
@@ -4711,7 +5887,14 @@
         "Hayatının amacı Celal Baybora'yı hapse atmaktır."
       ],
       "check": "Kaynak: en.wikipedia İçerde",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Mustafa Uğurlu",
+        "Müdür",
+        "Organize",
+        "Sarp",
+        "Celal"
+      ]
     },
     {
       "id": "eylem-aydin",
@@ -4732,7 +5915,14 @@
         "Mert'e âşık oldu."
       ],
       "check": "Kaynak: en.wikipedia İçerde",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Damla Colbay",
+        "Gazeteci",
+        "Mert",
+        "Füsun",
+        "Sarp"
+      ]
     },
     {
       "id": "ozan-sezin",
@@ -4753,7 +5943,14 @@
         "Nihan'ın ikiz kardeşidir."
       ],
       "check": "Kaynak: en.wikipedia Kara Sevda",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Zeynep",
+        "Hapis",
+        "İntihar",
+        "Kardeş",
+        "Cinayet"
+      ]
     },
     {
       "id": "vildan-sezin",
@@ -4774,7 +5971,14 @@
         "Kızını Emir'le evlendirmek istedi."
       ],
       "check": "Kaynak: en.wikipedia Kara Sevda (oyuncu tablosunda Acemzade, konuda Sezin yazıyor)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Anne",
+        "Zengin",
+        "Leyla",
+        "Kardeş",
+        "Sezin"
+      ]
     },
     {
       "id": "mahir-kara",
@@ -4795,7 +5999,14 @@
         "Sahte kimliğindeki adı Salih İpek'ti."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kenan İmirzalıoğlu",
+        "Kunduracı",
+        "Salih İpek",
+        "Feride",
+        "Adalet"
+      ]
     },
     {
       "id": "feride-sadoglu",
@@ -4816,7 +6027,14 @@
         "Mahir'in eşi; babası Mehmet Saim'dir."
       ],
       "check": "Kaynak: en.wikipedia Karadayı. Sorgu: hâkim olduğu için 'polis ya da savcı' = hayır",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Bergüzar Korel",
+        "Hakime",
+        "Mahir",
+        "Mahkeme",
+        "Adalet"
+      ]
     },
     {
       "id": "nazif-kara",
@@ -4837,7 +6055,14 @@
         "Lakabı Kibar'dır."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Çetin Tekindor",
+        "Nazif Baba",
+        "İdam",
+        "Mahir",
+        "Kundura"
+      ]
     },
     {
       "id": "turgut-akin",
@@ -4858,7 +6083,14 @@
         "Lakabı Yaver'dir; sonunda idam edildi."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Yurdaer Okur",
+        "Savcı",
+        "Kötü",
+        "Cinayet",
+        "Feride"
+      ]
     },
     {
       "id": "necdet-guney",
@@ -4879,7 +6111,14 @@
         "Lakabı Barut'tur."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Erkan Avcı",
+        "Barut Necdet",
+        "Ayten",
+        "Kabadayı",
+        "Mahir"
+      ]
     },
     {
       "id": "ayten-alev",
@@ -4900,7 +6139,14 @@
         "Kız kardeşinin adı Nurten'dir."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Melike İpek Yalova",
+        "Şarkıcı",
+        "Mahir",
+        "Necdet",
+        "Gazino"
+      ]
     },
     {
       "id": "yasin-ulutas",
@@ -4921,7 +6167,14 @@
         "Lakabı Kibrit'tir."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Rıza Kocaoğlu",
+        "Komiser",
+        "Mahir",
+        "Songül",
+        "Polis"
+      ]
     },
     {
       "id": "mehmet-saim-sadoglu",
@@ -4942,7 +6195,14 @@
         "Lakabı Beyefendi'dir."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Demir Karahan",
+        "Bakan",
+        "Beyefendi",
+        "Feride",
+        "Cinayet"
+      ]
     },
     {
       "id": "belgin-ture",
@@ -4963,7 +6223,14 @@
         "İdam cezasına çarptırıldı."
       ],
       "check": "Kaynak: en.wikipedia Karadayı | 25 Ekim: 5. ipucu yeniden yazıldı (intihar anlatımı çıkarıldı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Funda Eryiğit",
+        "Sosyete Polisiye",
+        "Mahir",
+        "Kötü",
+        "Güzellik"
+      ]
     },
     {
       "id": "feriha-yilmaz",
@@ -4984,7 +6251,14 @@
         "Emir Sarrafoğlu'nun eşi; babası Rıza."
       ],
       "check": "Kaynak: en.wikipedia Adını Feriha Koydum",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Hazal Kaya",
+        "Kapıcı",
+        "Yalan",
+        "Emir",
+        "Üniversite"
+      ]
     },
     {
       "id": "emir-sarrafoglu",
@@ -5005,7 +6279,14 @@
         "Feriha'nın eşidir; Feriha onun kollarında can verdi."
       ],
       "check": "Kaynak: en.wikipedia Adını Feriha Koydum",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Çağatay Ulusoy",
+        "Gecelerin Veliahdı",
+        "Feriha",
+        "Apartman",
+        "Zengin"
+      ]
     },
     {
       "id": "zehra-yilmaz",
@@ -5026,7 +6307,14 @@
         "Feriha'nın annesidir."
       ],
       "check": "Kaynak: en.wikipedia Adını Feriha Koydum. Kapıcı dairesinde yaşama bilgisi çıkarım, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Vahide Perçin",
+        "Anne",
+        "Kapıcı",
+        "Feriha",
+        "Temizlik"
+      ]
     },
     {
       "id": "riza-yilmaz",
@@ -5047,7 +6335,14 @@
         "Feriha'nın babasıdır."
       ],
       "check": "Kaynak: en.wikipedia Adını Feriha Koydum",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Metin Çekmez",
+        "Baba",
+        "Kapıcı",
+        "Gurur",
+        "Feriha"
+      ]
     },
     {
       "id": "koray-onat",
@@ -5068,7 +6363,14 @@
         "Günce ondan hamile kaldı."
       ],
       "check": "Kaynak: en.wikipedia Adını Feriha Koydum",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Yusuf Akgün",
+        "Dost",
+        "Emir",
+        "Hande",
+        "Gülsüm"
+      ]
     },
     {
       "id": "hande-gezgin",
@@ -5089,7 +6391,14 @@
         "Koray ona âşık oldu."
       ],
       "check": "Kaynak: en.wikipedia Adını Feriha Koydum",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ceyda Ateş",
+        "Sarışın",
+        "Emir",
+        "Tuzak",
+        "Feriha"
+      ]
     },
     {
       "id": "azize-aslanbey",
@@ -5110,7 +6419,14 @@
         "Nasuh Şadoğlu'nun ilk aşkıdır."
       ],
       "check": "Kaynak: en.wikipedia Hercai",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ayda Aksel",
+        "İntikam",
+        "Kara Çarşaf",
+        "Miran",
+        "Büyükanne"
+      ]
     },
     {
       "id": "hazar-sadoglu",
@@ -5131,7 +6447,14 @@
         "Miran'ın öz babasıdır."
       ],
       "check": "Kaynak: en.wikipedia Hercai",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Serhat Tutumluer",
+        "Reyyan",
+        "Baba",
+        "Dilşah",
+        "Miran"
+      ]
     },
     {
       "id": "nasuh-sadoglu",
@@ -5152,7 +6475,14 @@
         "İlk aşkı Ayşe, yani Azize'dir."
       ],
       "check": "Kaynak: en.wikipedia Hercai",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Macit Sonkan",
+        "Ağa",
+        "Konak",
+        "Azize",
+        "Şadoğlu"
+      ]
     },
     {
       "id": "yaren-sadoglu",
@@ -5173,7 +6503,14 @@
         "Reyyan'a, babası bildiği adamın öz babası olmadığını söyledi."
       ],
       "check": "Kaynak: en.wikipedia Hercai",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "İlay Erkök",
+        "Kuzen",
+        "Kıskançlık",
+        "Reyyan",
+        "Miran"
+      ]
     },
     {
       "id": "elif-aslanbey",
@@ -5194,7 +6531,14 @@
         "Azize'nin torunu, Azat'ın eşidir."
       ],
       "check": "Kaynak: en.wikipedia Hercai",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Duygu Yetiş",
+        "Kardeş",
+        "Azize",
+        "Göl",
+        "Hazar"
+      ]
     },
     {
       "id": "nigar-kalfa",
@@ -5215,7 +6559,14 @@
         "İbrahim Paşa'nın sevgilisi, Rüstem Paşa'nın ilk eşidir."
       ],
       "check": "Kaynak: en.wikipedia Muhteşem Yüzyıl",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Filiz Ahmet",
+        "İbrahim",
+        "Kalfa",
+        "Bebek",
+        "Harem"
+      ]
     },
     {
       "id": "matrakci-nasuh",
@@ -5236,7 +6587,14 @@
         "Lakabını, icat ettiği bir silah oyunundan alır."
       ],
       "check": "Kaynak: en.wikipedia Muhteşem Yüzyıl + tarihsel bilgi (matrak oyunu)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Fatih Al",
+        "Minyatür",
+        "İbrahim Paşa",
+        "Tarihçi",
+        "Matrak"
+      ]
     },
     {
       "id": "malkocoglu-bali-bey",
@@ -5257,7 +6615,14 @@
         "Ünlü bir akıncı ailesinin soyadını taşır."
       ],
       "check": "Kaynak: en.wikipedia Muhteşem Yüzyıl",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Burak Özçivit",
+        "Bıyık",
+        "Savaşçı",
+        "Akıncı",
+        "Mihrimah"
+      ]
     },
     {
       "id": "ebussuud-efendi",
@@ -5278,7 +6643,14 @@
         "Adı 'mutluluğun babası' anlamına gelir."
       ],
       "check": "Kaynak: en.wikipedia Muhteşem Yüzyıl + tarihsel bilgi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tuncel Kurtiz",
+        "Şeyhülislam",
+        "Fetva",
+        "Kanuni",
+        "Kadı"
+      ]
     },
     {
       "id": "gulfem-hatun",
@@ -5299,7 +6671,14 @@
         "Kanuni'nin ilk gözdesidir."
       ],
       "check": "Kaynak: en.wikipedia Muhteşem Yüzyıl",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Yasemin Allen",
+        "Süleyman",
+        "Nedime",
+        "Saray",
+        "Harem"
+      ]
     },
     {
       "id": "firuze-hatun",
@@ -5320,7 +6699,14 @@
         "Asıl adı Hümeyra'dır."
       ],
       "check": "Kaynak: en.wikipedia Muhteşem Yüzyıl",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cansu Dere",
+        "Safevi",
+        "Dövme",
+        "Süleyman",
+        "Hürrem"
+      ]
     },
     {
       "id": "sila",
@@ -5341,7 +6727,14 @@
         "Bebekken öz babası onu para karşılığında İstanbul'daki zengin bir aileye verdi."
       ],
       "check": "Kaynak: en.wikipedia Sıla (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cansu Dere",
+        "Mardin",
+        "Töre",
+        "Boran",
+        "Berdel"
+      ]
     },
     {
       "id": "boran-aga",
@@ -5362,7 +6755,14 @@
         "Annesi Kevser, babası Firuz Ağa'dır."
       ],
       "check": "Kaynak: en.wikipedia Sıla (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Mehmet Akif Alakurt",
+        "Ağa",
+        "Sıla",
+        "Mardin",
+        "Aşiret"
+      ]
     },
     {
       "id": "azad-sonmez",
@@ -5383,7 +6783,14 @@
         "Cihan tarafından öldürüldü."
       ],
       "check": "Kaynak: en.wikipedia Sıla (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cemal Toktaş",
+        "Kardeş",
+        "Narin",
+        "Berdel",
+        "Mardin"
+      ]
     },
     {
       "id": "narin-genco",
@@ -5404,7 +6811,14 @@
         "Adı 'nazik, ince' anlamına gelir."
       ],
       "check": "Kaynak: en.wikipedia Sıla (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Boncuk Yılmaz",
+        "Görümce",
+        "Azad",
+        "Töre",
+        "Berdel"
+      ]
     },
     {
       "id": "celil-sonmez",
@@ -5425,7 +6839,14 @@
         "Azad'ın babasıdır."
       ],
       "check": "Kaynak: en.wikipedia Sıla (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Menderes Samancılar",
+        "Baba",
+        "Töre",
+        "Mardin",
+        "Sıla"
+      ]
     },
     {
       "id": "cihan-genco",
@@ -5446,7 +6867,14 @@
         "Babası Zinar, kardeşi Dilaver'dir."
       ],
       "check": "Kaynak: en.wikipedia Sıla (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Devrim Saltoğlu",
+        "Kuzen",
+        "Düşman",
+        "Boran",
+        "Aşiret"
+      ]
     },
     {
       "id": "kadir-adali",
@@ -5467,7 +6895,14 @@
         "Öz babası dizinin seri katilidir."
       ],
       "check": "Kaynak: en.wikipedia Çarpışma | 25 Ekim: 2. ipucu yeniden yazıldı (intihar girişimi çıkarıldı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kıvanç Tatlıtuğ",
+        "Polis",
+        "Sarıyer",
+        "Amigo",
+        "Kaza"
+      ]
     },
     {
       "id": "zeynep-tunc",
@@ -5488,7 +6923,14 @@
         "Kızının adı Aylin, kocasının adı Galip'tir."
       ],
       "check": "Kaynak: en.wikipedia Çarpışma",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Elçin Sangu",
+        "Banka",
+        "Aylin",
+        "Kadir",
+        "Kaza"
+      ]
     },
     {
       "id": "galip-tunc",
@@ -5509,7 +6951,14 @@
         "Aylin'in babasıdır."
       ],
       "check": "Kaynak: en.wikipedia Çarpışma",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "İsmail Demirci",
+        "Koca",
+        "Kumar",
+        "Kaçış",
+        "Zeynep"
+      ]
     },
     {
       "id": "onur-aksal",
@@ -5530,7 +6979,14 @@
         "Teklifinin bedeli tek bir geceydi."
       ],
       "check": "Kaynak: en.wikipedia Binbir Gece",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Halit Ergenç",
+        "Binyapı",
+        "Şehrazat",
+        "Karanlık Gece",
+        "Mimar"
+      ]
     },
     {
       "id": "sehrazat",
@@ -5551,7 +7007,14 @@
         "Adı, masallarıyla padişahı oyalayan ünlü anlatıcıyla aynıdır."
       ],
       "check": "Kaynak: en.wikipedia Binbir Gece",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Bergüzar Korel",
+        "Mimar",
+        "Kaan",
+        "Lösemi",
+        "Onur"
+      ]
     },
     {
       "id": "gumus",
@@ -5572,7 +7035,14 @@
         "Kocası sonunda ona âşık oldu ve moda tasarımcılığı hayaline destek verdi."
       ],
       "check": "Kaynak: en.wikipedia Gümüş (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Songül Öden",
+        "Mehmet",
+        "Köy",
+        "Gelin",
+        "Tasarım"
+      ]
     },
     {
       "id": "mehmet-sadoglu",
@@ -5593,7 +7063,14 @@
         "Evlenmeden önce evlilik dışı bir çocuğu oldu."
       ],
       "check": "Kaynak: en.wikipedia Gümüş (TV series)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kıvanç Tatlıtuğ",
+        "Holding",
+        "Nihan",
+        "Gümüş",
+        "Yalı"
+      ]
     },
     {
       "id": "neriman",
@@ -5614,7 +7091,14 @@
         "Han'ın en küçük kardeşidir."
       ],
       "check": "Kaynak: tr.wikipedia Masumlar Apartmanı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Gizem Katmer",
+        "En Küçük",
+        "Okul",
+        "Ege",
+        "Kardeş"
+      ]
     },
     {
       "id": "naci",
@@ -5635,7 +7119,14 @@
         "İkinci sezonda hastalığı ağırlaştı."
       ],
       "check": "Kaynak: tr.wikipedia Masumlar Apartmanı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tansel Öngel",
+        "Öğretmen",
+        "Klarnet",
+        "Safiye",
+        "Şiir"
+      ]
     },
     {
       "id": "inci-ozdemir",
@@ -5656,7 +7147,14 @@
         "Eski nişanlısının adı Uygar'dır."
       ],
       "check": "Kaynak: tr.wikipedia Masumlar Apartmanı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Farah Zeynep Abdullah",
+        "Radyo",
+        "Han",
+        "Kaza",
+        "Dede"
+      ]
     },
     {
       "id": "orhan-kara",
@@ -5677,7 +7175,14 @@
         "Babası Nazif, eşi Zehra'dır."
       ],
       "check": "Kaynak: en.wikipedia Karadayı | 25 Ekim: 2. ipucu yeniden yazıldı (genelev ifadesi yumuşatıldı), kontrol et.",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ulaş Tuna Astepe",
+        "Kardeş",
+        "Yeraltı",
+        "Mahir",
+        "Kabadayı"
+      ]
     },
     {
       "id": "songul-kara",
@@ -5698,7 +7203,14 @@
         "Osman'la evlendi."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Leyla Lydia Tuğutlu",
+        "Kız Kardeş",
+        "Yasin",
+        "Mahir",
+        "Okul"
+      ]
     },
     {
       "id": "dalyan-riza",
@@ -5719,7 +7231,14 @@
         "Turgut'un adamları tarafından öldürüldü."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Atsız Karaduman",
+        "Kabadayı",
+        "Mahir",
+        "Cezaevi",
+        "Dost"
+      ]
     },
     {
       "id": "osman-guney",
@@ -5740,7 +7259,14 @@
         "Songül'le evlendi."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Kardeş",
+        "Necdet",
+        "Mahalle",
+        "Kara",
+        "Gazino"
+      ]
     },
     {
       "id": "suna-demir",
@@ -5761,7 +7287,14 @@
         "Yasin'le evlendi."
       ],
       "check": "Kaynak: en.wikipedia Karadayı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Avukat",
+        "Mahir",
+        "Feride",
+        "Mahkeme",
+        "Dava"
+      ]
     },
     {
       "id": "tuncay-kantarci",
@@ -5782,7 +7315,14 @@
         "Lakabı Deve'dir."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Osman Wöber",
+        "Gümrük",
+        "Hapishane",
+        "Müsteşar",
+        "Konsey"
+      ]
     },
     {
       "id": "halo-dayi",
@@ -5803,7 +7343,14 @@
         "Düşmanını baltayla öldürdü; kendisi de baltayla öldürüldü."
       ],
       "check": "Kaynak: tr.wikipedia Kurtlar Vadisi karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Sönmez Atasoy",
+        "Kaçakçı",
+        "Polat",
+        "Helikopter",
+        "Dayı"
+      ]
     },
     {
       "id": "memduh-basgan",
@@ -5824,7 +7371,14 @@
         "Harun'u dövdürmek için Selim'i kullandı."
       ],
       "check": "Kaynak: tr.wikipedia Behzat Ç. karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Güven Kıraç",
+        "Müsteşar",
+        "Derin Devlet",
+        "Ercüment",
+        "Ankara"
+      ]
     },
     {
       "id": "esme-sanli",
@@ -5845,7 +7399,14 @@
         "Seyran ve Suna'nın annesidir."
       ],
       "check": "Kaynak: tr.wikipedia Yalı Çapkını. Annelik bilgisi genel bilgiden, kontrol et",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Sezin Bozacı",
+        "Anne",
+        "Kazım",
+        "Seyran",
+        "Hastalık"
+      ]
     },
     {
       "id": "abdurrahman-alp",
@@ -5866,7 +7427,14 @@
         "Bir süre Bamsı'nın yerine alpbaşı oldu."
       ],
       "check": "Kaynak: en.wikipedia List of Diriliş: Ertuğrul characters",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Celal Al",
+        "Muhafız",
+        "Ertuğrul",
+        "Kayı",
+        "Sancak"
+      ]
     },
     {
       "id": "pembe-unal",
@@ -5887,7 +7455,14 @@
         "Doğum gününde Işıl tarafından zehirlendi."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Sibel Taşçıoğlu",
+        "Apo",
+        "Gelin",
+        "Köşk",
+        "Rüzgar"
+      ]
     },
     {
       "id": "abdullah-unal",
@@ -5908,7 +7483,14 @@
         "Alev'in ölümünden sonra kızlarını kendisi büyüttü."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Alev",
+        "Pembe",
+        "Şirket",
+        "Holding",
+        "Apo"
+      ]
     },
     {
       "id": "kivilcim-arslan",
@@ -5929,7 +7511,14 @@
         "Trafik kazasına karışan eşi Ömer'i ihbar etti."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Evrim Alasya",
+        "Müdür",
+        "Ömer",
+        "Modern",
+        "Doğa"
+      ]
     },
     {
       "id": "nursema-unal",
@@ -5950,7 +7539,14 @@
         "İlk kocası İbrahim'dir."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ceren Yalazoğlu",
+        "Umut",
+        "Cam",
+        "Hat Sanatı",
+        "Pencere"
+      ]
     },
     {
       "id": "omer-unal",
@@ -5971,7 +7567,14 @@
         "Fatih'in amcasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Barış Kılıç",
+        "Kıvılcım",
+        "İkiz",
+        "Metehan",
+        "Şirket"
+      ]
     },
     {
       "id": "mustafa-unal",
@@ -5992,7 +7595,14 @@
         "Nilay'ın eşi, Fatih'in ağabeyidir."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Emrah Altıntoprak",
+        "Nilay",
+        "Apo",
+        "Restoran",
+        "Ağabey"
+      ]
     },
     {
       "id": "nilay-unal",
@@ -6013,7 +7623,14 @@
         "Görkem'in çıkardığı yangında ağır yaralandı."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Feyza Civelek",
+        "Gıybet",
+        "Mustafa",
+        "Köşk",
+        "Pembe"
+      ]
     },
     {
       "id": "gorkem-erdem",
@@ -6034,7 +7651,14 @@
         "Ömer ile yaşadığı ilişkiyi Nilay ortaya çıkardı."
       ],
       "check": "Kaynak: tr.wikipedia Kızılcık Şerbeti karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Özge Özacar",
+        "Fatih",
+        "Türban",
+        "Gece Kulübü",
+        "Ünal"
+      ]
     },
     {
       "id": "akif-atakul",
@@ -6055,7 +7679,14 @@
         "Suzan ile yasak bir ilişki yaşadı."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Celil Nalçakan",
+        "Kaza",
+        "Zengin",
+        "Suzan",
+        "Nebahat"
+      ]
     },
     {
       "id": "kadir-eren",
@@ -6076,7 +7707,14 @@
         "Süsen ve Melisa'nın eski sevgilisidir."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Halit Özgür Sarı",
+        "Büyük Abi",
+        "Fedakar",
+        "Melisa",
+        "Kaza"
+      ]
     },
     {
       "id": "omer-eren",
@@ -6097,7 +7735,14 @@
         "Annesi Suzan'dır; final bölümünde Süsen ile evlendi."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim (Ömer Eren/Yılmaz)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Yiğit Koçak",
+        "Kardeş",
+        "Suzan",
+        "Asiye",
+        "Okul"
+      ]
     },
     {
       "id": "asiye-eren",
@@ -6118,7 +7763,14 @@
         "Doruk'un sevgilisi; Kadir'in kız kardeşidir."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Su Burcu Yazgı Coşkun",
+        "Şarkı",
+        "Doruk",
+        "Ömer",
+        "Kümbet"
+      ]
     },
     {
       "id": "doruk-atakul",
@@ -6139,7 +7791,14 @@
         "Asiye'nin sevgilisidir."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Onur Seyit Yaran",
+        "Akif",
+        "Asiye",
+        "Ataman Koleji",
+        "Zengin"
+      ]
     },
     {
       "id": "sengul-eren",
@@ -6160,7 +7819,14 @@
         "Yozgat dönüşü otobüs kazasında hayatını kaybetti."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Fadik Sevin Atasoy",
+        "Yenge",
+        "Para",
+        "Orhan",
+        "Kümbet"
+      ]
     },
     {
       "id": "susen-kilic",
@@ -6181,7 +7847,14 @@
         "Annesi Süreyya'dır."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Lizge Cömert",
+        "Ömer",
+        "Kaza",
+        "Sır",
+        "Kolej"
+      ]
     },
     {
       "id": "orhan-eren",
@@ -6202,7 +7875,14 @@
         "Aybike ve Oğulcan'ın babasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cüneyt Mete",
+        "Amca",
+        "Okul",
+        "Hademe",
+        "Şengül"
+      ]
     },
     {
       "id": "suzan-ercan",
@@ -6223,7 +7903,14 @@
         "Akif'in eski ortağı ve eski eşidir."
       ],
       "check": "Kaynak: tr.wikipedia Kardeşlerim karakterleri listesi",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ahu Yağtu",
+        "Akif",
+        "Ömer",
+        "Harika",
+        "Anne"
+      ]
     },
     {
       "id": "altay-yalcindag",
@@ -6244,7 +7931,14 @@
         "Üvey ağabeyi Tufan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Teşkilat (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tolga Sarıtaş",
+        "Yüzbaşı",
+        "MİT",
+        "Makinist",
+        "Operasyon"
+      ]
     },
     {
       "id": "serdar-kilicarslan",
@@ -6265,7 +7959,14 @@
         "Hulki ve Pınar ile aynı saldırıda can verdi."
       ],
       "check": "Kaynak: tr.wikipedia Teşkilat (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Çağlar Ertuğrul",
+        "MİT",
+        "Ajan",
+        "Zehra",
+        "SİHA"
+      ]
     },
     {
       "id": "zehra-balaban",
@@ -6286,7 +7987,14 @@
         "Ömer ile birlikte ortadan kayboldu."
       ],
       "check": "Kaynak: tr.wikipedia Teşkilat (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Deniz Baysal",
+        "MİT",
+        "Başkan",
+        "Serdar",
+        "İstihbarat"
+      ]
     },
     {
       "id": "omer-atmaca",
@@ -6307,7 +8015,14 @@
         "Babasının Efkar olduğunu sonradan öğrendi."
       ],
       "check": "Kaynak: tr.wikipedia Teşkilat (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Murat Yıldırım",
+        "MİT",
+        "Korkut",
+        "Zehra",
+        "Operasyon"
+      ]
     },
     {
       "id": "kate-yalcindag",
@@ -6328,7 +8043,14 @@
         "Altay'ın yengesidir."
       ],
       "check": "Kaynak: tr.wikipedia Teşkilat (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Tuvana Türkay",
+        "Ajan",
+        "Düşman",
+        "MİT",
+        "Altay"
+      ]
     },
     {
       "id": "selen-yalcindag",
@@ -6349,7 +8071,14 @@
         "Onu kurtaran Neslihan'dır."
       ],
       "check": "Kaynak: tr.wikipedia Teşkilat (dizi)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Gizem Güneş",
+        "Kardeş",
+        "Altay",
+        "MİT",
+        "Tehlike"
+      ]
     },
     {
       "id": "meryem-tezel",
@@ -6370,7 +8099,14 @@
         "Zeynep ile Mira'nın annesi; Levent'in eşi."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Özgü Namal",
+        "Tarikat",
+        "Börek",
+        "Zeynep",
+        "Levent"
+      ]
     },
     {
       "id": "naim-tezel",
@@ -6391,7 +8127,14 @@
         "Zeynep ile Mira'nın babasıdır."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Mert Turak",
+        "Efendi",
+        "Tarikat",
+        "Meryem",
+        "Nadire"
+      ]
     },
     {
       "id": "zeynep-tezel",
@@ -6412,7 +8155,14 @@
         "Cüneyd'in eşi, Mira'nın ikizi; annesi Meryem."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Mina Demirtaş",
+        "Matematik",
+        "Evlilik",
+        "Cüneyd",
+        "Tarikat"
+      ]
     },
     {
       "id": "levent-alkanli",
@@ -6433,7 +8183,14 @@
         "Meryem'in eşi; babası fizik profesörü Suavi'dir."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Özcan Deniz",
+        "Psikiyatri",
+        "Doktor",
+        "Meryem",
+        "Mira"
+      ]
     },
     {
       "id": "cuneyd-gunes",
@@ -6454,7 +8211,14 @@
         "Feyza'nın eski nişanlısı, Bahadır'ın efendisidir."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar. Kötü mü? doğrulanmalı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Mert Yazıcıoğlu",
+        "Meczup",
+        "Tekke",
+        "Zeynep",
+        "Felsefe"
+      ]
     },
     {
       "id": "mira-alkanli",
@@ -6475,7 +8239,14 @@
         "Meryem ile Naim'in kızıdır."
       ],
       "check": "Kaynak: tr.wikipedia Kızıl Goncalar",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Nefise Karatay",
+        "Kız",
+        "Levent",
+        "Meryem",
+        "Okul"
+      ]
     },
     {
       "id": "ali-vefa",
@@ -6496,7 +8267,14 @@
         "Pediatrik cerrahide asistan olarak çalışır; abisi Ahmet'tir."
       ],
       "check": "Kaynak: tr/en.wikipedia Mucize Doktor (Good Doctor uyarlaması)",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Taner Ölmez",
+        "Otizm",
+        "Savant",
+        "Cerrahi",
+        "Bisturi"
+      ]
     },
     {
       "id": "ferman-eryigit",
@@ -6517,7 +8295,14 @@
         "Nazlı ile aynı hastanede çalışır."
       ],
       "check": "Kaynak: en.wikipedia Mucize Doktor",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Onur Tuna",
+        "Hoca",
+        "Cerrahi",
+        "Beliz",
+        "Ali"
+      ]
     },
     {
       "id": "nazli-gulengul",
@@ -6538,7 +8323,14 @@
         "Ferman ile aynı hastanede çalışır."
       ],
       "check": "Kaynak: tr/en.wikipedia Mucize Doktor",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Sinem Ünsal",
+        "Doktor",
+        "Ali",
+        "Aşk",
+        "Asistan"
+      ]
     },
     {
       "id": "adil-erinc",
@@ -6559,7 +8351,14 @@
         "Ali'yi korumak için kurşunun önüne atladı."
       ],
       "check": "Kaynak: tr/en.wikipedia Mucize Doktor",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Reha Özcan",
+        "Başhekim",
+        "Manevi Baba",
+        "Hoca",
+        "Hastane"
+      ]
     },
     {
       "id": "taner-kaya",
@@ -6580,7 +8379,14 @@
         "Dilek'in sevdiği adam; kuzenleri Ramazan ve Veysel'dir."
       ],
       "check": "Kaynak: en.wikipedia Gönül Dağı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Berk Atan",
+        "Gedelli",
+        "Uçak",
+        "Dilek",
+        "Bozkır"
+      ]
     },
     {
       "id": "dilek",
@@ -6601,7 +8407,14 @@
         "Annesi Gülsüm Öğretmen; sevdiği adam Taner'dir."
       ],
       "check": "Kaynak: en.wikipedia Gönül Dağı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Gülsim Ali",
+        "Jeoloji",
+        "Taner",
+        "Kaza",
+        "Gedelli"
+      ]
     },
     {
       "id": "zahide-kaya",
@@ -6622,7 +8435,14 @@
         "Sefer'in sevdiği kadındır."
       ],
       "check": "Kaynak: en.wikipedia Gönül Dağı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Ecem Özkaya",
+        "Abla",
+        "Sefer",
+        "Çocuklar",
+        "Gedelli"
+      ]
     },
     {
       "id": "ramazan-kaya",
@@ -6643,7 +8463,14 @@
         "Asuman'ı sever; babası Hüseyin'dir."
       ],
       "check": "Kaynak: en.wikipedia Gönül Dağı",
-      "draft": true
+      "draft": true,
+      "taboo": [
+        "Cihat Süvarioğlu",
+        "Asuman",
+        "Ağıtçı",
+        "Amcaoğlu",
+        "Gedelli"
+      ]
     },
     {
       "id": "yilmaz-gibi",
@@ -6771,7 +8598,14 @@
         "kotu": true,
         "kanun": false,
         "cete": true
-      }
+      },
+      "taboo": [
+        "Çağlar Ertuğrul",
+        "Korsan",
+        "Gemi",
+        "Bongomia",
+        "Prens"
+      ]
     },
     {
       "id": "ali-ozdemir-kardes-payi",
@@ -6791,7 +8625,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Murat Cemcir",
+        "Tesisatçı",
+        "Motor",
+        "Metin",
+        "Boran"
+      ]
     },
     {
       "id": "metin-ozdemir-kardes-payi",
@@ -6811,7 +8652,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Ahmet Kural",
+        "Tesisatçı",
+        "Patent",
+        "Eda",
+        "Ali"
+      ]
     },
     {
       "id": "cevahir-kirisci",
@@ -6966,7 +8814,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Yılmaz Erdoğan",
+        "Edebiyat",
+        "Hapishane",
+        "Öğretmen",
+        "Dilber"
+      ]
     },
     {
       "id": "dilber-inci-taneleri",
@@ -6986,7 +8841,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Hazar Ergüçlü",
+        "Pavyon",
+        "Dans",
+        "Sincan",
+        "Azem"
+      ]
     },
     {
       "id": "bahar-yavuzoglu",
@@ -7006,7 +8868,14 @@
         "kotu": false,
         "kanun": false,
         "cete": false
-      }
+      },
+      "taboo": [
+        "Demet Evgar",
+        "Doktor",
+        "Karaciğer",
+        "Timur",
+        "Evren"
+      ]
     },
     {
       "id": "pala",
@@ -7077,6 +8946,13 @@
         "Kendi halinde kahvehanesinde dostlarını ağırlar, alemdekilerin derin hürmetini kazanmıştır.",
         "Süleyman Çakır'ı küçük yaşta yanına alıp büyüten ve ona alemde kol kanat geren manevi babasıdır.",
         "Aslan Akbey ile geçmişe dayanan derin dostluğu ve gizli görüşmeleri olan saygın kabadayıdır."
+      ],
+      "taboo": [
+        "Güngör Denizaşan",
+        "Kahvehane",
+        "Çakır",
+        "Racon",
+        "Pala"
       ]
     },
     {
@@ -7148,6 +9024,13 @@
         "Büyük organizasyonun silahlı kanadını yöneten, merhamet duygusundan tamamen yoksun bir infazcıdır.",
         "Mehmet Karahanlı'nın en güvendiği ve kritik hesaplaşmaları havale ettiği meclis üyesidir.",
         "Süleyman Çakır ile girdiği güç savaşı ve masadaki sert restleşmeleriyle hafızalara kazınmıştır."
+      ],
+      "taboo": [
+        "Tarık Ünlüoğlu",
+        "Testere",
+        "Cinayet",
+        "Laz Ziya",
+        "Konsey"
       ]
     },
     {
@@ -7193,6 +9076,13 @@
         "Dergide hissedar olup ofis toplantılarına tamamen keyfi ve esprili yorumlarıyla katılır.",
         "Aslı Sütçüoğlu ve Volkan Sütçüoğlu ile olan atışmaları ve Burhan'a takılmalarıyla güldürmüştür.",
         "Peynir kralı zengin ailenin veliahdı olan, Gülenay isimli ikiz kardeşi de bulunan eğlenceli karakterdir."
+      ],
+      "taboo": [
+        "Vural Çelik",
+        "Şampanya",
+        "Zengin",
+        "Gülse",
+        "Nişantaşı"
       ]
     },
     {
@@ -7212,6 +9102,13 @@
         "Dergide dönen kulisleri ve özel hayat dedikodularını en yakından takip eden meraklı bir elemandır.",
         "Burhan Altıntop'un kaprisli taleplerine katlanırken alttan alta ona laf sokmaktan geri durmaz.",
         "Gerçek adı Şevket olan, dergi ekibinin eli çabuk ve esprili çaycısıdır."
+      ],
+      "taboo": [
+        "Bülent Polat",
+        "Çaycı",
+        "Gaziantep",
+        "Ofis",
+        "Dergi"
       ]
     },
     {
@@ -7231,6 +9128,13 @@
         "Ofisteki arkadaşlarına stil danışmanlığı verip cesur kombinler öneren tecrübeli bir editördür.",
         "Aslı Sütçüoğlu'nun ofisteki en yakın dert ortağı ve tecrübeli akıl hocalarındandır.",
         "Burhan Altıntop ile yaşadığı komik diyaloglar ve kahkahalarıyla derginin vazgeçilmez simasıdır."
+      ],
+      "taboo": [
+        "Şenay Gürler",
+        "Moda",
+        "Genç Sevgili",
+        "Dergi",
+        "Nişantaşı"
       ]
     },
     {
@@ -7250,6 +9154,13 @@
         "\"Aman ağzımızın tadı kaçmasın\" diyerek her aile fırtınasında ortamı yatıştırmaya çalışan ev hanımıdır.",
         "Ali Rıza Bey'in eşi olup köşkün idaresini ve kızlarının saadetini korumak için çırpınır.",
         "Ferhunde ile girdiği bitmek bilmeyen gelin-kaynana çatışmalarıyla hafızalara kazınmıştır."
+      ],
+      "taboo": [
+        "Güven Hokna",
+        "Ağzımızın Tadı",
+        "Ali Rıza",
+        "Anne",
+        "Köşk"
       ]
     },
     {
@@ -7269,6 +9180,13 @@
         "Çalıştığı finans kurumunda yaptığı usulsüzlük yüzünden parmaklıklar ardına düşmüştür.",
         "Ali Rıza Bey'in üzerine titrediği biricik oğlu olup Ferhunde ile evliliği köşkü derinden sarsmıştır.",
         "Ailesinin haysiyetini kurtarmak için çabalarken mahkeme salonlarında ve cezaevinde yıpranan evlattır."
+      ],
+      "taboo": [
+        "Caner Kurtaran",
+        "Banka",
+        "Ferhunde",
+        "Hapis",
+        "Ali Rıza"
       ]
     },
     {
@@ -7288,6 +9206,13 @@
         "Aynı aileden iki genç kızın hisleriyle oynayarak hanede onarılmaz yaralar açmıştır.",
         "Ferhunde ile gizli ittifaklar kurup Ali Rıza Bey'in köşküne fırtına getiren damat adayıdır.",
         "Kız kardeşler arasında yarattığı büyük çekişmeyle ailenin parçalanmasına neden olan güvenilmez adamdır."
+      ],
+      "taboo": [
+        "Tolga Karel",
+        "Dolandırıcı",
+        "Leyla",
+        "Necla",
+        "Ferhunde"
       ]
     },
     {
@@ -7307,6 +9232,13 @@
         "Aile konağında kopan fırtınalarda psikolojik olarak en ağır darbeyi alan fertlerden biridir.",
         "Ali Rıza Bey'in kıymet verdiği evlatlarından olup Ferhunde'nin entrikalarına maruz kalmıştır.",
         "Oğuz Ayhan'a duyduğu tutku ve kız kardeşinin ihanetiyle sarsılıp gözyaşı döken talihsiz kızdır."
+      ],
+      "taboo": [
+        "Gökçe Bahadır",
+        "Oğuz",
+        "Necla",
+        "Kardeş",
+        "Gözyaşı"
       ]
     },
     {
@@ -7326,6 +9258,13 @@
         "Pişmanlıklarla dolu zor günlerden sonra zengin bir iş insanıyla evlenerek sosyeteye adım atmıştır.",
         "Ali Rıza Bey'in kalbini en çok kıran ve ailenin dağılmasını hızlandıran kararlar almıştır.",
         "Oğuz Ayhan ile yaşadığı kaçış ve ablasıyla girdiği büyük hesaplaşma diziye damgasını vurmuştur."
+      ],
+      "taboo": [
+        "Fahriye Evcen",
+        "Oğuz",
+        "Kaçış",
+        "Leyla",
+        "Cem"
       ]
     },
     {
@@ -7371,6 +9310,13 @@
         "Mahalledeki tehlikeli güç savaşlarında patronunun arkasından bir an olsun ayrılmaz.",
         "Vartolu Sadettin'in en güvendiği sağ kolu ve can yoldaşıdır.",
         "Yamaç Koçovalı ve ailesiyle kurulan ateşkes sonrasında da patronunun yanından ayrılmayan sadık adamdır."
+      ],
+      "taboo": [
+        "Mustafa Kırantepe",
+        "Vartolu",
+        "Sadık",
+        "Kalaşnikof",
+        "Çukur"
       ]
     },
     {
@@ -7390,6 +9336,13 @@
         "Evde beyaz atletiyle oturup oğlunun hayalperest hallerine hem söylenen hem de kol kanat geren aile reisidir.",
         "Erdal Bakkal ile dükkan önünde çay içip dertleşen, sahilin sağduyulu sakinidir.",
         "Mecnun'un fedakar babası olup Kireçburnu sahilinde oğlunun aşk acılarını paylaşan taksicidir."
+      ],
+      "taboo": [
+        "Ahmet Mümtaz Taylan",
+        "Taksi",
+        "Baba",
+        "Mecnun",
+        "Çile"
       ]
     },
     {
@@ -7409,6 +9362,13 @@
         "Elindeki bastonuyla gençlerin kafasına vurarak onları kendilerine getirmeye çalışır.",
         "İsmail Abi ve Yavuz ile birlikte mahalle maceralarına felsefi ve absürt yorumlar katar.",
         "Mecnun'un rüyasından çıkıp evdeki kanepeye kurulan ve televizyon izleyen efsanevi derviştir."
+      ],
+      "taboo": [
+        "Köksal Engür",
+        "Asa",
+        "Rüya",
+        "Mecnun",
+        "Ak Sakal"
       ]
     },
     {
@@ -7428,6 +9388,13 @@
         "Mahalledeki eski hatıralar ile yeni kurulan gizemli intikam çarkı arasında sıkışıp kalmıştır.",
         "Ramiz Dayı'nın talimatıyla Ali Kırgız'ın ekibine sızmış, zamanla ona gerçek bir kardeş gibi bağlanmıştır.",
         "Sadakatiyle kalplerde derin iz bırakan ve Tefo lakabıyla anılan unutulmaz karakterdir."
+      ],
+      "taboo": [
+        "Sarp Akkaya",
+        "Tevfik",
+        "Ali",
+        "Ezel",
+        "Şebnem"
       ]
     },
     {
@@ -7447,6 +9414,13 @@
         "Geçmişindeki zor günlerden kendisini çekip kurtaran hamiline sınırsız bir bağlılık duyar.",
         "Ramiz Dayı ve intikam ekibinin lüks otel operasyonlarında sağ kolu olmuştur.",
         "Tevfik ile yaşadığı hüzünlü aşkla tanınan ve operasyonların teknik beyni olan zarif kadındır."
+      ],
+      "taboo": [
+        "Bade İşçil",
+        "Ezel",
+        "Asistan",
+        "Tefo",
+        "Kumarhane"
       ]
     },
     {
@@ -7466,6 +9440,13 @@
         "Öfkelendiğinde gözü hiçbir şey görmeyen fakat duraktaki dostlarını her zaman koruyan heybetli biridir.",
         "Osman Ağa ile durak içi atışmalarında ve Sinan Kaya'nın kurnazlıklarını bozmada ön saftadır.",
         "Eski mesleğinden ötürü kasap lakaplı, heybeti ve babacan tavırlarıyla durakta saygı gören taksicidir."
+      ],
+      "taboo": [
+        "Kelle Arif",
+        "Taksici",
+        "Durak",
+        "Kavga",
+        "Osman Ağa"
       ]
     },
     {
@@ -7485,6 +9466,13 @@
         "Gönül verdiği kıza kavuşabilmek uğruna konulan zorlu engelleri sabırla aşmaya çalışır.",
         "Osman Ağa'nın kızı Dilek'e olan tertemiz sevgisiyle tüm durağın sempatisini kazanmıştır.",
         "Afrika kökenli olup sempatik şivesi ve saz çalma denemeleriyle diziye renk katan damat adayıdır."
+      ],
+      "taboo": [
+        "Afrika",
+        "Dilek",
+        "Taksi",
+        "Gülbin",
+        "Durak"
       ]
     },
     {
@@ -7504,6 +9492,13 @@
         "Eşinin geçirdiği ağır karaciğer yetmezliğinde kendi organını vermeye yanaşmayarak bencilce davranmıştır.",
         "Eşinin tıp fakültesi diplomasını sandıktan çıkarıp aynı hastanede asistanlığa başlamasıyla sarsılmıştır.",
         "Annesinin kontrolünden bir türlü çıkamayan ve hastanedeki gizli ilişkisi ifşa olan cerrahtır."
+      ],
+      "taboo": [
+        "Mehmet Yılmaz Ak",
+        "Cerrah",
+        "Aldatma",
+        "Rengin",
+        "Bahar"
       ]
     },
     {
@@ -7523,6 +9518,13 @@
         "Kadınların kendi ayakları üzerinde durmasını ve mesleki hayata dönmesini gönülden destekler.",
         "Yıllar sonra hastaneye dönen asistan hekime cesaret veren ve ona mesleğinde kol kanat geren profesördür.",
         "Timur Yavuzoğlu'nun kibirli tavırlarına karşı her fırsatta adaleti ve doğruluğu savunan hekimdir."
+      ],
+      "taboo": [
+        "Buğra Gülsoy",
+        "Profesör",
+        "Ameliyat",
+        "Bahar",
+        "Hastane"
       ]
     },
     {
@@ -7542,6 +9544,13 @@
         "Çocukken ailesinin dağılması yüzünden içine kapanmış, kırgınlığını sert bir tavırla örtmüştür.",
         "Azem Yücedağ'ın yıllar sonra izini bulup bağrına basmak için çabaladığı öz oğludur.",
         "Gerçek kimliği Özgür olan, babasıyla yüzleştiğinde geçmişin ağır yüküyle sarsılan gençtir."
+      ],
+      "taboo": [
+        "Kubilay Aka",
+        "Oğul",
+        "Yeraltı",
+        "Azem",
+        "Otopark"
       ]
     },
     {
@@ -7561,6 +9570,13 @@
         "Sosyetik ortamların yüzeyselliğinden uzak, entelektüel ve derin sohbetlerden keyif alan bir kimsedir.",
         "Azem Yücedağ'ın gizemli geçmişini ve edebiyat dolu duruşunu merakla takip eder.",
         "Dilber ile Azem arasındaki bağı bilmeden gelişen duygusal yakınlıkla hikayede yer alan şık iş kadınıdır."
+      ],
+      "taboo": [
+        "Selma Ergeç",
+        "Zengin",
+        "Özel Ders",
+        "Holding",
+        "Azem"
       ]
     },
     {
@@ -7580,6 +9596,13 @@
         "İki 'y' harfiyle yazılan isminin yanlış telaffuz edilmesine tahammülü olmayan dobra biridir.",
         "Ali ve Metin isimli kardeşlerin en küçüğü olup evin geçim derdini omuzlamıştır.",
         "Benzinlikte pompacılık yapan mahalleliye patronluk eden, açık sözlü kız kardeştir."
+      ],
+      "taboo": [
+        "Seda Bakan",
+        "Kız Kardeş",
+        "Benzinlik",
+        "Metin",
+        "Ali"
       ]
     },
     {
@@ -7599,6 +9622,13 @@
         "Bornozla veya cafcaflı ipek gömlekleriyle mahallede gezinen dengesiz bir figürdür.",
         "Ali Özdemir ve Metin Özdemir'in icat ettiği suyla çalışan motor projesine çökmeye çalışmıştır.",
         "Feyyza'ya platonik ilgi duyup istasyonu satın almaya kalkan, absürt zenginliğiyle güldüren tiptir."
+      ],
+      "taboo": [
+        "Şinasi Yurtsever",
+        "Zengin",
+        "Müteahhit",
+        "Mahalle",
+        "Para"
       ]
     },
     {
@@ -7618,6 +9648,13 @@
         "Kartal İş Makinaları atölyesinde motor yağları ve parçalar arasında günlerini geçirir.",
         "Ali Özdemir ve Metin Özdemir kardeşlerin tesisat borusu bükmek için uğradıkları komşu tamircidir.",
         "Çıraklarına sürekli çıkışan, gözlüklerinin üzerinden ters ters bakan emektar ustadır."
+      ],
+      "taboo": [
+        "Ayhan Taş",
+        "Oto Tamirci",
+        "Rıza",
+        "Kardeş Payı",
+        "Dükkan"
       ]
     },
     {
@@ -7637,6 +9674,13 @@
         "Kayınvalidesinin evinde içgüveysi olarak yaşarken başına gelmedik sakarlık kalmamıştır.",
         "Cevahir Kirişçi'nin kız kardeşi Nazan ile evlenip aileye damat olmuştur.",
         "Kekeleyerek heyecanla konuşması ve bayılma nöbetleriyle hafızalara kazınan sevimli coğrafyacıdır."
+      ],
+      "taboo": [
+        "İlker Ayrık",
+        "Coğrafya",
+        "Kekeme",
+        "Nazan",
+        "Hoca"
       ]
     },
     {
@@ -7656,6 +9700,13 @@
         "Mahallenin kuytu köşelerinde korsan test kitabı ve zeka oyunlarıyla harçlık çıkarmaya bayılır.",
         "Cevahir'in en küçük kardeşi olup onun mirasyedi planlarını dalgaya alır.",
         "Pırıl'a duyduğu lise aşkı ve okul müdürüne kurduğu zekice tuzaklarla tanınan dahi çocuktur."
+      ],
+      "taboo": [
+        "Bora Akkaş",
+        "Kardeş",
+        "Cevahir",
+        "Pırıl",
+        "Lise"
       ]
     }
   ],
