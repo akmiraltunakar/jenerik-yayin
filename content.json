@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "series": [
     {
       "id": "ezel",
@@ -430,6 +430,69 @@
       "attrs": {
         "tarih": false,
         "komedi": true,
+        "yeni": true
+      }
+    },
+    {
+      "id": "gibi",
+      "title": "Gibi",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": true
+      }
+    },
+    {
+      "id": "prens",
+      "title": "Prens",
+      "attrs": {
+        "tarih": true,
+        "komedi": true,
+        "yeni": true
+      }
+    },
+    {
+      "id": "kardes-payi",
+      "title": "Kardeş Payı",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
+    },
+    {
+      "id": "genis-aile",
+      "title": "Geniş Aile",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
+    },
+    {
+      "id": "akasya-duragi",
+      "title": "Akasya Durağı",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
+    },
+    {
+      "id": "inci-taneleri",
+      "title": "İnci Taneleri",
+      "attrs": {
+        "tarih": false,
+        "komedi": false,
+        "yeni": true
+      }
+    },
+    {
+      "id": "bahar",
+      "title": "Bahar",
+      "attrs": {
+        "tarih": false,
+        "komedi": false,
         "yeni": true
       }
     }
@@ -6399,6 +6462,914 @@
       ],
       "check": "Kaynak: en.wikipedia Gönül Dağı",
       "draft": true
+    },
+    {
+      "id": "yilmaz-gibi",
+      "name": "Yılmaz",
+      "seriesId": "gibi",
+      "draft": false,
+      "clues": [
+        "Arkadaş çevresinde sürekli absürt ve derin felsefi tartışmalar başlatır.",
+        "Olaylara karşı mantık sınırlarını zorlayan ama kendi içinde tutarlı tepkiler verir.",
+        "Genellikle evde çay içerken veya koltukta otururken çileden çıkar.",
+        "İlkkan ve Ersoy en yakın iki ev ve dert ortağıdır.",
+        "Feyyaz Yiğit'in canlandırdığı ana karakterdir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "ilkkan-gibi",
+      "name": "İlkkan",
+      "seriesId": "gibi",
+      "draft": false,
+      "clues": [
+        "Sürekli garip kurslara, aktivitelere veya heveslere kapılır.",
+        "Sivri çıkışlara karşı sakin kalmaya çalışsa da sonunda ezilir.",
+        "Toplumsal normlara uyum sağlamaya çalışan ama hep çuvallayan bir karakterdir.",
+        "Yılmaz ve Ersoy ile aynı evi paylaşır.",
+        "Kıvanç Kılınç tarafından canlandırılan karakterdir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "ersoy-gibi",
+      "name": "Ersoy",
+      "seriesId": "gibi",
+      "draft": false,
+      "clues": [
+        "Sessiz, saf ve olayları çok geriden takip eden bir yapısı vardır.",
+        "Babaannesi ve ailesiyle ilgili anlattığı garip hikayelerle ortalığı karıştırır.",
+        "Uzun nutukları sessizce dinleyip en absürt soruyu sorar.",
+        "İlkkan ve Yılmaz'ın evindeki üçüncü kişidir.",
+        "Ahmet Kürşat Öçalan'ın canlandırdığı karakterdir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "prens-bongomia",
+      "name": "Prens",
+      "seriesId": "prens",
+      "draft": false,
+      "clues": [
+        "Tarihi bir krallıkta hiç kimsenin adını hatırlamadığı ortanca veliahttır.",
+        "Devlet işlerinden nefret eder, tek derdi rahatı ve eğlencesidir.",
+        "Korkak, bencil ama inanılmaz derecede kurnaz ve eğlencelidir.",
+        "Bongomia krallığının tahtına istemeden de olsa oturur.",
+        "Giray Altınok'un hayat verdiği fenomen karakterdir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "kaptan-vandyke",
+      "name": "Kaptan Vandyke",
+      "seriesId": "prens",
+      "draft": false,
+      "clues": [
+        "Denizlerin korkusuz, acımasız ve heybetli korsan lideridir.",
+        "Bongomia sarayını basarak krallığı tehdit eder.",
+        "Absürt teklifler ve sahte tavırlar karşısında şaşkına döner.",
+        "Kraliçe Sion ve saray erkanı ile diplomatik pazarlıklar yapar.",
+        "Çağlar Ertuğrul'un canlandırdığı havalı korsan karakteridir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": true,
+        "kanun": false,
+        "cete": true
+      }
+    },
+    {
+      "id": "ali-ozdemir-kardes-payi",
+      "name": "Ali Özdemir",
+      "seriesId": "kardes-payi",
+      "draft": false,
+      "clues": [
+        "Tesisatçılık yaparak geçinirken dünyayı kurtaracak bir icat peşindedir.",
+        "Suyla çalışan motor yapmaya çalışırken mahalleyi ayağa kaldırır.",
+        "Mahallenin kızı Şükriye'ye platonik olarak aşıktır.",
+        "Kardeşi Metin ve kız kardeşi Feyyza ile aynı evdedir.",
+        "Ahmet Kural'ın canlandırdığı mucit tesisatçıdır."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "metin-ozdemir-kardes-payi",
+      "name": "Metin Özdemir",
+      "seriesId": "kardes-payi",
+      "draft": false,
+      "clues": [
+        "Ağabeyiyle birlikte oto sanayide tesisat boruları arasında sabahlar.",
+        "Dünyaya barış getirecek çevre dostu motor projesinin beynidir.",
+        "Daha duygusal, heyecanlı ve platonik aşklarla doludur.",
+        "Ali ve Feyyza'nın erkek kardeşidir.",
+        "Murat Cemcir'in canlandırdığı mucit ustadır."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "cevahir-kirisci",
+      "name": "Cevahir Kirişçi",
+      "seriesId": "genis-aile",
+      "draft": false,
+      "clues": [
+        "Almanya'dan kesin dönüş yapmış, iş güç tutmayan bir mahalle delikanlısıdır.",
+        "Her cümlesinde kendine has argolar ve yaratıcı atasözleri üretir.",
+        "Babası Kuddusi Usta'dan sürekli fırça ve terlik yer.",
+        "Şukufe'nin kalbini çalmak için can düşmanı Koyu Bilal ile yarışır.",
+        "Ulvi adında sadık bir yancısı vardır; lakabı Ceva'dır."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "koyu-bilal",
+      "name": "Koyu Bilal",
+      "seriesId": "genis-aile",
+      "draft": false,
+      "clues": [
+        "Mahallenin fiyakalı, parası olan ama düzenbaz delikanlısıdır.",
+        "Ezeli rakibinin her planını bozmak için mahallede türlü tuzaklar kurar.",
+        "Mahalle maçlarında ve kahvede ağırlığını koymaya bayılır.",
+        "Şukufe'ye olan aşkı yüzünden Cevahir ile ezeli rakiptir.",
+        "Fırat Tanış'ın canlandırdığı efsanevi karakterdir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": true,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "ulvi-genis-aile",
+      "name": "Ulvi",
+      "seriesId": "genis-aile",
+      "draft": false,
+      "clues": [
+        "Saflığı ve yersiz konuşmalarıyla her işi eline yüzüne bulaştırır.",
+        "Mahallede en yakın can dostunun yanından bir an olsun ayrılmaz.",
+        "Sürekli yetersiz olduğu söylenerek azarları sineye çeker.",
+        "Cevahir ile birlikte Şukufe ve Sevim'in peşinde koşar.",
+        "Bülent Çolak'ın canlandırdığı unutulmaz mahalle safıdır."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "osman-aga",
+      "name": "Osman Ağa",
+      "seriesId": "akasya-duragi",
+      "draft": false,
+      "clues": [
+        "Trakya şivesiyle konuşan, duraktaki taksicilerin en kıdemlisidir.",
+        "Kızı Dilek'in evlenmesine asla izin vermez, taliplerini sopayla kovalar.",
+        "Kefil olduğu adamlar yüzünden sürekli dolandırılır ve başı belaya girer.",
+        "Karısı Safiye ve damat adayı Obayana ile meşhurdur.",
+        "Cezmi Baskın'ın canlandırdığı Tetik lakaplı, öfkesiyle meşhur şofördür."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "sinan-kaya",
+      "name": "Sinan Kaya",
+      "seriesId": "akasya-duragi",
+      "draft": false,
+      "clues": [
+        "Adanalı taksici; köşeyi dönmek için her gün yeni bir üçkağıt dener.",
+        "Kaynanası Şaziment ile evde bitmeyen bir savaş halindedir.",
+        "Aldığı paraları at yarışında veya kumarda batırıp durur.",
+        "Karısı Gülbin'e sürekli yalan söyler ve dayak yer.",
+        "Levent Ülgen'in hayat verdiği üçkağıtçı taksicidir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "azem-yucedag",
+      "name": "Azem Yücedağ",
+      "seriesId": "inci-taneleri",
+      "draft": false,
+      "clues": [
+        "Yıllarını cezaevinde geçirmiş, edebiyata tutkun eski bir edebiyat öğretmenidir.",
+        "Hayattaki tek gayesi dağılan çocuklarını bulup bir araya getirmektir.",
+        "Ucuz bir otel odasında yaşar ve gençlere gizlice özel ders verir.",
+        "Pavyonda dans eden Dilber ile yolları kesişir.",
+        "Yılmaz Erdoğan'ın hem yazıp hem başrolünü oynadığı bilge öğretmendir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "dilber-inci-taneleri",
+      "name": "Dilber",
+      "seriesId": "inci-taneleri",
+      "draft": false,
+      "clues": [
+        "Başkentin gece hayatında pavyonda dans ederek geçimini sağlar.",
+        "Yaralı geçmişine rağmen neşeli ve çocuksu ruhunu kaybetmemiştir.",
+        "Kaldığı otelde karşılaştığı yaşlı öğretmene içten bir sevgi besler.",
+        "Azem Hoca'ya sığınarak belalı kocasından kaçmaya çalışır.",
+        "Hazar Ergüçlü'nün canlandırdığı meşhur dansçı karakterdir."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "bahar-yavuzoglu",
+      "name": "Bahar Yavuzoğlu",
+      "seriesId": "bahar",
+      "draft": false,
+      "clues": [
+        "Tıp fakültesini bitirdikten sonra yıllarca ailesine adanmış bir ev kadınıdır.",
+        "Ağır bir karaciğer yetmezliği atlattıktan sonra hayatını geri almaya karar verir.",
+        "Yıllar sonra asistan doktor olarak eski mesleğine döner.",
+        "Eşi Timur ve cerrah Evren ile aynı hastanede çalışır.",
+        "Demet Evgar'ın hayat verdiği azimli kadın doktordur."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      }
+    },
+    {
+      "id": "pala",
+      "name": "Pala",
+      "seriesId": "kurtlar-vadisi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": true,
+        "kanun": true,
+        "cete": true
+      },
+      "clues": [
+        "Gece gündüz gözünden çıkarmadığı siyah güneş gözlükleriyle hafızalara kazınmıştır.",
+        "Kendisine hedef gösterilen kişilere karşı soğukkanlı ve tavizsiz yöntemleriyle tanınır.",
+        "Dağlık arazilerde ve gizli operasyonlarda uzun yıllar görev yapmış eski bir tim lideridir.",
+        "\"Sadece ölüler görür\" sözüyle hasımlarının karşısına dikilen gizemli bir profesyoneldir.",
+        "Yanından ayırmadığı ekibiyle şehre inmiş, Polat Alemdar ile girdiği amansız mücadeleyle diziye damga vurmuştur."
+      ]
+    },
+    {
+      "id": "seyfo-dayi",
+      "name": "Seyfo Dayı",
+      "seriesId": "kurtlar-vadisi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Eski usul mertlik raconunu iyi bilen, dostlarına karşı her zaman korumacı bir çınardır.",
+        "Kahvehanede oturup geçmiş günlerin hikayelerini ve yeraltının yazılmamış kurallarını anlatır.",
+        "Tespihi, yelekli takım elbisesi ve bilge sözleriyle etrafındakilere yol gösterir.",
+        "Süleyman Çakır'ın hem dert ortağı hem de en güvendiği aile büyüğü gibidir.",
+        "Güllü Erhan'ın amcası olan bu emektar kabadayı, sadakati ve babacan tavrıyla sevilmiştir."
+      ]
+    },
+    {
+      "id": "duran-emmi",
+      "name": "Duran Emmi",
+      "seriesId": "kurtlar-vadisi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Şehrin eski kabadayılarından olup sözü mecliste senet sayılan kıdemli bir simadır.",
+        "Gençlerin fevri çıkışlarını sakinleştiren, racon masalarında adaleti gözeten bir büyüktür.",
+        "Kendi halinde kahvehanesinde dostlarını ağırlar, alemdekilerin derin hürmetini kazanmıştır.",
+        "Süleyman Çakır'ı küçük yaşta yanına alıp büyüten ve ona alemde kol kanat geren manevi babasıdır.",
+        "Aslan Akbey ile geçmişe dayanan derin dostluğu ve gizli görüşmeleri olan saygın kabadayıdır."
+      ]
+    },
+    {
+      "id": "abuzer-komurcu",
+      "name": "Abuzer Kömürcü",
+      "seriesId": "kurtlar-vadisi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": true,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "İzbe mahzenlerde deney tüpleri, imbikler ve kimyasal formüllerle çalışan huysuz bir ustadır.",
+        "Eski püskü hırkası, gür bıyıkları ve her şeye öfkelenen hırçın yapısıyla dikkat çeker.",
+        "Yanında çıraklık yapan saf yardımcısına sürekli çıkışıp ensesine tokat atmasıyla meşhurdur.",
+        "Gizli atölyesinde çalışırken oğlu Erdal'a sürekli sert bir ifadeyle bağırmıştır.",
+        "Atölyede sızan zehirli dumanlar yüzünden trajik biçimde can veren tekinsiz kimyacıdır."
+      ]
+    },
+    {
+      "id": "gullu-erhan",
+      "name": "Güllü Erhan",
+      "seriesId": "kurtlar-vadisi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Ekibin en neşeli, boğazına en düşkün ve esprili siması olarak bilinir.",
+        "Tehlikeli anlarda bile mizahi yönünü kaybetmeyen, sempatik hareketleriyle gerginliği dağıtan bir figürdür.",
+        "Aile büyüğünün vefatından sonra emanet olarak genç yaşta bu zorlu dünyaya katılmıştır.",
+        "Seyfo Dayı'nın yeğeni olarak Süleyman Çakır ve Memati Baş ile operasyonlarda görev almıştır.",
+        "Polat Alemdar'ın en sadık yol arkadaşlarından biri olan, güler yüzlü ekip üyesidir."
+      ]
+    },
+    {
+      "id": "testere-necmi",
+      "name": "Testere Necmi",
+      "seriesId": "kurtlar-vadisi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": true,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Soğuk bakışları ve tavizsiz emirleriyle masada korku salan güçlü bir figürdür.",
+        "Düşmanlarına ve çizgisinden sapanlara karşı uyguladığı dehşet verici cezalarla tanınır.",
+        "Büyük organizasyonun silahlı kanadını yöneten, merhamet duygusundan tamamen yoksun bir infazcıdır.",
+        "Mehmet Karahanlı'nın en güvendiği ve kritik hesaplaşmaları havale ettiği meclis üyesidir.",
+        "Süleyman Çakır ile girdiği güç savaşı ve masadaki sert restleşmeleriyle hafızalara kazınmıştır."
+      ]
+    },
+    {
+      "id": "gaffur-aksoy",
+      "name": "Gaffur Aksoy",
+      "seriesId": "avrupa-yakasi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Çizgili pijaması, beyaz atleti ve elinde gezdirdiği ekmek bıçağıyla kapılarda beliren tuhaf bir komşudur.",
+        "Aralık kapılardan aniden süzülüp çat kapı evlere dalması ve kendine has ritmik dansıyla bilinir.",
+        "\"Beni beğenmiyor musun?\" sorusuyla çevresindekileri bezdiren takıntılı bir mahalle sakinidir.",
+        "Burhan Altıntop'un dairesine sürekli musallat olan, Makbule'ye ise platonik hisler besleyen komşudur.",
+        "Sütçüoğlu rezidansının alt katında yaşayan, çizgili pijaması ekran klasiği haline gelen karakterdir."
+      ]
+    },
+    {
+      "id": "kubilay-peynircioglu",
+      "name": "Kubilay Peynircioğlu",
+      "seriesId": "avrupa-yakasi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Lüks spor arabaları, gösterişli partileri ve cemiyet hayatındaki zenginliğiyle öne çıkan bir patrondur.",
+        "Kendine has tiz kahkahası ve havai tavırlarıyla tanınan şımarık bir şirket yöneticisidir.",
+        "Dergide hissedar olup ofis toplantılarına tamamen keyfi ve esprili yorumlarıyla katılır.",
+        "Aslı Sütçüoğlu ve Volkan Sütçüoğlu ile olan atışmaları ve Burhan'a takılmalarıyla güldürmüştür.",
+        "Peynir kralı zengin ailenin veliahdı olan, Gülenay isimli ikiz kardeşi de bulunan eğlenceli karakterdir."
+      ]
+    },
+    {
+      "id": "sesu-avrupa-yakasi",
+      "name": "Şesu",
+      "seriesId": "avrupa-yakasi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Ofiste çay ve kahve servisi yapan, yerinde duramayan enerjik tavırlarıyla ortama neşe katan bir gençtir.",
+        "Kendisine has hızlı konuşma temposu ve hazırcevaplığıyla ofistekilerin sempatisini kazanmıştır.",
+        "Dergide dönen kulisleri ve özel hayat dedikodularını en yakından takip eden meraklı bir elemandır.",
+        "Burhan Altıntop'un kaprisli taleplerine katlanırken alttan alta ona laf sokmaktan geri durmaz.",
+        "Gerçek adı Şevket olan, dergi ekibinin eli çabuk ve esprili çaycısıdır."
+      ]
+    },
+    {
+      "id": "fatos-avrupa-yakasi",
+      "name": "Fatoş",
+      "seriesId": "avrupa-yakasi",
+      "attrs": {
+        "kadin": true,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Modayı tutkuyla takip eden, her daim şık giyimli ve hayat dolu bir dergi yöneticisidir.",
+        "Yaşını kabullenmeyip genç kalma enerjisiyle flörtöz tavırlar sergileyen cemiyet kadınıdır.",
+        "Ofisteki arkadaşlarına stil danışmanlığı verip cesur kombinler öneren tecrübeli bir editördür.",
+        "Aslı Sütçüoğlu'nun ofisteki en yakın dert ortağı ve tecrübeli akıl hocalarındandır.",
+        "Burhan Altıntop ile yaşadığı komik diyaloglar ve kahkahalarıyla derginin vazgeçilmez simasıdır."
+      ]
+    },
+    {
+      "id": "hayriye-tekin",
+      "name": "Hayriye Tekin",
+      "seriesId": "yaprak-dokumu",
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Kalabalık ailesini bir arada tutmaya çabalarken sürekli kaygılanan fedakar bir annedir.",
+        "Çocuklarının yaptığı vahim hataları kocasından saklamaya çalışırken olayların daha da büyümesine neden olur.",
+        "\"Aman ağzımızın tadı kaçmasın\" diyerek her aile fırtınasında ortamı yatıştırmaya çalışan ev hanımıdır.",
+        "Ali Rıza Bey'in eşi olup köşkün idaresini ve kızlarının saadetini korumak için çırpınır.",
+        "Ferhunde ile girdiği bitmek bilmeyen gelin-kaynana çatışmalarıyla hafızalara kazınmıştır."
+      ]
+    },
+    {
+      "id": "sevket-tekin",
+      "name": "Şevket Tekin",
+      "seriesId": "yaprak-dokumu",
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Ailesinin gururu olmak isterken aldığı yanlış kararlarla büyük bir girdaba sürüklenen gençtir.",
+        "Eşinin doymak bilmeyen lüks isteklerini karşılayabilmek uğruna ağır borç yükü altına girmiştir.",
+        "Çalıştığı finans kurumunda yaptığı usulsüzlük yüzünden parmaklıklar ardına düşmüştür.",
+        "Ali Rıza Bey'in üzerine titrediği biricik oğlu olup Ferhunde ile evliliği köşkü derinden sarsmıştır.",
+        "Ailesinin haysiyetini kurtarmak için çabalarken mahkeme salonlarında ve cezaevinde yıpranan evlattır."
+      ]
+    },
+    {
+      "id": "oguz-ayhan",
+      "name": "Oğuz Ayhan",
+      "seriesId": "yaprak-dokumu",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": true,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Şık takım elbiseleri, cazibeli tavırları ve kurnaz yapısıyla çevresindekileri etkileyen bir adamdır.",
+        "Kısa yoldan köşeyi dönme hırsıyla karanlık ticari işlere ve usulsüzlüklere karışmıştır.",
+        "Aynı aileden iki genç kızın hisleriyle oynayarak hanede onarılmaz yaralar açmıştır.",
+        "Ferhunde ile gizli ittifaklar kurup Ali Rıza Bey'in köşküne fırtına getiren damat adayıdır.",
+        "Kız kardeşler arasında yarattığı büyük çekişmeyle ailenin parçalanmasına neden olan güvenilmez adamdır."
+      ]
+    },
+    {
+      "id": "leyla-tekin",
+      "name": "Leyla Tekin",
+      "seriesId": "yaprak-dokumu",
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Duygusal, kırılgan ve sevdiği insana körü körüne bağlanıp büyük yıkımlar yaşayan genç bir kadındır.",
+        "Kardeşiyle girdiği aşk rekabeti yüzünden derin bir buhranın içine sürüklenmiştir.",
+        "Aile konağında kopan fırtınalarda psikolojik olarak en ağır darbeyi alan fertlerden biridir.",
+        "Ali Rıza Bey'in kıymet verdiği evlatlarından olup Ferhunde'nin entrikalarına maruz kalmıştır.",
+        "Oğuz Ayhan'a duyduğu tutku ve kız kardeşinin ihanetiyle sarsılıp gözyaşı döken talihsiz kızdır."
+      ]
+    },
+    {
+      "id": "necla-tekin",
+      "name": "Necla Tekin",
+      "seriesId": "yaprak-dokumu",
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Hırslı, modern ve zengin bir hayata kavuşma arzusuyla dolu bir mimarlık öğrencisidir.",
+        "Kardeşinin sevdiği adamla birlikte kaçarak ailesinin tüm değerlerini yerle bir etmiştir.",
+        "Pişmanlıklarla dolu zor günlerden sonra zengin bir iş insanıyla evlenerek sosyeteye adım atmıştır.",
+        "Ali Rıza Bey'in kalbini en çok kıran ve ailenin dağılmasını hızlandıran kararlar almıştır.",
+        "Oğuz Ayhan ile yaşadığı kaçış ve ablasıyla girdiği büyük hesaplaşma diziye damgasını vurmuştur."
+      ]
+    },
+    {
+      "id": "alico",
+      "name": "Aliço",
+      "seriesId": "cukur",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Mahallenin çöplerini toplayan, kulübesinde gazete kupürleri ve ansiklopedilerle yaşayan dahi bir zihindir.",
+        "Sayıları, otomobil plakalarını ve geçmiş detayları fotoğraf gibi aklında tutan üstün yetenekli bir savanttır.",
+        "Geçmişinde askeri keskin nişancı eğitimi almış olduğu ortaya çıkan sıra dışı bir figürdür.",
+        "İdris Koçovalı'nın mahalledeki en sadık dostu ve güvendiği sırdaşıdır.",
+        "Yamaç Koçovalı'ya çorba yapıp ona en çaresiz anlarında destek olan, mahallenin masum simgesidir."
+      ]
+    },
+    {
+      "id": "medet",
+      "name": "Medet",
+      "seriesId": "cukur",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Liderine duyduğu koşulsuz hürmet ve çocuksu saflığıyla öne çıkan sempatik bir yoldaştır.",
+        "Ağır silahlarla çatışmalarda en önde yer alsa da özünde merhametli ve duygusal bir kalbi vardır.",
+        "Mahalledeki tehlikeli güç savaşlarında patronunun arkasından bir an olsun ayrılmaz.",
+        "Vartolu Sadettin'in en güvendiği sağ kolu ve can yoldaşıdır.",
+        "Yamaç Koçovalı ve ailesiyle kurulan ateşkes sonrasında da patronunun yanından ayrılmayan sadık adamdır."
+      ]
+    },
+    {
+      "id": "iskender-baba",
+      "name": "İskender",
+      "seriesId": "leyla-ile-mecnun",
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Sarı taksisinin direksiyonunda gece gündüz direksiyon sallayan cefakar ve sevecen bir babadır.",
+        "Mahallenin gençlerinin bulaştığı absürt dertlere koşup arabasıyla onları kurtaran emektardır.",
+        "Evde beyaz atletiyle oturup oğlunun hayalperest hallerine hem söylenen hem de kol kanat geren aile reisidir.",
+        "Erdal Bakkal ile dükkan önünde çay içip dertleşen, sahilin sağduyulu sakinidir.",
+        "Mecnun'un fedakar babası olup Kireçburnu sahilinde oğlunun aşk acılarını paylaşan taksicidir."
+      ]
+    },
+    {
+      "id": "aksakalli-dede",
+      "name": "Aksakallı Dede",
+      "seriesId": "leyla-ile-mecnun",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Bembeyaz cübbesi, uzun sakalları ve bastonuyla rüyalarda beliren bilge bir yol göstericidir.",
+        "Sadece rüyalarda kalmayıp gerçek dünyada da eve ve kahvehaneye yerleşen nevi şahsına münhasır bir ihtiyardır.",
+        "Elindeki bastonuyla gençlerin kafasına vurarak onları kendilerine getirmeye çalışır.",
+        "İsmail Abi ve Yavuz ile birlikte mahalle maceralarına felsefi ve absürt yorumlar katar.",
+        "Mecnun'un rüyasından çıkıp evdeki kanepeye kurulan ve televizyon izleyen efsanevi derviştir."
+      ]
+    },
+    {
+      "id": "tefo",
+      "name": "Tevfik Zaim",
+      "seriesId": "ezel",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Sert bir görev adamı gibi görünse de içinde masum ve vicdanlı bir kalp taşıyan bir operasyoncudur.",
+        "İki taraf arasında gizli bir köprü olurken büyük bir vicdan azabı çekmiştir.",
+        "Mahalledeki eski hatıralar ile yeni kurulan gizemli intikam çarkı arasında sıkışıp kalmıştır.",
+        "Ramiz Dayı'nın talimatıyla Ali Kırgız'ın ekibine sızmış, zamanla ona gerçek bir kardeş gibi bağlanmıştır.",
+        "Sadakatiyle kalplerde derin iz bırakan ve Tefo lakabıyla anılan unutulmaz karakterdir."
+      ]
+    },
+    {
+      "id": "sebnem-sertuna",
+      "name": "Şebnem Sertuna",
+      "seriesId": "ezel",
+      "attrs": {
+        "kadin": true,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Teknoloji, dinleme cihazları ve bilgi sızdırma konusunda uzmanlaşmış yetenekli bir asistandır.",
+        "Zarafeti, kılık değiştirme kabiliyeti ve zekasıyla operasyonlarda kilit bilgileri toplar.",
+        "Geçmişindeki zor günlerden kendisini çekip kurtaran hamiline sınırsız bir bağlılık duyar.",
+        "Ramiz Dayı ve intikam ekibinin lüks otel operasyonlarında sağ kolu olmuştur.",
+        "Tevfik ile yaşadığı hüzünlü aşkla tanınan ve operasyonların teknik beyni olan zarif kadındır."
+      ]
+    },
+    {
+      "id": "arif-akasya-duragi",
+      "name": "Kelle Arif",
+      "seriesId": "akasya-duragi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Eski bir kasap olup direksiyon başına geçtikten sonra da satırını bagajında saklayan bir şofördür.",
+        "Haksızlıklara ve kaba müşterilere karşı anında parlayan oldukça sert bir mizacı vardır.",
+        "Öfkelendiğinde gözü hiçbir şey görmeyen fakat duraktaki dostlarını her zaman koruyan heybetli biridir.",
+        "Osman Ağa ile durak içi atışmalarında ve Sinan Kaya'nın kurnazlıklarını bozmada ön saftadır.",
+        "Eski mesleğinden ötürü kasap lakaplı, heybeti ve babacan tavırlarıyla durakta saygı gören taksicidir."
+      ]
+    },
+    {
+      "id": "obayana",
+      "name": "Obayana",
+      "seriesId": "akasya-duragi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Uzak bir ülkeden üniversite tahsili görmek için İstanbul'a gelmiş kibar bir öğrencidir.",
+        "Geleneksel adetleri öğrenmeye çalışırken komik ve sevimli durumlara düşer.",
+        "Gönül verdiği kıza kavuşabilmek uğruna konulan zorlu engelleri sabırla aşmaya çalışır.",
+        "Osman Ağa'nın kızı Dilek'e olan tertemiz sevgisiyle tüm durağın sempatisini kazanmıştır.",
+        "Afrika kökenli olup sempatik şivesi ve saz çalma denemeleriyle diziye renk katan damat adayıdır."
+      ]
+    },
+    {
+      "id": "timur-yavuzoglu",
+      "name": "Timur Yavuzoğlu",
+      "seriesId": "bahar",
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": true,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Mesleki kariyerine ve toplumdaki prestijine aşırı düşkün, kibirli bir cerrahi profesörüdür.",
+        "Yıllar boyu evinde otoriter ve mesafeli bir eş tutumu sergilemiştir.",
+        "Eşinin geçirdiği ağır karaciğer yetmezliğinde kendi organını vermeye yanaşmayarak bencilce davranmıştır.",
+        "Eşinin tıp fakültesi diplomasını sandıktan çıkarıp aynı hastanede asistanlığa başlamasıyla sarsılmıştır.",
+        "Annesinin kontrolünden bir türlü çıkamayan ve hastanedeki gizli ilişkisi ifşa olan cerrahtır."
+      ]
+    },
+    {
+      "id": "evren-yalkin",
+      "name": "Evren Yalkın",
+      "seriesId": "bahar",
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Başarılı, modern ve hastalarına büyük bir empatiyle yaklaşan karizmatik bir cerrahtır.",
+        "Zorlu bir nakil operasyonunu üstlenip hastasını yeniden hayata bağlamayı başarmıştır.",
+        "Kadınların kendi ayakları üzerinde durmasını ve mesleki hayata dönmesini gönülden destekler.",
+        "Yıllar sonra hastaneye dönen asistan hekime cesaret veren ve ona mesleğinde kol kanat geren profesördür.",
+        "Timur Yavuzoğlu'nun kibirli tavırlarına karşı her fırsatta adaleti ve doğruluğu savunan hekimdir."
+      ]
+    },
+    {
+      "id": "cihan-inci-taneleri",
+      "name": "Cihan",
+      "seriesId": "inci-taneleri",
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "clues": [
+        "Yetimhane koğuşlarında büyüyüp sokakların katı kurallarıyla olgunlaşmış hırçın bir delikanlıdır.",
+        "Otopark ve mahalle işlerinde söz sahibi olarak kendi genç ekibini çekip çevirir.",
+        "Çocukken ailesinin dağılması yüzünden içine kapanmış, kırgınlığını sert bir tavırla örtmüştür.",
+        "Azem Yücedağ'ın yıllar sonra izini bulup bağrına basmak için çabaladığı öz oğludur.",
+        "Gerçek kimliği Özgür olan, babasıyla yüzleştiğinde geçmişin ağır yüküyle sarsılan gençtir."
+      ]
+    },
+    {
+      "id": "piraye-inci-taneleri",
+      "name": "Piraye",
+      "seriesId": "inci-taneleri",
+      "attrs": {
+        "kadin": true,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Köklü bir aileye mensup, holding bünyesinde üst düzey yöneticilik yapan zarif bir kadındır.",
+        "Kızına özel ders vermesi için anlaştığı öğretmenin edebiyat birikimine ve olgunluğuna saygı duyar.",
+        "Sosyetik ortamların yüzeyselliğinden uzak, entelektüel ve derin sohbetlerden keyif alan bir kimsedir.",
+        "Azem Yücedağ'ın gizemli geçmişini ve edebiyat dolu duruşunu merakla takip eder.",
+        "Dilber ile Azem arasındaki bağı bilmeden gelişen duygusal yakınlıkla hikayede yer alan şık iş kadınıdır."
+      ]
+    },
+    {
+      "id": "feyyza-ozdemir",
+      "name": "Feyyza Özdemir",
+      "seriesId": "kardes-payi",
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Mahallenin akaryakıt istasyonunu erkek çalışanlara taş çıkaran bir otoriteyle çekip çeviren genç kadındır.",
+        "Tesisatçı ağabeylerinin sorumsuzluklarını ve hayalperest mucitliklerini toparlayan evin aklıdır.",
+        "İki 'y' harfiyle yazılan isminin yanlış telaffuz edilmesine tahammülü olmayan dobra biridir.",
+        "Ali ve Metin isimli kardeşlerin en küçüğü olup evin geçim derdini omuzlamıştır.",
+        "Benzinlikte pompacılık yapan mahalleliye patronluk eden, açık sözlü kız kardeştir."
+      ]
+    },
+    {
+      "id": "buyuk-hilmi",
+      "name": "Büyük Hilmi",
+      "seriesId": "kardes-payi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Mahallenin en garip, sonradan görme ve absürt derecede zengin iş insanıdır.",
+        "Gördüğü her projeye akıl almaz ve etik dışı ortaklık teklifleriyle salça olmaya bayılır.",
+        "Bornozla veya cafcaflı ipek gömlekleriyle mahallede gezinen dengesiz bir figürdür.",
+        "Ali Özdemir ve Metin Özdemir'in icat ettiği suyla çalışan motor projesine çökmeye çalışmıştır.",
+        "Feyyza'ya platonik ilgi duyup istasyonu satın almaya kalkan, absürt zenginliğiyle güldüren tiptir."
+      ]
+    },
+    {
+      "id": "sezai-kardes-payi",
+      "name": "Sezai",
+      "seriesId": "kardes-payi",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Sanayi sitesinde iş makineleri tamiratı yapan, çıraklarına hayat dersi veren huysuz bir ustadır.",
+        "\"Ne dedin sen, ne dedin?\" repliği ve duyma engelli taklidiyle muhataplarını çileden çıkaran bir esnaftır.",
+        "Kartal İş Makinaları atölyesinde motor yağları ve parçalar arasında günlerini geçirir.",
+        "Ali Özdemir ve Metin Özdemir kardeşlerin tesisat borusu bükmek için uğradıkları komşu tamircidir.",
+        "Çıraklarına sürekli çıkışan, gözlüklerinin üzerinden ters ters bakan emektar ustadır."
+      ]
+    },
+    {
+      "id": "mursel-genis-aile",
+      "name": "Mürsel",
+      "seriesId": "genis-aile",
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Lisede görev yapan, telaşlandığında konuşmakta zorluk çeken aşırı pimpirikli bir eğitimcidir.",
+        "Akarsuların debisi, ovalar ve fay hatları hakkında aniden uzun bilimsel bilgiler sıralayan bir hocadır.",
+        "Kayınvalidesinin evinde içgüveysi olarak yaşarken başına gelmedik sakarlık kalmamıştır.",
+        "Cevahir Kirişçi'nin kız kardeşi Nazan ile evlenip aileye damat olmuştur.",
+        "Kekeleyerek heyecanla konuşması ve bayılma nöbetleriyle hafızalara kazınan sevimli coğrafyacıdır."
+      ]
+    },
+    {
+      "id": "zekai-kirisci",
+      "name": "Zekai Kirişçi",
+      "seriesId": "genis-aile",
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "clues": [
+        "Sayısal zekası tavan yapmış, okulun en zeki fakat en haylaz lise talebesidir.",
+        "Ağabeyinin parlak üçkâğıtlarına fiziksel formüller ve matematiksel hesaplarla destek atar.",
+        "Mahallenin kuytu köşelerinde korsan test kitabı ve zeka oyunlarıyla harçlık çıkarmaya bayılır.",
+        "Cevahir'in en küçük kardeşi olup onun mirasyedi planlarını dalgaya alır.",
+        "Pırıl'a duyduğu lise aşkı ve okul müdürüne kurduğu zekice tuzaklarla tanınan dahi çocuktur."
+      ]
     }
   ],
   "extras": {
@@ -6566,6 +7537,35 @@
       "unlock": {
         "type": "wins",
         "count": 25
+      }
+    },
+    {
+      "id": "komedi-efsaneleri",
+      "title": "Sezon 7",
+      "subtitle": "Komedi ve dijital fenomenler",
+      "seriesIds": [
+        "gibi",
+        "prens",
+        "kardes-payi",
+        "genis-aile",
+        "akasya-duragi"
+      ],
+      "unlock": {
+        "type": "wins",
+        "count": 30
+      }
+    },
+    {
+      "id": "modern-fenomenler",
+      "title": "Sezon 8",
+      "subtitle": "Yeni nesil ekran yıldızları",
+      "seriesIds": [
+        "inci-taneleri",
+        "bahar"
+      ],
+      "unlock": {
+        "type": "wins",
+        "count": 35
       }
     }
   ],
