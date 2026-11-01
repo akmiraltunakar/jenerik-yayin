@@ -10256,17 +10256,17 @@
     },
     {
       "id": "s9",
-      "characterId": "mehmet-karahanli",
-      "text": "Sultanahmet'te bir mabette, Tapınakçıların bıçakları altında can verdi.",
+      "characterId": "asya-yilmaz",
+      "text": "Aile yemeğinde kocasının genç sevgilisinin ailesinin karşısına geçip “Kocam beni 2 yıldır kızınızla aldatıyor, üstelik kızınız hamile” diyerek masayı yıktı.",
       "draft": true,
-      "source": "tr.wikipedia Kurtlar Vadisi karakterleri"
+      "source": "Sadakatsiz İkonik Yemek Sahnesi"
     },
     {
       "id": "s10",
-      "characterId": "kilic",
-      "text": "Yıllarca yanında taşıdığı kendi çakısıyla öldürüldü.",
+      "characterId": "nursema-unal",
+      "text": "Zorla evlendirildiği ailenin ve kendi ailesinin toplandığı akşam yemeğinde ayağa fırlayıp “Beni o gece pencereden aşağı attı!” diye haykırdı.",
       "draft": true,
-      "source": "tr.wikipedia Kurtlar Vadisi karakterleri"
+      "source": "Kızılcık Şerbeti İkonik Yüzleşme"
     },
     {
       "id": "s11",
@@ -10522,10 +10522,10 @@
     },
     {
       "id": "s47",
-      "characterId": "laz-ziya",
-      "text": "Konseyde kendi öz kızının ölüm fermanını gözyaşları içinde onaylamak zorunda kaldı.",
+      "characterId": "doga",
+      "text": "Doğum yapacağı gün eşinin ihanet fotoğraflarını boşanma protokolüyle birlikte önlerine fırlatıp “Ben artık gidiyorum” dedi.",
       "draft": true,
-      "source": "İkonik Sahne Arşivi"
+      "source": "Kızılcık Şerbeti Sezon Finali"
     },
     {
       "id": "s48",
@@ -10585,24 +10585,24 @@
     },
     {
       "id": "s56",
-      "characterId": "aslan-akbey",
-      "text": "Arabasıyla kırmızı ışıkta beklerken yanına yaklaşan aracın içinden taranarak öldürüldü.",
+      "characterId": "bahar-yavuzoglu",
+      "text": "Hayati karaciğer naklinde kocasının donör olmaktan kaçtığını ve onu aldattığını öğrenince “Artık sadece kendim için yaşayacağım” diyerek yeni bir hayata başladı.",
       "draft": true,
-      "source": "İkonik Sahne Arşivi"
+      "source": "Bahar Uyanış Sahnesi"
     },
     {
       "id": "s57",
-      "characterId": "abuzer-komurcu",
-      "text": "Laboratuvarda uyuşturucu üretirken oğluna sürekli “İti an çomağı hazırla Erdal!” diyerek tokat attı.",
+      "characterId": "dilber-inci-taneleri",
+      "text": "Pavyonda kırmızı elbisesi ve zilleriyle “Evim barkım yok mu benim?” şarkısı eşliğinde dans ederek sosyal medyada fırtınalar kopardı.",
       "draft": true,
-      "source": "İkonik Sahne Arşivi"
+      "source": "İnci Taneleri Dans Sahnesi"
     },
     {
       "id": "s58",
-      "characterId": "pala",
-      "text": "“Sadece ölüler görür” dediği siyah güneş gözlüklerini çıkarıp düşmanlarını infaz etti.",
+      "characterId": "ferit-korhan",
+      "text": "Havalimanında sevdiği kızı son anda yakalamak için korumaları atlatıp uçağın kapısına kadar koştu ve tüm yolcuların önünde onu öptü.",
       "draft": true,
-      "source": "İkonik Sahne Arşivi"
+      "source": "Yalı Çapkını Havalimanı Sahnesi"
     },
     {
       "id": "s59",
@@ -10641,10 +10641,10 @@
     },
     {
       "id": "s64",
-      "characterId": "abdulhey-coban",
-      "text": "Ofiste kurulan bombayı fark edince kendini bombanın üzerine siper ederek arkadaşlarını kurtarmaya çalıştı.",
+      "characterId": "seyran-sanli",
+      "text": "Yalıdaki baskılara ve iftiralara dayanamayıp televizyon canlı yayınına çıktı ve tüm ailenin karanlık sırlarını tek tek anlattı.",
       "draft": true,
-      "source": "İkonik Sahne Arşivi"
+      "source": "Yalı Çapkını Canlı Yayın"
     },
     {
       "id": "s65",
@@ -10666,6 +10666,41 @@
       "text": "Uçurum kenarında en yakın arkadaşına ihanetini itiraf ederken aşağı itilerek can verdi.",
       "draft": true,
       "source": "İkonik Sahne Arşivi"
+    },
+    {
+      "id": "s68",
+      "characterId": "cuneyd-gunes",
+      "text": "Tekkedeki sohbet halkasında felsefe ve psikoloji harmanlayarak “Vakt-i kerahat” üzerine yaptığı derin analizle müridleri hayrete düşürdü.",
+      "source": "Kızıl Goncalar Sohbet Sahnesi",
+      "draft": true
+    },
+    {
+      "id": "s69",
+      "characterId": "safiye",
+      "text": "Dışarıdan eve gelen her poşeti ve sebzeyi deterjanlı sularla en az dört defa yıkayıp saatlerce temizlik krizine girdi.",
+      "source": "Masumlar Apartmanı Temizlik Sahnesi",
+      "draft": true
+    },
+    {
+      "id": "s70",
+      "characterId": "eda-yildiz",
+      "text": "Yurt dışı eğitim bursunu kestiğini düşündüğü kibirli holding patronunun koluna kendini kelepçeledi.",
+      "source": "Sen Çal Kapımı Kelepçe Sahnesi",
+      "draft": true
+    },
+    {
+      "id": "s71",
+      "characterId": "ceylin-erguvan",
+      "text": "Kendi kız kardeşinin cinayet davasında savcının ve hakimin karşısına geçip adliye koridorlarında kural tanımayan çılgın bir savaş başlattı.",
+      "source": "Yargı Duruşma Sahnesi",
+      "draft": true
+    },
+    {
+      "id": "s72",
+      "characterId": "mert-serez",
+      "text": "Küçüklüğünden beri aşık olduğu kıza açılabilmek için çizgi roman kahramanlarına sığındı ve sonunda plajda ona aşkını haykırdı.",
+      "source": "Medcezir Plaj İtirafı",
+      "draft": true
     }
   ]
 }
