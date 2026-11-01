@@ -10701,6 +10701,55 @@
       "text": "Küçüklüğünden beri aşık olduğu kıza açılabilmek için çizgi roman kahramanlarına sığındı ve sonunda plajda ona aşkını haykırdı.",
       "source": "Medcezir Plaj İtirafı",
       "draft": true
+    },
+    {
+      "id": "s73",
+      "characterId": "mehmet-karahanli",
+      "text": "Sultanahmet'te bir mabette, Tapınakçıların hançerleri altında hayatını kaybetti.",
+      "source": "Kurtlar Vadisi Konsey Sahnesi",
+      "draft": true
+    },
+    {
+      "id": "s74",
+      "characterId": "kilic",
+      "text": "Yıllarca yanında sadakatle taşıdığı kendi çakısıyla arkasından vurularak öldürüldü.",
+      "source": "Kurtlar Vadisi Kılıç Finali",
+      "draft": true
+    },
+    {
+      "id": "s75",
+      "characterId": "laz-ziya",
+      "text": "Konseyde kendi öz kızının infaz kararını gözyaşları içinde onaylamak zorunda kaldı.",
+      "source": "Kurtlar Vadisi Laz Ziya Sahnesi",
+      "draft": true
+    },
+    {
+      "id": "s76",
+      "characterId": "aslan-akbey",
+      "text": "Kırmızı ışıkta beklerken yanına yaklaşan aracın içinden taranarak suikaste uğradı.",
+      "source": "Kurtlar Vadisi Aslan Akbey Suikasti",
+      "draft": true
+    },
+    {
+      "id": "s77",
+      "characterId": "abuzer-komurcu",
+      "text": "Laboratuvarda uyuşturucu üretirken oğluna sürekli “İti an çomağı hazırla Erdal!” diyerek tokat attı.",
+      "source": "Kurtlar Vadisi Abuzer Replikleri",
+      "draft": true
+    },
+    {
+      "id": "s78",
+      "characterId": "pala",
+      "text": "“Sadece ölüler görür” dediği siyah güneş gözlüklerini çıkarıp infazını gerçekleştirdi.",
+      "source": "Kurtlar Vadisi Pala Sahnesi",
+      "draft": true
+    },
+    {
+      "id": "s79",
+      "characterId": "abdulhey-coban",
+      "text": "Ofiste kurulan bombayı fark edince kendini bombanın üzerine siper ederek dava arkadaşlarını korumaya çalıştı.",
+      "source": "Kurtlar Vadisi Abdülhey Fedakarlığı",
+      "draft": true
     }
   ]
 }
