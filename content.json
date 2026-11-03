@@ -495,6 +495,96 @@
         "komedi": false,
         "yeni": true
       }
+    },
+    {
+      "id": "adanali",
+      "title": "Adanalı",
+      "attrs": {
+        "tarih": false,
+        "komedi": false,
+        "yeni": false
+      }
+    },
+    {
+      "id": "isler-gucler",
+      "title": "İşler Güçler",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
+    },
+    {
+      "id": "kertenkele",
+      "title": "Kertenkele",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
+    },
+    {
+      "id": "poyraz-karayel",
+      "title": "Poyraz Karayel",
+      "attrs": {
+        "tarih": false,
+        "komedi": false,
+        "yeni": false
+      }
+    },
+    {
+      "id": "cennet-mahallesi",
+      "title": "Cennet Mahallesi",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
+    },
+    {
+      "id": "yalan-dunya",
+      "title": "Yalan Dünya",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
+    },
+    {
+      "id": "kavak-yelleri",
+      "title": "Kavak Yelleri",
+      "attrs": {
+        "tarih": false,
+        "komedi": false,
+        "yeni": false
+      }
+    },
+    {
+      "id": "gunesi-beklerken",
+      "title": "Güneşi Beklerken",
+      "attrs": {
+        "tarih": false,
+        "komedi": false,
+        "yeni": false
+      }
+    },
+    {
+      "id": "yilan-hikayesi",
+      "title": "Yılan Hikayesi",
+      "attrs": {
+        "tarih": false,
+        "komedi": false,
+        "yeni": false
+      }
+    },
+    {
+      "id": "ekmek-teknesi",
+      "title": "Ekmek Teknesi",
+      "attrs": {
+        "tarih": false,
+        "komedi": true,
+        "yeni": false
+      }
     }
   ],
   "characters": [
@@ -9707,6 +9797,1265 @@
         "Cevahir",
         "Pırıl",
         "Lise"
+      ]
+    },
+    {
+      "id": "c_yargi_pars",
+      "name": "Pars Seçkin",
+      "seriesId": "yargi",
+      "actor": "Mehmet Yılmaz Ak",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "savci",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Adalet Sarayı'nın en prensipli, kuralcı başsavcısıdır.",
+        "Göz damlası damlatırkenki kendine has tavrı ve 'Savcım!' çıkışları ikoniktir.",
+        "Ilgaz Kaya ve Ceylin Erguvan ile hem çatışır hem derin bir dostluk kurar."
+      ]
+    },
+    {
+      "id": "c_yargi_yekta",
+      "name": "Yekta Tilmen",
+      "seriesId": "yargi",
+      "actor": "Uğur Polat",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "avukat",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Hukukun açıklarını sonuna kadar kullanan, entrikacı usta avukattır.",
+        "Oğlu Engin'in işlediği cinayeti örtbas etmek için yapmadığı oyun kalmamıştır.",
+        "Şık takım elbiseleri, kinayeli gülüşü ve laf sokmalarıyla ünlüdür."
+      ]
+    },
+    {
+      "id": "c_kserbeti_alev",
+      "name": "Alev Arslan",
+      "seriesId": "kizilcik-serbeti",
+      "actor": "Müjde Uzman",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "organizator",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Özgür ruhlu, dobra, kimseden lafını esirgemeyen bir organizasyon şirketi sahibidir.",
+        "Kıvılcım'ın kız kardeşi, Doğa ve Çimen'in çılgın teyzesidir.",
+        "Abdullah Ünal (Apo) ile yaşadığı yasak ve fırtınalı aşk tüm dengeleri altüst etmiştir."
+      ]
+    },
+    {
+      "id": "c_prens_kral_thun",
+      "name": "Kral Thun",
+      "seriesId": "prens",
+      "actor": "Hüseyin Avni Danyal",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "kral",
+        "rol": "ana",
+        "donem": "tarihi",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Bongomia Krallığı'nın kudretli, sert ve kuralcı kurucu hükümdarıdır.",
+        "Oğlu Prens'in beceriksizliklerine ve ciddiyetsizliğine asla tahammül edemez.",
+        "Savaş meydanlarında zaferler kazanmış ama saray içindeki entrikalara yenik düşmüştür."
+      ]
+    },
+    {
+      "id": "c_prens_hasharia",
+      "name": "Hasharia",
+      "seriesId": "prens",
+      "actor": "Derya Pınar Ak",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "prenses",
+        "rol": "ana",
+        "donem": "tarihi",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Bongomia Krallığı'nın asi, sivri dilli ve savaşçı prensesidir.",
+        "Sarayın hanımefendi kurallarına başkaldırır, dövüş sanatlarında ustadır.",
+        "Kraliyet ailesindeki taht kavgalarında zekası ve çevikliğiyle öne çıkar."
+      ]
+    },
+    {
+      "id": "c_bahar_rengin",
+      "name": "Rengin Çevik",
+      "seriesId": "bahar",
+      "actor": "Ecem Özkaya",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "doktor",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Hastanede Timur Yavuzoğlu ile gizli ilişki yaşayan hırslı ve başarılı bir doktordur.",
+        "Bahar'ın hastaneye asistan olarak dönmesiyle köşeye sıkışır ve planlar yapar.",
+        "Kariyerini ve itibarını korumak için elinden gelen her türlü entrikayı göze alır."
+      ]
+    },
+    {
+      "id": "c_arkasokaklar_suat",
+      "name": "Suat Çoban",
+      "seriesId": "arka-sokaklar",
+      "actor": "Fügen Akkemik",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "ev hanimi",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Hüsnü Çoban'ın biricik ve fedakar eşi, Çoban ailesinin direğidir.",
+        "Metin, Tekin, Zeliş, Şule ve küçük oğlunu binbir emekle büyütmüştür.",
+        "Kuyumcu soygunundaki trajik araba kazasıyla tüm Türkiye'yi gözyaşına boğmuştur."
+      ]
+    },
+    {
+      "id": "c_arkasokaklar_engin",
+      "name": "Engin Başkomiser",
+      "seriesId": "arka-sokaklar",
+      "actor": "İlker İnanoğlu",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "polis",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Rıza Baba'nın yokluğunda ekibe liderlik eden, yurt dışı eğitimli karizmatik emniyet müdürüdür.",
+        "Hukuka ve disipline son derece bağlı, sakin ve stratejik düşünen bir polistir.",
+        "Özel operasyonlarda ekibin en güvendiği taktik liderlerden biridir."
+      ]
+    },
+    {
+      "id": "c_kv_iskender_buyuk",
+      "name": "İskender Büyük",
+      "seriesId": "kurtlar-vadisi",
+      "actor": "Musa Uzunlar",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "derin devlet",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Devletin karanlık koridorlarında yetişmiş, acımasız ve vizyoner eski istihbaratçıdır.",
+        "'Ben devletim!' tiradı ve purosuyla Kurtlar Vadisi Pusu dönemine damgasını vurmuştur.",
+        "Polat Alemdar'ın en güçlü ve en zeki hasımlarından biridir."
+      ]
+    },
+    {
+      "id": "c_kv_halit",
+      "name": "Cerrahpaşalı Halit",
+      "seriesId": "kurtlar-vadisi",
+      "actor": "Mehmet Özcan Varaylı",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "mafya",
+        "rol": "yan",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "İstanbul yeraltı dünyasında Cerrahpaşalılar çetesinin acımasız lideridir.",
+        "Çakır ve Polat'a kafa tutmuş, kahvehanede Çakır tarafından boğazı kesilerek infaz edilmiştir.",
+        "'Biat etmeyen kafayı gövdeden ayırırız' mantığıyla hareket eden gaddar bir mafya babasıdır."
+      ]
+    },
+    {
+      "id": "c_kv_bulut",
+      "name": "Yalçın Bulut",
+      "seriesId": "kurtlar-vadisi",
+      "actor": "Hüseyin Avni Danyal",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "mafya",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Davut Tataroğlu'nun sağ kolu, racon bilen ve sadakat timsali tecrübeli tetikçidir.",
+        "Memati Baş ile hem düşman olup hem karşılıklı saygı ve dostluk geliştirmişlerdir.",
+        "Purosu, sakin ve kendinden emin konuşma tarzıyla vadi dünyasının unutulmazlarındandır."
+      ]
+    },
+    {
+      "id": "c_masumlar_gulben",
+      "name": "Gülben Derenoğlu",
+      "seriesId": "masumlar-apartmani",
+      "actor": "Merve Dizdar",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "ev hanimi",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Annesinin travmatik baskıları yüzünden altına ıslatma ve temizlik takıntısı olan hassas kardeştir.",
+        "Masallara ve romantik hayallere sığınarak çocukça bir dünyada yaşamaya çalışmıştır.",
+        "Esat'a olan tertemiz sevgisi ve psikolojik tedaviyle adım adım iyileşmesi milyonları duygulandırmıştır."
+      ]
+    },
+    {
+      "id": "c_icerde_melek",
+      "name": "Melek Yılmaz",
+      "seriesId": "icerde",
+      "actor": "Bensu Soral",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "avukat",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Celal Baba'nın manevi kızı ve organize suç örgütünün şirket avukatıdır.",
+        "Sarp Yılmaz ile tanıştıktan sonra ona aşık olmuş ve karanlık dünyadan kopmaya çalışmıştır.",
+        "Sarp ve Mert'in (Umut) öz kardeş olduklarını tam açıklayacakken vurularak hayatını kaybetmiştir."
+      ]
+    },
+    {
+      "id": "c_avrupa_selin",
+      "name": "Selin Yerebakan",
+      "seriesId": "avrupa-yakasi",
+      "actor": "Evrim Akın",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "moda yazari",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "'Oha falan oldum yani!', 'Kal geldi' gibi dönemin popüler gençlik repliklerinin sahibidir.",
+        "Zengin ailesinin şımarık kızı olup Avrupa Yakası dergisinde moda yazarlığı yapmaktadır.",
+        "Volkan Sütçüoğlu ile inişli çıkışlı komik flörtleri ve saflığıyla hatırlanır."
+      ]
+    },
+    {
+      "id": "c_ezel_bade",
+      "name": "Bade Uysal",
+      "seriesId": "ezel",
+      "actor": "Berrak Tüzünataç",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "mimar",
+        "rol": "yan",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Ezel'in şirketinde iç mimar olarak çalışmaya başlayan saf ve dürüst genç kadındır.",
+        "Ezel'in karanlık intikam dünyasına inat ona huzur ve samimi bir liman olmaya çalışmıştır.",
+        "Eyşan'ın yarattığı gölgenin altında Ezel'e duyduğu sevgiyle sınanmıştır."
+      ]
+    },
+    {
+      "id": "c_kgoncalar_sadi",
+      "name": "Sadi Hüdayi Güneş",
+      "seriesId": "kizil-goncalar",
+      "actor": "Erkan Avcı",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "tarikat sozu",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Fâniler tarikatında posta oturmak isteyen, zeki ve politik akla sahip söz sahibidir.",
+        "Yeğeni Cüneyd'e hem sahip çıkar hem de onun dergah üzerindeki otoritesini dengede tutmaya çalışır.",
+        "Kendine has hazırcevaplığı, nüktedanlığı ve eşi Hasna ile olan diyaloglarıyla dikkat çeker."
+      ]
+    },
+    {
+      "id": "c_kgoncalar_hasna",
+      "name": "Hasna Güneş",
+      "seriesId": "kizil-goncalar",
+      "actor": "Selen Öztürk",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "ev hanimi",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Sadi Hüdayi'nin hırslı, kuralcı ve dergah kadınları üzerinde etkili eşidir.",
+        "Kızı Feyza'yı Cüneyd ile evlendirip tarikatın başına geçirmek en büyük gayesidir.",
+        "Meryem ve Zeynep'in dergaha gelişiyle otoritesinin sarsıldığını hissedip mücadeleye girişir."
+      ]
+    },
+    {
+      "id": "c_yali_abidin",
+      "name": "Abidin",
+      "seriesId": "yali-capkini",
+      "actor": "Ersin Arıcı",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "koruma",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Ferit Korhan'ın kişisel şoförü, koruması ve en yakın sırdaşıdır.",
+        "Suna Şanlı'ya derin ve samimi bir aşk beslemiş, imkansızlıklar yüzünden büyük acılar çekmiştir.",
+        "Korhan ailesine duyduğu sadakat ile kalbinin sesi arasında sıkışıp kalmıştır."
+      ]
+    },
+    {
+      "id": "c_yali_pelin",
+      "name": "Pelin Yılmaz",
+      "seriesId": "yali-capkini",
+      "actor": "Buçe Buse Kahraman",
+      "attrs": {
+        "cinsiyet": "kadin",
+        "kadin": true,
+        "meslek": "tasarimci",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Ferit Korhan'ın evlenmeden önceki ve evlendikten sonraki takıntılı eski sevgilisidir (Pelo).",
+        "Seyran ile Ferit'in evliliğini kabullenemeyip aralarına girmek için annesi Zerrin'le planlar yapmıştır.",
+        "Yalıdaki entrikaların ve Ferit'in vicdan azaplarının merkezindeki karakterlerden biridir."
+      ]
+    },
+    {
+      "id": "c_inci_nusret",
+      "name": "Nusret",
+      "seriesId": "inci-taneleri",
+      "actor": "Rıza Kocaoğlu",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "mafya",
+        "rol": "ana",
+        "donem": "modern",
+        "durum": "hayatta"
+      },
+      "clues": [
+        "Yeraltı dünyasının tekinsiz, fevri ve tehlikeli suç patronlarındandır.",
+        "Cihan'ın karanlık alemlerdeki abisi ve en büyük destekçilerinden biridir.",
+        "Sert mizacı ve racon kesen tavırlarıyla pavyon ve sokak dünyasında korku salar."
+      ]
+    },
+    {
+      "id": "c_kv_tilki_andrei",
+      "name": "Tilki Andrei",
+      "seriesId": "kurtlar-vadisi",
+      "actor": "Orhan Ertürk",
+      "attrs": {
+        "cinsiyet": "erkek",
+        "kadin": false,
+        "meslek": "ajan",
+        "rol": "yan",
+        "donem": "modern",
+        "durum": "vefat"
+      },
+      "clues": [
+        "Rus mafyasının ve istihbaratının Türkiye'ye gönderdiği acımasız ve soğukkanlı lideridir.",
+        "Satranç ustalığı, kusursuz Türkçesi ve zekice kurguladığı pusularla Polat Alemdar'ı çok zorlamıştır.",
+        "Kurtlar Vadisi serisinin en efsanevi yabancı başdüşmanlarından biri olarak kabul edilir."
+      ]
+    },
+    {
+      "id": "maraz-ali",
+      "name": "Maraz Ali",
+      "seriesId": "adanali",
+      "draft": true,
+      "clues": [
+        "Siyah deri ceketi ve motoruyla dönemin gençliğini peşinden sürükledi.",
+        "Gündüzleri kendi oto tamirhanesinde usta, geceleri profesyonel bir soygun çetesinin lideridir.",
+        "Sadık köpeği Rıfkı en büyük yoldaşıdır.",
+        "Çocukluk dostu polis komiseriyle aynı kadına aşık olup karşı karşıya gelmiştir.",
+        "Mehmet Akif Alakurt’un canlandırdığı efsanevi karakter."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "taboo": [
+        "Deri Ceket",
+        "Tamirhane",
+        "Adanalı",
+        "Yavuz",
+        "Mehmet Akif Alakurt"
+      ]
+    },
+    {
+      "id": "yavuz-komiser",
+      "name": "Yavuz Komiser",
+      "seriesId": "adanali",
+      "draft": true,
+      "clues": [
+        "Adana şivesi, tesbihi ve sert mizacıyla tanınan sıra dışı bir polistir.",
+        "Organize suçlarla mücadele için Adana’dan İstanbul’a özel olarak getirilmiştir.",
+        "\"Adanalıyık Allah’ın adamıyık\" repliğiyle hafızalara kazınmıştır.",
+        "Oktay Kaynarca’nın hayat verdiği başkomiser."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": true,
+        "cete": false
+      },
+      "taboo": [
+        "Adana",
+        "Komiser",
+        "Polis",
+        "Maraz Ali",
+        "Oktay Kaynarca"
+      ]
+    },
+    {
+      "id": "fiko-adanali",
+      "name": "Fiko",
+      "seriesId": "adanali",
+      "draft": true,
+      "clues": [
+        "Oto tamirhanesinde çalışan, çetenin en saf ve komik üyesidir.",
+        "Liderine olan aşırı hayranlığı ve sürekli yaptığı sakarlıklarla bilinir.",
+        "Umut Oğuz’un canlandırdığı sempatik çete elemanı."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "taboo": [
+        "Maraz Ali",
+        "Tamirhane",
+        "Çete",
+        "Umut Oğuz",
+        "Komik"
+      ]
+    },
+    {
+      "id": "idil-adanali",
+      "name": "İdil",
+      "seriesId": "adanali",
+      "draft": true,
+      "clues": [
+        "Emniyet teşkilatında üst düzey yönetici ve aynı zamanda gizli istihbaratçıdır.",
+        "Hem polis komiserinin hem de suç örgütü liderinin aşık olduğu kilit kadındır.",
+        "Selin Demiratar’ın canlandırdığı polis karakteri."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": true,
+        "cete": false
+      },
+      "taboo": [
+        "Emniyet",
+        "Polis",
+        "Maraz Ali",
+        "Yavuz",
+        "Selin Demiratar"
+      ]
+    },
+    {
+      "id": "ahmet-kural-isler",
+      "name": "Ahmet Kural",
+      "seriesId": "isler-gucler",
+      "draft": true,
+      "clues": [
+        "Bağımsız film çekmek için her türlü absürt projeye ve düğün kasetine razı olan oyuncu.",
+        "Hızlı konuşması, mimikleri ve ani parlamalarıyla ünlüdür.",
+        "Kendi adıyla oynadığı kült komedi dizisi."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Murat Cemcir",
+        "Sadi Celil",
+        "Film",
+        "Düğün",
+        "Oyuncu"
+      ]
+    },
+    {
+      "id": "murat-cemcir-isler",
+      "name": "Murat Cemcir",
+      "seriesId": "isler-gucler",
+      "draft": true,
+      "clues": [
+        "Partneriyle birlikte \"Meslek Hikayeleri\" belgeselinde sunuculuk yapmaya çalışan kurnaz oyuncu.",
+        "Tokat şivesi ve kurnaz replikleriyle bilinir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Ahmet Kural",
+        "Sadi Celil",
+        "Belgesel",
+        "Yapımcı",
+        "Komedi"
+      ]
+    },
+    {
+      "id": "sadi-celil-cengiz",
+      "name": "Sadi Celil Cengiz",
+      "seriesId": "isler-gucler",
+      "draft": true,
+      "clues": [
+        "Eski gümrük memuru, oyunculuk yapmaya çalışan sessiz ve bunalımlı üçüncü ortak.",
+        "Sürekli kederli bakışları ve takım elbisesiyle dolaşır."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Ahmet",
+        "Murat",
+        "Gümrük",
+        "Gözlük",
+        "Oyuncu"
+      ]
+    },
+    {
+      "id": "boomcu-onur",
+      "name": "Boomcu Onur",
+      "seriesId": "isler-gucler",
+      "draft": true,
+      "clues": [
+        "Sette sadece ses mikrofonunu tutan, ağzını açıp neredeyse tek kelime etmeyen dahi karakter.",
+        "Ses kayıt cihazını boynuna asmış hali sosyal medyada en meşhur meme haline gelmiştir.",
+        "Ahmet Dursun’un canlandırdığı unutulmaz ses operatörü."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Mikrofon",
+        "Ses",
+        "Set",
+        "Konuşmayan",
+        "Meme"
+      ]
+    },
+    {
+      "id": "senol-baytar",
+      "name": "Şenol Baytar",
+      "seriesId": "isler-gucler",
+      "draft": true,
+      "clues": [
+        "Dizinin nev-i şahsına münhasır, kafayı sanatla bozmuş agresif yönetmenidir.",
+        "Şinasi Yurtsever’in devleştiği karakter."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Yönetmen",
+        "Set",
+        "Şinasi Yurtsever",
+        "Kamera",
+        "Bağımsız"
+      ]
+    },
+    {
+      "id": "kertenkele-ziya",
+      "name": "Kertenkele (Ziya Hoca)",
+      "seriesId": "kertenkele",
+      "draft": true,
+      "clues": [
+        "Polisten kaçarken bir camiye sığınıp sahte imamlık yapmak zorunda kalan profesyonel hırsız.",
+        "Mahallelinin saygı duyduğu sahte bir din adamı haline gelir.",
+        "Timur Acar’ın hayat verdiği unutulmaz karakter."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "İmam",
+        "Cami",
+        "Hırsız",
+        "Timur Acar",
+        "Zehra"
+      ]
+    },
+    {
+      "id": "deli-kenan",
+      "name": "Deli Kenan",
+      "seriesId": "kertenkele",
+      "draft": true,
+      "clues": [
+        "Kırmızı takım elbiseleri, aşırı agresif tavırları ve bağırışlarıyla meşhur mafya babası.",
+        "Yıldırım Memişoğlu’nun canlandırdığı komik mafya tipi."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": true,
+        "kanun": false,
+        "cete": true
+      },
+      "taboo": [
+        "Mafya",
+        "Kırmızı Takım",
+        "Ziya",
+        "Silah",
+        "Komik"
+      ]
+    },
+    {
+      "id": "zehra-kertenkele",
+      "name": "Zehra Şanlı",
+      "seriesId": "kertenkele",
+      "draft": true,
+      "clues": [
+        "Zengin bir ailenin kızıdır; dedesinin mirasını alabilmek için sahte imamla evcilik oyunu oynar.",
+        "Sera Tokdemir’in canlandırdığı başrol."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Ziya",
+        "Evlilik",
+        "Miras",
+        "Zengin",
+        "Gelin"
+      ]
+    },
+    {
+      "id": "poyraz-karayel",
+      "name": "Poyraz Karayel",
+      "seriesId": "poyraz-karayel",
+      "draft": true,
+      "clues": [
+        "Oğlunu geri alabilmek için mafyanın içine sızan eski polis memuru.",
+        "Sürekli \"Albayım...\" diyerek içini döken, Oğuz Atay hayranı melankolik aşık.",
+        "İlker Kaleli’nin canlandırdığı unutulmaz dizi kahramanı."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": true,
+        "cete": true
+      },
+      "taboo": [
+        "Ayşegül",
+        "Albayım",
+        "Sinan",
+        "Bahri Baba",
+        "İlker Kaleli"
+      ]
+    },
+    {
+      "id": "aysegul-umman",
+      "name": "Ayşegül Umman",
+      "seriesId": "poyraz-karayel",
+      "draft": true,
+      "clues": [
+        "Büyük bir mafya babasının tıp doktoru olan asi ve prensipli kızı.",
+        "Babasıyla arasındaki uçuruma rağmen onun düşmanı olan gizli polise aşık olmuştur.",
+        "Burçin Terzioğlu’nun oynadığı ikonik karakter."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Doktor",
+        "Poyraz",
+        "Bahri Baba",
+        "Burçin Terzioğlu",
+        "Umman"
+      ]
+    },
+    {
+      "id": "bahri-umman",
+      "name": "Bahri Baba (Bahri Umman)",
+      "seriesId": "poyraz-karayel",
+      "draft": true,
+      "clues": [
+        "Yeraltı dünyasının adaletiyle ve merhametiyle bilinen en büyük saygın babası.",
+        "Musa Uzunlar’ın ağırlığı ve ses tonuyla devleştiği karakter."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "taboo": [
+        "Baba",
+        "Mafya",
+        "Ayşegül",
+        "Musa Uzunlar",
+        "Adalet"
+      ]
+    },
+    {
+      "id": "zulfikar-poyraz",
+      "name": "Zülfikar",
+      "seriesId": "poyraz-karayel",
+      "draft": true,
+      "clues": [
+        "Her olayın altında \"küresel sermaye\" arayan, sol görüşlü romantik mafya üyesi.",
+        "Celil Nalçakan’ın canlandırdığı filozof tetikçi."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "taboo": [
+        "Küresel Sermaye",
+        "Bahri Baba",
+        "Celil Nalçakan",
+        "Meltem",
+        "Tetikçi"
+      ]
+    },
+    {
+      "id": "sefer-poyraz",
+      "name": "Sefer Kılıçarslan",
+      "seriesId": "poyraz-karayel",
+      "draft": true,
+      "clues": [
+        "Bahri Baba’nın fedaisi, Sema’ya olan karşılıksız ve derin aşkıyla yürekleri dağlayan delikanlı.",
+        "Görkem Kanpolat’ın unutulmaz rolü."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "taboo": [
+        "Sema",
+        "Bahri Baba",
+        "Fedai",
+        "Araba",
+        "Görkem Kanpolat"
+      ]
+    },
+    {
+      "id": "pembe-cennet",
+      "name": "Pembe",
+      "seriesId": "cennet-mahallesi",
+      "draft": true,
+      "clues": [
+        "Sürekli çekirdek çitleyip kızını zengin adama vermeye ant içmiş mahalle anası.",
+        "Ezeli düşmanı Yunus ile her gün kavga edip karakolluk olur.",
+        "Melek Baykal’ın canlandırdığı efsanevi komedi karakteri."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Sultan",
+        "Ferhat",
+        "Yunus",
+        "Melek Baykal",
+        "Çekirdek"
+      ]
+    },
+    {
+      "id": "ferhat-cennet",
+      "name": "Ferhat",
+      "seriesId": "cennet-mahallesi",
+      "draft": true,
+      "clues": [
+        "Mahallenin yakışıklı klarnetçisi, Sultan’a sırılsıklam aşık olan delikanlı.",
+        "Müstakbel kayınvalidesi Pembe yüzünden bir türlü vuslata eremez.",
+        "Alişan’ın hayat verdiği karakter."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Klarnet",
+        "Sultan",
+        "Pembe",
+        "Alişan",
+        "Düğün"
+      ]
+    },
+    {
+      "id": "sultan-cennet",
+      "name": "Sultan",
+      "seriesId": "cennet-mahallesi",
+      "draft": true,
+      "clues": [
+        "Mahallenin en güzel dansöz kızı, annesinin tüm zengin kısmetlerini reddedip klarnetçiye sadık kalır.",
+        "Çağla Şıkel’in canlandırdığı başrol."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Dansöz",
+        "Ferhat",
+        "Pembe",
+        "Çağla Şıkel",
+        "Aşk"
+      ]
+    },
+    {
+      "id": "beter-ali",
+      "name": "Beter Ali",
+      "seriesId": "cennet-mahallesi",
+      "draft": true,
+      "clues": [
+        "Mahallede girmediği kılık, yapmadığı üçkağıt kalmayan sevimli sahtekar.",
+        "Özkan Uğur’un muhteşem oyunculuğuyla hafızalara kazınan dahi tipleme."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Özkan Uğur",
+        "Kılık",
+        "Pembe",
+        "Sahtekar",
+        "Komik"
+      ]
+    },
+    {
+      "id": "yunus-cennet",
+      "name": "Yunus",
+      "seriesId": "cennet-mahallesi",
+      "draft": true,
+      "clues": [
+        "Ferhat’ın babası, keman çalan ve Pembe ile gençlikten beri bitmeyen bir aşk-nefret ilişkisi yaşayan adam.",
+        "Müjdat Gezen’in canlandırdığı usta müzisyen."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Keman",
+        "Pembe",
+        "Müjdat Gezen",
+        "Ferhat",
+        "Müzik"
+      ]
+    },
+    {
+      "id": "orcun-yalan-dunya",
+      "name": "Orçun",
+      "seriesId": "yalan-dunya",
+      "draft": true,
+      "clues": [
+        "Sürekli salondaki koltukta yatan, depresif gotik ergen.",
+        "\"Öpüşelim mi?\" ve \"Ben aslında yoğum\" replikleriyle internet tarihine geçti.",
+        "Bartu Küçükçağlayan’ın canlandırdığı fenomen karakter."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Öpüşelim mi",
+        "Gotik",
+        "Koltuk",
+        "Bartu Küçükçağlayan",
+        "Cihangir"
+      ]
+    },
+    {
+      "id": "vasfiye-teyze",
+      "name": "Vasfiye Teyze",
+      "seriesId": "yalan-dunya",
+      "draft": true,
+      "clues": [
+        "Gördüğü herkese acıyarak bakan ve geçmişteki travmalarını yüzüne vuran yaşlı kadın.",
+        "\"Ne çektin be!\" repliği dillere pelesenk olmuştur.",
+        "Binnur Kaya’nın devleştiği karakter."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Ne çektin be",
+        "Binnur Kaya",
+        "Teyze",
+        "Acıma",
+        "Replik"
+      ]
+    },
+    {
+      "id": "selahattin-cakaler",
+      "name": "Selahattin Çakaler",
+      "seriesId": "yalan-dunya",
+      "draft": true,
+      "clues": [
+        "Gündüzleri karısından korkan ev erkeği, geceleri pavyonların gözdesi olan çapkın adam.",
+        "Olgun Şimşek’in canlandırdığı ikiz kardeşlerden biri."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Pavyon",
+        "Olgun Şimşek",
+        "Tülay",
+        "Çapkın",
+        "İkiz"
+      ]
+    },
+    {
+      "id": "efe-kaygisiz",
+      "name": "Efe Kaygısız",
+      "seriesId": "kavak-yelleri",
+      "draft": true,
+      "clues": [
+        "Urla’dan İstanbul’a dört gencin dostluğunu anlatan dizinin en deli dolu genci.",
+        "Motor tutkusu, esprileri ve vefatıyla tüm Türkiye’yi gözyaşına boğan karakter.",
+        "Dağhan Külegeç’in hayat verdiği gençlik kahramanı."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Urla",
+        "Motor",
+        "Dağhan Külegeç",
+        "Aslı",
+        "Gençlik"
+      ]
+    },
+    {
+      "id": "asli-zeybek",
+      "name": "Aslı Zeybek",
+      "seriesId": "kavak-yelleri",
+      "draft": true,
+      "clues": [
+        "Tıp fakültesini kazanmak için büyük mücadeleler veren azimli ve duygusal genç kız.",
+        "Pelin Karahan’ın canlandırdığı başrol."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Pelin Karahan",
+        "Efe",
+        "Deniz",
+        "Urla",
+        "Doktor"
+      ]
+    },
+    {
+      "id": "kerem-sayer",
+      "name": "Kerem Sayer",
+      "seriesId": "gunesi-beklerken",
+      "draft": true,
+      "clues": [
+        "Özel kolejin kurucusunun asi, şımarık ve kimseyi umursamayan lider öğrencisi.",
+        "\"O kızı oradan alacaksın!\" repliği ve kırmızı deri ceketiyle patlamıştır.",
+        "Kerem Bürsin’i yıldız yapan başrol."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Kerem Bürsin",
+        "Kolej",
+        "Zeynep",
+        "Kırmızı Ceket",
+        "Okul"
+      ]
+    },
+    {
+      "id": "memoli-komiser",
+      "name": "Memoli (Mehmet Ali)",
+      "seriesId": "yilan-hikayesi",
+      "draft": true,
+      "clues": [
+        "Jöleli saçları ve efsane ıslığıyla İstanbul sokaklarında suçluların kabusu olan komiser.",
+        "Köyden gelen masum köylü kızını koruması altına almıştır.",
+        "Mehmet Ali Alabora’nın canlandırdığı başkomiser."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": true,
+        "cete": false
+      },
+      "taboo": [
+        "Zeyno",
+        "Komiser",
+        "Jöle",
+        "Kürşat",
+        "Mehmet Ali Alabora"
+      ]
+    },
+    {
+      "id": "zeyno-yilan-hikayesi",
+      "name": "Köylü Kızı Zeyno",
+      "seriesId": "yilan-hikayesi",
+      "draft": true,
+      "clues": [
+        "Köyünden kanlısını bulmak için İstanbul’a gelen saf ve inatçı kız.",
+        "Meltem Cumbul’un canlandırdığı unutulmaz karakter."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Memoli",
+        "Meltem Cumbul",
+        "Köy",
+        "İstanbul",
+        "Kanlı"
+      ]
+    },
+    {
+      "id": "heredot-cevdet",
+      "name": "Heredot Cevdet",
+      "seriesId": "ekmek-teknesi",
+      "draft": true,
+      "clues": [
+        "Kahvehanede masanın üstüne çıkıp \"Açın kapıları!\" diye tarihi hikayeler anlatan adam.",
+        "Hasan Kaçan’ın devleştiği efsanevi meddah karakteri."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Açın Kapıları",
+        "Kahvehane",
+        "Hasan Kaçan",
+        "Hikaye",
+        "Tarih"
+      ]
+    },
+    {
+      "id": "suat-coban",
+      "name": "Suat Çoban",
+      "seriesId": "arka-sokaklar",
+      "draft": true,
+      "clues": [
+        "Hüsnü Komiser’in dertli, fedakar ve beş çocuklu cefakar eşi.",
+        "Diziden ayrılışı Türkiye genelinde yas havası yaratmış ve gıyabi cenaze namazı kılınmıştır.",
+        "Figen Evren’in canlandırdığı efsane anne."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Hüsnü",
+        "Çoban",
+        "Metin",
+        "Tekin",
+        "Anne"
+      ]
+    },
+    {
+      "id": "tekin-coban",
+      "name": "Tekin Çoban",
+      "seriesId": "arka-sokaklar",
+      "draft": true,
+      "clues": [
+        "Hüsnü Komiser’in tiyatrocu olmaya çalışan yaramaz ve fırlama oğlu.",
+        "Kardeşi Metin’le birlikte açtığı dertlerle babasını çıldırtır."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": false,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Hüsnü",
+        "Metin",
+        "Suat",
+        "Tiyatro",
+        "Çoban"
+      ]
+    },
+    {
+      "id": "kralice-sion",
+      "name": "Kraliçe Sion",
+      "seriesId": "prens",
+      "draft": true,
+      "clues": [
+        "Bongomya Krallığı’nın entrikacı, soğukkanlı ve kocasını hiç sevmeyen kraliçesi.",
+        "Ceyda Düvenci / Derya Pınar Ak’ın rol aldığı asil karakter."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Bongomya",
+        "Kral",
+        "Prens",
+        "Kraliçe",
+        "Saray"
+      ]
+    },
+    {
+      "id": "kalesh-prens",
+      "name": "Kalesh",
+      "seriesId": "prens",
+      "draft": true,
+      "clues": [
+        "Prens’in amcası olan, tahtı ele geçirmek için her türlü sinsi planı yapan krallık yetkilisi.",
+        "Serdar Orçin’in oynadığı sinsi karakter."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": true,
+        "kanun": false,
+        "cete": false
+      },
+      "taboo": [
+        "Taht",
+        "Amca",
+        "Bongomya",
+        "Prens",
+        "Serdar Orçin"
       ]
     }
   ],
