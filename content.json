@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "series": [
     {
       "id": "ezel",
@@ -21782,10 +21782,11 @@
       "seriesId": "olumlu-dunya",
       "draft": true,
       "clues": [
-        "Gündüzleri Anadolu Tat Lokantası'nda aşçılık yapan, geceleri ise gizli bir suikast örgütüne çalışan ailenin ortanca oğluydu.",
-        "Örgüte karşı hata yapınca tüm ailesini toplayıp kaçış planı hazırlamak zorunda kaldı.",
-        "Ailenin en mantıklı ve operasyonel kararlarını alan soğukkanlı tetikçisiydi.",
-        "Doğu Demirkol'un oynadığı, ailesinin saçmalıkları arasında hayatta kalmaya çalışan aşçı."
+        "Mermer ailesinin büyük oğludur; gündüzleri lokantada aşçılık yapar.",
+        "Gözü kara bir tetikçidir ancak aşık olduğu kadına kimliğini belli etmemeye çalışırken aileyi deşifre eder.",
+        "Begüm'e olan aşkı yüzünden gizli suç örgütü ailenin peşine düşer.",
+        "Ailesiyle birlikte sahte pasaportlarla yurt dışına kaçış planı yapar.",
+        "Sarp Apak'ın canlandırdığı, Ölümlü Dünya filminin romantik ve eli silahlı başrolüdür."
       ],
       "attrs": {
         "kadin": false,
@@ -21794,13 +21795,13 @@
         "kanun": false,
         "cete": true
       },
-      "check": "Mermer ailesinin mantıklı suikastçı oğlu",
+      "check": "Ölümlü Dünya'da Sarp Apak'ın oynadığı aşçı tetikçi Serhan",
       "taboo": [
-        "Doğu Demirkol",
         "Serhan",
-        "Mermer",
-        "Lokanta",
-        "Ölümlü Dünya"
+        "Sarp Apak",
+        "Ölümlü Dünya",
+        "Begüm",
+        "Mermer"
       ]
     },
     {
@@ -21809,9 +21810,11 @@
       "seriesId": "olumlu-dunya",
       "draft": true,
       "clues": [
-        "Ailenin saf, heyecanlı ve durmadan soru soran küçük oğluydu.",
-        "Operasyon sırasında telsizden sürekli saçma teoriler üreterek abilerini çıldırttı.",
-        "Feyyaz Yiğit'in hayat verdiği, replikleriyle filmi kült haline getiren komik tetikçi."
+        "Mermer ailesinin en küçük oğludur; babasının ve abilerinin emirlerinden bıkmıştır.",
+        "Kaçış operasyonu boyunca sürekli araba kullanır ve ailenin saçma muhabbetlerine isyan eder.",
+        "Ağabeyleri ve babası çatışırken arkada araba sürmekten şikayet eden komik tetikçidir.",
+        "Ailesinin gizli suikastçı olduğunu sonradan tam anlamıyla kavramaya çalışan saf delikanlıdır.",
+        "Doğu Demirkol'un kendine has mizahıyla oynadığı Ölümlü Dünya karakteridir."
       ],
       "attrs": {
         "kadin": false,
@@ -21820,24 +21823,26 @@
         "kanun": false,
         "cete": true
       },
-      "check": "Mermer ailesinin komik ve geveze oğlu",
+      "check": "Ölümlü Dünya'da Doğu Demirkol'un oynadığı Zafer",
       "taboo": [
-        "Feyyaz Yiğit",
         "Zafer",
-        "Mermer",
-        "Ölümlü",
-        "Dünya"
+        "Doğu Demirkol",
+        "Ölümlü Dünya",
+        "Araba",
+        "Mermer"
       ]
     },
     {
-      "id": "servet-abi-mermer",
-      "name": "Servet Mermer",
+      "id": "gazanfer-mermer",
+      "name": "Gazanfer Mermer",
       "seriesId": "olumlu-dunya",
       "draft": true,
       "clues": [
-        "Mermer ailesinin babası ve yer altı örgütüne yıllardır hizmet eden şefiydi.",
-        "Lokantada kuru fasulye yaparken arka odada suikast silahlarını temizlerdi.",
-        "Ahmet Mümtaz Taylan'ın canlandırdığı, çocuklarını hayatta tutmaya çalışan otoriter baba."
+        "Anadolu Tat Lokantası'nın sahibi ve nesillerdir yer altı suç örgütüne hizmet eden Mermer ailesinin reisidir.",
+        "Lokantada kuru fasulye pişirirken gizli bölmede suikast silahlarını temizleyen babacan şeftir.",
+        "Çocuklarının laubaliliklerine kızıp 'Susun ulan, kafanızı kırarım!' diye bağıran otoriter babadır.",
+        "Ailesi deşifre olunca tüm çocuklarını toplayıp minibüsle kaçış operasyonunu yönetir.",
+        "Ahmet Mümtaz Taylan'ın devleştiği, Ölümlü Dünya'nın reisi Gazanfer Baba'dır."
       ],
       "attrs": {
         "kadin": false,
@@ -21846,38 +21851,41 @@
         "kanun": false,
         "cete": true
       },
-      "check": "Mermer ailesinin reis babası",
+      "check": "Ölümlü Dünya'da Ahmet Mümtaz Taylan'ın oynadığı Gazanfer Baba",
       "taboo": [
+        "Gazanfer",
         "Ahmet Mümtaz Taylan",
-        "Servet",
-        "Baba",
+        "Ölümlü Dünya",
         "Lokanta",
         "Mermer"
       ]
     },
     {
-      "id": "ilhami-mermer",
+      "id": "ilhami-olumlu-dunya",
       "name": "İlhami",
       "seriesId": "olumlu-dunya",
       "draft": true,
       "clues": [
-        "Örgüt tarafından aileye yancı olarak verilen ve durmadan aç olduğunu söyleyen tetikçiydi.",
-        "Sarp Apak'ın canlandırdığı, çatışmanın ortasında bile tost veya poğaça isteyen komik adam."
+        "Mermer ailesinin bağlı olduğu gizli, uluslararası suç örgütünün Türkiye'deki soğukkanlı yöneticisidir.",
+        "Takım elbisesi, sakin konuşması ve acımasız emirleriyle tanınan örgüt amiridir.",
+        "Mermer ailesi hata yapıp deşifre olunca peşlerine profesyonel tetikçilerini salar.",
+        "Mehmet Özgür'ün oynadığı, telefonda emir verirken bile buz gibi tavrını bozmayan örgüt müfettişidir.",
+        "Ölümlü Dünya serisinde ailenin kaçmak için canını dişine taktığı baş düşmandır."
       ],
       "attrs": {
         "kadin": false,
         "basrol": false,
-        "kotu": false,
+        "kotu": true,
         "kanun": false,
         "cete": true
       },
-      "check": "Sürekli acıkan komik tetikçi",
+      "check": "Ölümlü Dünya'da örgüt amiri İlhami",
       "taboo": [
-        "Sarp Apak",
         "İlhami",
-        "Yemek",
-        "Tetikçi",
-        "Ölümlü Dünya"
+        "Mehmet Özgür",
+        "Ölümlü Dünya",
+        "Örgüt",
+        "Amir"
       ]
     },
     {
@@ -28384,6 +28392,90 @@
         "Çinli",
         "Ahtapot"
       ]
+    },
+    {
+      "id": "serbest-mermer",
+      "name": "Serbest Mermer",
+      "seriesId": "olumlu-dunya",
+      "draft": true,
+      "clues": [
+        "Mermer ailesinin en nev-i şahsına münhasır, absürt ve felsefi teoriler üreten üyesidir.",
+        "Çatışmanın ortasında veya kaçış minibüsünde herkesi çıldırtan alakasız sorular sorar.",
+        "Lokantada müşterilere limon sıkma tekniği ve limon teorisi sahnesiyle filmin en büyük kahkahasını attırmıştır.",
+        "'Biz kimiz abi? Biz niye böyleyiz?' diyerek hayatı sorgulayan sempatik tetikçidir.",
+        "Feyyaz Yiğit'in senaryosunu da yazıp oynadığı Ölümlü Dünya fenomenidir."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "check": "Ölümlü Dünya'da Feyyaz Yiğit'in oynadığı Serbest",
+      "taboo": [
+        "Serbest",
+        "Feyyaz Yiğit",
+        "Ölümlü Dünya",
+        "Limon",
+        "Mermer"
+      ]
+    },
+    {
+      "id": "oktay-mermer",
+      "name": "Oktay Mermer",
+      "seriesId": "olumlu-dunya",
+      "draft": true,
+      "clues": [
+        "Mermer ailesinin en panik, en telaşlı ve her operasyonda eli ayağına dolaşan üyesidir.",
+        "Alper Kul'un canlandırdığı, çatışma anlarında garip planlar üretip ortalığı karıştıran karakterdir.",
+        "Eşi Sevil ile birlikte ailenin operasyonlarında yer alır, stres anında aşırı tepkiler verir.",
+        "Ölümlü Dünya serisinde kaçış sırasında en çok bağıran ve panikleyen aile büyüğüdür.",
+        "Mermer ailesinin lokantasında ve çatışmalarda ailenin sağ koludur."
+      ],
+      "attrs": {
+        "kadin": false,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": true
+      },
+      "check": "Ölümlü Dünya'da Alper Kul'un oynadığı Oktay",
+      "taboo": [
+        "Oktay",
+        "Alper Kul",
+        "Ölümlü Dünya",
+        "Panik",
+        "Mermer"
+      ]
+    },
+    {
+      "id": "begum-olumlu-dunya",
+      "name": "Begüm",
+      "seriesId": "olumlu-dunya",
+      "draft": true,
+      "clues": [
+        "Normal bir hayat yaşarken aşık olduğu erkeğin ailesi tarafından aniden kaçırılan masum bir kadındır.",
+        "Sevgilisinin aşçı olduğunu sanırken aslında profesyonel bir suikastçı ailesine mensup olduğunu dehşetle öğrenir.",
+        "İrem Sak'ın oynadığı, Mermer ailesinin minibüsünde ağzı bağlı rehin tutulan gelin adayıdır.",
+        "Ölümlü Dünya filminde Serhan'ın aşık olduğu ve ailenin hayatını tehlikeye atan kadındır.",
+        "Kaçış boyunca ailenin garipliklerine şahit olup akıl sağlığını korumaya çalışır."
+      ],
+      "attrs": {
+        "kadin": true,
+        "basrol": true,
+        "kotu": false,
+        "kanun": false,
+        "cete": false
+      },
+      "check": "Ölümlü Dünya'da İrem Sak'ın oynadığı Begüm",
+      "taboo": [
+        "Begüm",
+        "İrem Sak",
+        "Ölümlü Dünya",
+        "Serhan",
+        "Rehine"
+      ]
     }
   ],
   "extras": {
@@ -28772,7 +28864,7 @@
       "sarp-yilmaz",
       "tupcu-fikret",
       "kemal-soydere",
-      "servet-abi-mermer",
+      "gazanfer-mermer",
       "gulfem-hatun",
       "yilmaz-gibi",
       "ofsayt-osman",
@@ -28940,7 +29032,7 @@
       "abdulhey-coban",
       "volkan-sutcuoglu",
       "behlul-haznedar",
-      "servet-abi-mermer",
+      "gazanfer-mermer",
       "suna-sanli",
       "suleyman-cakir",
       "horoz-nuri",
@@ -29748,7 +29840,7 @@
     },
     {
       "id": "s107",
-      "characterId": "servet-abi-mermer",
+      "characterId": "gazanfer-mermer",
       "text": "Bana bak Zafer, sus ulan! Çatışmanın ortasında felsefe yapma kafanı kırarım!",
       "draft": true,
       "source": "Ölümlü Dünya"
